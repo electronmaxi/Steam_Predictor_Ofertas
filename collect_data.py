@@ -169,6 +169,7 @@ def get_active_games_sorted():
 
     if "last_updated" not in df.columns:
         df["last_updated"] = pd.NA
+    df["last_updated"] = df["last_updated"].astype("object")
 
     active = df[df["status"] == "active"].copy()
     # Los que nunca se han actualizado (NaN) quedan primero, luego los más antiguos

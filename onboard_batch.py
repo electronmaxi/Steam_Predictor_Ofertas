@@ -25,6 +25,11 @@ def onboard_next_batch():
     df = pd.read_csv(TRACKED_PATH, dtype={"appid": int})
     if "last_updated" not in df.columns:
         df["last_updated"] = pd.NA
+    # Forzar dtype object en columnas de texto/fecha para evitar errores
+    # al asignar strings sobre columnas que pandas infiere como float64
+    # cuando están vacías (todo NaN)
+    for col in ["date_added", "last_updated"]:
+        df[col] = df[col].astype("object")
     pending = df[df["status"] == "pending"].head(BATCH_SIZE)
 
     if pending.empty:
