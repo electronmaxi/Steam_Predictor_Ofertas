@@ -2,7 +2,7 @@ name: Onboard New Games (lotes)
 
 on:
   schedule:
-    - cron: "0 0,4,8,19,23 * * *"   # evita la ventana 12:00-18:00 UTC (horario del daily update)
+    - cron: "0 2,6,10,14,22 * * *"
   workflow_dispatch:
 
 jobs:
