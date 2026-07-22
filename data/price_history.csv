@@ -2098,6 +2098,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 1300,018d937f-0bf1-7367-839d-01516dc14e85,SiN Episodes: Emergence,2026-06-25 18:50:19+00:00,Steam,1.99,9.99,80
 1300,018d937f-0bf1-7367-839d-01516dc14e85,SiN Episodes: Emergence,2026-07-09 17:17:16+00:00,Steam,9.99,9.99,0
 1300,018d937f-0bf1-7367-839d-01516dc14e85,SiN Episodes: Emergence,2026-07-13 17:29:19+00:00,Steam,1.49,9.99,85
+1300,018d937f-0bf1-7367-839d-01516dc14e85,SiN Episodes: Emergence,2026-07-20 17:34:08+00:00,Steam,9.99,9.99,0
 1313,018d937f-29c1-72e7-845e-6d20ec0c07d0,SiN Gold,2018-05-29 22:20:46+00:00,Steam,9.99,9.99,0
 1313,018d937f-29c1-72e7-845e-6d20ec0c07d0,SiN Gold,2018-06-21 18:05:34+00:00,Steam,4.99,9.99,50
 1313,018d937f-29c1-72e7-845e-6d20ec0c07d0,SiN Gold,2018-07-05 19:53:50+00:00,Steam,9.99,9.99,0
@@ -2194,6 +2195,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 1313,018d937f-29c1-72e7-845e-6d20ec0c07d0,SiN Gold,2026-06-25 18:50:19+00:00,Steam,1.99,9.99,80
 1313,018d937f-29c1-72e7-845e-6d20ec0c07d0,SiN Gold,2026-07-09 17:17:16+00:00,Steam,9.99,9.99,0
 1313,018d937f-29c1-72e7-845e-6d20ec0c07d0,SiN Gold,2026-07-13 17:22:24+00:00,Steam,1.49,9.99,85
+1313,018d937f-29c1-72e7-845e-6d20ec0c07d0,SiN Gold,2026-07-20 17:34:08+00:00,Steam,9.99,9.99,0
 1500,018d937f-1c41-725b-bf07-861f5f41aa04,Darwinia,2015-01-01 00:00:00+00:00,Steam,1.29,12.99,90
 1500,018d937f-1c41-725b-bf07-861f5f41aa04,Darwinia,2015-01-02 18:21:16+00:00,Steam,12.99,12.99,0
 1500,018d937f-1c41-725b-bf07-861f5f41aa04,Darwinia,2015-01-03 05:20:37+00:00,Steam,9.99,9.99,0
@@ -4437,6 +4439,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 1900,018d937e-feb1-7156-ab37-43991de952bd,Earth 2160,2026-05-18 17:32:02+00:00,Steam,9.99,9.99,0
 1900,018d937e-feb1-7156-ab37-43991de952bd,Earth 2160,2026-06-25 18:09:41+00:00,Steam,4.99,9.99,50
 1900,018d937e-feb1-7156-ab37-43991de952bd,Earth 2160,2026-07-09 17:17:16+00:00,Steam,9.99,9.99,0
+1900,018d937e-feb1-7156-ab37-43991de952bd,Earth 2160,2026-07-21 17:15:29+00:00,Steam,4.99,9.99,50
 1930,018d937f-286e-7171-ab43-50732cd25399,Two Worlds Epic Edition,2015-01-01 00:00:00+00:00,Steam,2.49,9.99,75
 1930,018d937f-286e-7171-ab43-50732cd25399,Two Worlds Epic Edition,2015-01-02 18:21:16+00:00,Steam,9.99,9.99,0
 1930,018d937f-286e-7171-ab43-50732cd25399,Two Worlds Epic Edition,2015-03-09 17:21:09+00:00,Steam,0.99,9.99,90
@@ -4659,6 +4662,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 1930,018d937f-286e-7171-ab43-50732cd25399,Two Worlds Epic Edition,2026-05-18 17:32:02+00:00,Steam,14.99,14.99,0
 1930,018d937f-286e-7171-ab43-50732cd25399,Two Worlds Epic Edition,2026-06-25 18:14:48+00:00,Steam,4.49,14.99,70
 1930,018d937f-286e-7171-ab43-50732cd25399,Two Worlds Epic Edition,2026-07-09 17:17:16+00:00,Steam,14.99,14.99,0
+1930,018d937f-286e-7171-ab43-50732cd25399,Two Worlds Epic Edition,2026-07-21 17:15:29+00:00,Steam,4.49,14.99,70
 2100,018d937f-00f9-703f-bc2f-32a403c83091,Dark Messiah of Might & Magic,2015-01-01 00:00:00+00:00,Steam,5.99,9.99,40
 2100,018d937f-00f9-703f-bc2f-32a403c83091,Dark Messiah of Might & Magic,2015-01-02 18:21:16+00:00,Steam,9.99,9.99,0
 2100,018d937f-00f9-703f-bc2f-32a403c83091,Dark Messiah of Might & Magic,2015-06-09 17:24:08+00:00,Steam,2.49,9.99,75
@@ -7705,6 +7709,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 2800,018d937f-1d1b-7024-97cf-da5a924e8857,X2: The Threat,2026-06-16 17:17:07+00:00,Steam,4.99,4.99,0
 2800,018d937f-1d1b-7024-97cf-da5a924e8857,X2: The Threat,2026-06-25 18:56:50+00:00,Steam,0.99,4.99,80
 2800,018d937f-1d1b-7024-97cf-da5a924e8857,X2: The Threat,2026-07-09 17:17:11+00:00,Steam,4.99,4.99,0
+2800,018d937f-1d1b-7024-97cf-da5a924e8857,X2: The Threat,2026-07-20 17:19:31+00:00,Steam,0.99,4.99,80
 2810,018d937e-f0a4-725f-ad9f-2b5071eb029c,X3: Reunion,2015-01-01 00:00:00+00:00,Steam,4.99,9.99,50
 2810,018d937e-f0a4-725f-ad9f-2b5071eb029c,X3: Reunion,2015-01-02 18:21:16+00:00,Steam,9.99,9.99,0
 2810,018d937e-f0a4-725f-ad9f-2b5071eb029c,X3: Reunion,2015-03-12 17:24:07+00:00,Steam,3.39,9.99,66
@@ -7863,6 +7868,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 2810,018d937e-f0a4-725f-ad9f-2b5071eb029c,X3: Reunion,2026-06-16 17:17:07+00:00,Steam,9.99,9.99,0
 2810,018d937e-f0a4-725f-ad9f-2b5071eb029c,X3: Reunion,2026-06-25 18:56:50+00:00,Steam,0.99,9.99,90
 2810,018d937e-f0a4-725f-ad9f-2b5071eb029c,X3: Reunion,2026-07-09 17:17:11+00:00,Steam,9.99,9.99,0
+2810,018d937e-f0a4-725f-ad9f-2b5071eb029c,X3: Reunion,2026-07-20 17:27:20+00:00,Steam,0.99,9.99,90
 2820,018d937e-ea2c-7124-b1bb-f9fd858528c9,X3: Terran Conflict,2015-01-01 00:00:00+00:00,Steam,7.99,15.99,50
 2820,018d937e-ea2c-7124-b1bb-f9fd858528c9,X3: Terran Conflict,2015-01-02 18:21:16+00:00,Steam,15.99,15.99,0
 2820,018d937e-ea2c-7124-b1bb-f9fd858528c9,X3: Terran Conflict,2015-03-12 17:24:07+00:00,Steam,5.43,15.99,66
@@ -8018,6 +8024,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 2820,018d937e-ea2c-7124-b1bb-f9fd858528c9,X3: Terran Conflict,2026-06-16 17:17:07+00:00,Steam,15.99,15.99,0
 2820,018d937e-ea2c-7124-b1bb-f9fd858528c9,X3: Terran Conflict,2026-06-25 18:56:50+00:00,Steam,1.59,15.99,90
 2820,018d937e-ea2c-7124-b1bb-f9fd858528c9,X3: Terran Conflict,2026-07-09 17:17:11+00:00,Steam,15.99,15.99,0
+2820,018d937e-ea2c-7124-b1bb-f9fd858528c9,X3: Terran Conflict,2026-07-20 17:19:31+00:00,Steam,1.59,15.99,90
 2840,018d937f-0671-7044-8cb1-1a0d5d08437b,X: Beyond The Frontier,2015-01-01 00:00:00+00:00,Steam,4.99,4.99,0
 2840,018d937f-0671-7044-8cb1-1a0d5d08437b,X: Beyond The Frontier,2015-03-12 17:24:07+00:00,Steam,1.69,4.99,66
 2840,018d937f-0671-7044-8cb1-1a0d5d08437b,X: Beyond The Frontier,2015-03-16 17:03:08+00:00,Steam,4.99,4.99,0
@@ -8174,6 +8181,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 2840,018d937f-0671-7044-8cb1-1a0d5d08437b,X: Beyond The Frontier,2026-06-16 17:17:07+00:00,Steam,4.99,4.99,0
 2840,018d937f-0671-7044-8cb1-1a0d5d08437b,X: Beyond The Frontier,2026-06-25 18:56:50+00:00,Steam,0.99,4.99,80
 2840,018d937f-0671-7044-8cb1-1a0d5d08437b,X: Beyond The Frontier,2026-07-09 17:17:11+00:00,Steam,4.99,4.99,0
+2840,018d937f-0671-7044-8cb1-1a0d5d08437b,X: Beyond The Frontier,2026-07-20 17:19:31+00:00,Steam,0.99,4.99,80
 2850,018d937e-f4c3-71f2-b7be-6eeb7d2d8bd5,XTension,2015-01-01 00:00:00+00:00,Steam,2.49,4.99,50
 2850,018d937e-f4c3-71f2-b7be-6eeb7d2d8bd5,XTension,2015-01-02 18:21:16+00:00,Steam,4.99,4.99,0
 2850,018d937e-f4c3-71f2-b7be-6eeb7d2d8bd5,XTension,2015-03-12 17:24:07+00:00,Steam,1.69,4.99,66
@@ -8329,6 +8337,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 2850,018d937e-f4c3-71f2-b7be-6eeb7d2d8bd5,XTension,2026-06-16 17:17:07+00:00,Steam,4.99,4.99,0
 2850,018d937e-f4c3-71f2-b7be-6eeb7d2d8bd5,XTension,2026-06-25 18:56:50+00:00,Steam,0.99,4.99,80
 2850,018d937e-f4c3-71f2-b7be-6eeb7d2d8bd5,XTension,2026-07-09 17:17:11+00:00,Steam,4.99,4.99,0
+2850,018d937e-f4c3-71f2-b7be-6eeb7d2d8bd5,XTension,2026-07-20 17:19:31+00:00,Steam,0.99,4.99,80
 2870,018d937e-f4d0-7252-ba72-bcafa3ab4d5c,X-Rebirth,2015-01-01 00:00:00+00:00,Steam,24.99,49.99,50
 2870,018d937e-f4d0-7252-ba72-bcafa3ab4d5c,X-Rebirth,2015-01-02 18:21:16+00:00,Steam,49.99,49.99,0
 2870,018d937e-f4d0-7252-ba72-bcafa3ab4d5c,X-Rebirth,2015-03-04 05:21:35+00:00,Steam,39.99,39.99,0
@@ -8499,6 +8508,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 2870,018d937e-f4d0-7252-ba72-bcafa3ab4d5c,X-Rebirth,2026-06-16 17:17:07+00:00,Steam,29.99,29.99,0
 2870,018d937e-f4d0-7252-ba72-bcafa3ab4d5c,X-Rebirth,2026-06-25 18:56:50+00:00,Steam,2.99,29.99,90
 2870,018d937e-f4d0-7252-ba72-bcafa3ab4d5c,X-Rebirth,2026-07-09 17:17:11+00:00,Steam,29.99,29.99,0
+2870,018d937e-f4d0-7252-ba72-bcafa3ab4d5c,X-Rebirth,2026-07-20 17:19:31+00:00,Steam,2.99,29.99,90
 2900,018d937f-0998-7216-a664-200759cfec96,688(I) Hunter/Killer,2015-01-01 00:00:00+00:00,Steam,1.99,9.99,80
 2900,018d937f-0998-7216-a664-200759cfec96,688(I) Hunter/Killer,2015-01-02 18:21:16+00:00,Steam,9.99,9.99,0
 2900,018d937f-0998-7216-a664-200759cfec96,688(I) Hunter/Killer,2015-02-23 18:21:10+00:00,Steam,3.99,19.99,80
@@ -9546,6 +9556,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 3010,018d937f-05c1-72d6-abab-d4ac045d6ba9,Xpand Rally,2026-06-02 17:17:17+00:00,Steam,4.99,4.99,0
 3010,018d937f-05c1-72d6-abab-d4ac045d6ba9,Xpand Rally,2026-06-25 18:34:27+00:00,Steam,0.79,4.99,84
 3010,018d937f-05c1-72d6-abab-d4ac045d6ba9,Xpand Rally,2026-07-09 17:17:11+00:00,Steam,4.99,4.99,0
+3010,018d937f-05c1-72d6-abab-d4ac045d6ba9,Xpand Rally,2026-07-21 17:15:29+00:00,Steam,0.79,4.99,84
 3020,018d937f-0a01-71c4-9e43-2f0b3708c1de,Call of Juarez™,2015-01-01 00:00:00+00:00,Steam,4.99,9.99,50
 3020,018d937f-0a01-71c4-9e43-2f0b3708c1de,Call of Juarez™,2015-01-02 18:21:16+00:00,Steam,9.99,9.99,0
 3020,018d937f-0a01-71c4-9e43-2f0b3708c1de,Call of Juarez™,2015-06-11 18:48:18+00:00,Steam,2.49,9.99,75
@@ -9760,6 +9771,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 3020,018d937f-0a01-71c4-9e43-2f0b3708c1de,Call of Juarez™,2026-06-02 17:17:17+00:00,Steam,9.99,9.99,0
 3020,018d937f-0a01-71c4-9e43-2f0b3708c1de,Call of Juarez™,2026-06-25 18:34:27+00:00,Steam,1.99,9.99,80
 3020,018d937f-0a01-71c4-9e43-2f0b3708c1de,Call of Juarez™,2026-07-09 17:17:11+00:00,Steam,9.99,9.99,0
+3020,018d937f-0a01-71c4-9e43-2f0b3708c1de,Call of Juarez™,2026-07-21 17:15:29+00:00,Steam,1.99,9.99,80
 3050,018d937f-00fe-7207-8432-6d219bcef874,Xpand Rally Xtreme,2015-01-01 00:00:00+00:00,Steam,2.49,4.99,50
 3050,018d937f-00fe-7207-8432-6d219bcef874,Xpand Rally Xtreme,2015-01-02 18:21:16+00:00,Steam,4.99,4.99,0
 3050,018d937f-00fe-7207-8432-6d219bcef874,Xpand Rally Xtreme,2015-06-11 18:48:15+00:00,Steam,1.24,4.99,75
@@ -9958,6 +9970,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 3050,018d937f-00fe-7207-8432-6d219bcef874,Xpand Rally Xtreme,2026-06-02 17:17:17+00:00,Steam,4.99,4.99,0
 3050,018d937f-00fe-7207-8432-6d219bcef874,Xpand Rally Xtreme,2026-06-25 18:34:27+00:00,Steam,0.79,4.99,84
 3050,018d937f-00fe-7207-8432-6d219bcef874,Xpand Rally Xtreme,2026-07-09 17:17:11+00:00,Steam,4.99,4.99,0
+3050,018d937f-00fe-7207-8432-6d219bcef874,Xpand Rally Xtreme,2026-07-21 17:15:29+00:00,Steam,0.79,4.99,84
 3130,018d937f-2b43-72b3-8a32-bf82afcc0474,Men of War Red Tide,2015-01-01 00:00:00+00:00,Steam,2.49,9.99,75
 3130,018d937f-2b43-72b3-8a32-bf82afcc0474,Men of War Red Tide,2015-01-02 18:21:16+00:00,Steam,9.99,9.99,0
 3130,018d937f-2b43-72b3-8a32-bf82afcc0474,Men of War Red Tide,2015-01-13 05:21:13+00:00,Steam,4.99,4.99,0
@@ -10583,6 +10596,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 3260,018d937e-ea4c-73d2-ac68-0c0e8b09a9e1,Safecracker  The Ultimate Puzzle Adventure,2026-06-25 18:39:25+00:00,Steam,0.99,4.99,80
 3260,018d937e-ea4c-73d2-ac68-0c0e8b09a9e1,Safecracker  The Ultimate Puzzle Adventure,2026-07-09 17:17:11+00:00,Steam,4.99,4.99,0
 3260,018d937e-ea4c-73d2-ac68-0c0e8b09a9e1,Safecracker  The Ultimate Puzzle Adventure,2026-07-13 17:22:24+00:00,Steam,0.99,4.99,80
+3260,018d937e-ea4c-73d2-ac68-0c0e8b09a9e1,Safecracker  The Ultimate Puzzle Adventure,2026-07-20 17:34:08+00:00,Steam,4.99,4.99,0
 3270,018d937f-2d83-70ef-a9cc-ba174ee3395b,Painkiller Overdose,2015-01-01 00:00:00+00:00,Steam,1.99,4.99,60
 3270,018d937f-2d83-70ef-a9cc-ba174ee3395b,Painkiller Overdose,2015-01-02 18:21:16+00:00,Steam,4.99,4.99,0
 3270,018d937f-2d83-70ef-a9cc-ba174ee3395b,Painkiller Overdose,2015-01-26 18:03:10+00:00,Steam,0.99,4.99,80
@@ -19146,6 +19160,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 6300,018d937e-f52f-70dd-93e9-5b100ea1c13d,Dreamfall: The Longest Journey,2026-05-25 17:29:04+00:00,Steam,19.99,19.99,0
 6300,018d937e-f52f-70dd-93e9-5b100ea1c13d,Dreamfall: The Longest Journey,2026-06-25 18:20:42+00:00,Steam,5.99,19.99,70
 6300,018d937e-f52f-70dd-93e9-5b100ea1c13d,Dreamfall: The Longest Journey,2026-07-09 17:17:11+00:00,Steam,19.99,19.99,0
+6300,018d937e-f52f-70dd-93e9-5b100ea1c13d,Dreamfall: The Longest Journey,2026-07-20 17:19:31+00:00,Steam,7.99,19.99,60
 6310,018d937e-ff7d-72cb-a737-8c484b13076e,The Longest Journey,2015-01-01 00:00:00+00:00,Steam,7.99,9.99,20
 6310,018d937e-ff7d-72cb-a737-8c484b13076e,The Longest Journey,2015-01-02 18:21:16+00:00,Steam,9.99,9.99,0
 6310,018d937e-ff7d-72cb-a737-8c484b13076e,The Longest Journey,2015-06-11 18:48:20+00:00,Steam,4.99,9.99,50
@@ -19308,6 +19323,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 6310,018d937e-ff7d-72cb-a737-8c484b13076e,The Longest Journey,2026-05-25 17:22:03+00:00,Steam,9.99,9.99,0
 6310,018d937e-ff7d-72cb-a737-8c484b13076e,The Longest Journey,2026-06-25 18:20:42+00:00,Steam,2.99,9.99,70
 6310,018d937e-ff7d-72cb-a737-8c484b13076e,The Longest Journey,2026-07-09 17:17:11+00:00,Steam,9.99,9.99,0
+6310,018d937e-ff7d-72cb-a737-8c484b13076e,The Longest Journey,2026-07-20 17:19:31+00:00,Steam,3.99,9.99,60
 6370,018d937e-f498-7162-b880-06f249df5911,Bloodline Champions,2015-01-01 00:00:00+00:00,Steam,0.0,0.0,0
 6400,018d937e-f538-7387-ae47-ee11cc893e72,Joint Task Force,2015-01-01 00:00:00+00:00,Steam,2.99,9.99,70
 6400,018d937e-f538-7387-ae47-ee11cc893e72,Joint Task Force,2015-01-02 18:21:16+00:00,Steam,9.99,9.99,0
@@ -19955,6 +19971,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 6800,018d937f-25e2-71b0-a622-2f303f32c3f2,Commandos: Behind Enemy Lines,2026-05-18 17:23:42+00:00,Steam,4.99,4.99,0
 6800,018d937f-25e2-71b0-a622-2f303f32c3f2,Commandos: Behind Enemy Lines,2026-06-25 18:09:41+00:00,Steam,2.49,4.99,50
 6800,018d937f-25e2-71b0-a622-2f303f32c3f2,Commandos: Behind Enemy Lines,2026-07-09 17:17:11+00:00,Steam,4.99,4.99,0
+6800,018d937f-25e2-71b0-a622-2f303f32c3f2,Commandos: Behind Enemy Lines,2026-07-20 17:19:31+00:00,Steam,2.49,4.99,50
 6810,018d937f-07f0-7073-a8b2-24a69f55534a,Commandos: Beyond the Call of Duty,2015-01-01 00:00:00+00:00,Steam,0.21,3.99,95
 6810,018d937f-07f0-7073-a8b2-24a69f55534a,Commandos: Beyond the Call of Duty,2015-01-02 18:21:16+00:00,Steam,3.99,3.99,0
 6810,018d937f-07f0-7073-a8b2-24a69f55534a,Commandos: Beyond the Call of Duty,2015-01-26 18:21:11+00:00,Steam,2.59,12.99,80
@@ -20129,6 +20146,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 6810,018d937f-07f0-7073-a8b2-24a69f55534a,Commandos: Beyond the Call of Duty,2026-05-18 17:23:42+00:00,Steam,4.99,4.99,0
 6810,018d937f-07f0-7073-a8b2-24a69f55534a,Commandos: Beyond the Call of Duty,2026-06-25 18:09:41+00:00,Steam,2.49,4.99,50
 6810,018d937f-07f0-7073-a8b2-24a69f55534a,Commandos: Beyond the Call of Duty,2026-07-09 17:17:11+00:00,Steam,4.99,4.99,0
+6810,018d937f-07f0-7073-a8b2-24a69f55534a,Commandos: Beyond the Call of Duty,2026-07-20 17:19:35+00:00,Steam,2.49,4.99,50
 6830,018d937f-1f1a-714f-a7f3-a5e9b2ebacbf,Commandos 2: Men of Courage,2015-01-01 00:00:00+00:00,Steam,0.79,3.99,80
 6830,018d937f-1f1a-714f-a7f3-a5e9b2ebacbf,Commandos 2: Men of Courage,2015-01-02 18:21:16+00:00,Steam,3.99,3.99,0
 6830,018d937f-1f1a-714f-a7f3-a5e9b2ebacbf,Commandos 2: Men of Courage,2015-01-19 18:21:08+00:00,Steam,0.79,3.99,80
@@ -20316,6 +20334,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 6830,018d937f-1f1a-714f-a7f3-a5e9b2ebacbf,Commandos 2: Men of Courage,2026-05-18 17:23:42+00:00,Steam,4.99,4.99,0
 6830,018d937f-1f1a-714f-a7f3-a5e9b2ebacbf,Commandos 2: Men of Courage,2026-06-25 18:09:41+00:00,Steam,2.49,4.99,50
 6830,018d937f-1f1a-714f-a7f3-a5e9b2ebacbf,Commandos 2: Men of Courage,2026-07-09 17:17:11+00:00,Steam,4.99,4.99,0
+6830,018d937f-1f1a-714f-a7f3-a5e9b2ebacbf,Commandos 2: Men of Courage,2026-07-20 17:19:35+00:00,Steam,2.49,4.99,50
 6840,018d937f-011c-733b-a71b-0b09a47aae7e,Commandos 3: Destination Berlin,2015-01-01 00:00:00+00:00,Steam,0.79,3.99,80
 6840,018d937f-011c-733b-a71b-0b09a47aae7e,Commandos 3: Destination Berlin,2015-01-02 18:21:16+00:00,Steam,3.99,3.99,0
 6840,018d937f-011c-733b-a71b-0b09a47aae7e,Commandos 3: Destination Berlin,2015-01-26 18:21:11+00:00,Steam,2.59,12.99,80
@@ -20499,6 +20518,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 6840,018d937f-011c-733b-a71b-0b09a47aae7e,Commandos 3: Destination Berlin,2026-05-18 17:32:00+00:00,Steam,4.99,4.99,0
 6840,018d937f-011c-733b-a71b-0b09a47aae7e,Commandos 3: Destination Berlin,2026-06-25 18:09:41+00:00,Steam,2.49,4.99,50
 6840,018d937f-011c-733b-a71b-0b09a47aae7e,Commandos 3: Destination Berlin,2026-07-09 17:17:11+00:00,Steam,4.99,4.99,0
+6840,018d937f-011c-733b-a71b-0b09a47aae7e,Commandos 3: Destination Berlin,2026-07-20 17:19:35+00:00,Steam,2.49,4.99,50
 6850,018d937f-09f3-70dc-894a-c9919d70e270,Hitman 2 - Silent Assassin,2015-01-01 00:00:00+00:00,Steam,3.49,6.99,50
 6850,018d937f-09f3-70dc-894a-c9919d70e270,Hitman 2 - Silent Assassin,2015-01-02 18:21:16+00:00,Steam,6.99,6.99,0
 6850,018d937f-09f3-70dc-894a-c9919d70e270,Hitman 2 - Silent Assassin,2015-02-05 18:27:03+00:00,Steam,1.39,6.99,80
@@ -20655,6 +20675,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 6850,018d937f-09f3-70dc-894a-c9919d70e270,Hitman 2 - Silent Assassin,2026-06-01 17:31:52+00:00,Steam,8.99,8.99,0
 6850,018d937f-09f3-70dc-894a-c9919d70e270,Hitman 2 - Silent Assassin,2026-06-25 18:33:30+00:00,Steam,0.89,8.99,90
 6850,018d937f-09f3-70dc-894a-c9919d70e270,Hitman 2 - Silent Assassin,2026-07-09 17:17:11+00:00,Steam,8.99,8.99,0
+6850,018d937f-09f3-70dc-894a-c9919d70e270,Hitman 2 - Silent Assassin,2026-07-20 17:19:35+00:00,Steam,0.89,8.99,90
 6860,018d937e-f9c8-727a-ad7b-cb2c440e3e66,Hitman Blood Money,2015-01-01 00:00:00+00:00,Steam,4.49,8.99,50
 6860,018d937e-f9c8-727a-ad7b-cb2c440e3e66,Hitman Blood Money,2015-01-02 18:21:16+00:00,Steam,8.99,8.99,0
 6860,018d937e-f9c8-727a-ad7b-cb2c440e3e66,Hitman Blood Money,2015-02-05 18:03:08+00:00,Steam,1.79,8.99,80
@@ -21296,6 +21317,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 6900,018d937f-29d8-7173-a962-360ecf3d1765,Hitman: Codename 47,2026-06-08 17:33:02+00:00,Steam,7.99,7.99,0
 6900,018d937f-29d8-7173-a962-360ecf3d1765,Hitman: Codename 47,2026-06-25 18:39:25+00:00,Steam,0.79,7.99,90
 6900,018d937f-29d8-7173-a962-360ecf3d1765,Hitman: Codename 47,2026-07-09 17:17:11+00:00,Steam,7.99,7.99,0
+6900,018d937f-29d8-7173-a962-360ecf3d1765,Hitman: Codename 47,2026-07-20 17:19:35+00:00,Steam,0.79,7.99,90
 6910,018d937f-24b7-731c-a789-8307ae059efa,Deus Ex: Game of the Year Edition,2015-01-01 00:00:00+00:00,Steam,3.49,6.99,50
 6910,018d937f-24b7-731c-a789-8307ae059efa,Deus Ex: Game of the Year Edition,2015-01-02 18:21:16+00:00,Steam,6.99,6.99,0
 6910,018d937f-24b7-731c-a789-8307ae059efa,Deus Ex: Game of the Year Edition,2015-02-05 18:27:03+00:00,Steam,1.39,6.99,80
@@ -23234,6 +23256,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 7510,018d937f-0131-7022-884a-ff7425561422,X-Blades,2026-05-18 17:32:02+00:00,Steam,12.99,12.99,0
 7510,018d937f-0131-7022-884a-ff7425561422,X-Blades,2026-06-25 18:09:41+00:00,Steam,6.49,12.99,50
 7510,018d937f-0131-7022-884a-ff7425561422,X-Blades,2026-07-09 17:17:11+00:00,Steam,12.99,12.99,0
+7510,018d937f-0131-7022-884a-ff7425561422,X-Blades,2026-07-21 17:15:29+00:00,Steam,6.49,12.99,50
 7520,018d937e-ffa5-7114-96b1-2b2fd1dcd7cc,Two Worlds II HD,2015-01-01 00:00:00+00:00,Steam,4.99,19.99,75
 7520,018d937e-ffa5-7114-96b1-2b2fd1dcd7cc,Two Worlds II HD,2015-01-02 18:21:16+00:00,Steam,19.99,19.99,0
 7520,018d937e-ffa5-7114-96b1-2b2fd1dcd7cc,Two Worlds II HD,2015-03-09 17:21:09+00:00,Steam,2.99,19.99,85
@@ -23566,6 +23589,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 7600,018d937e-f4d7-7087-b8f9-3e7dc4a28a38,Sid Meiers Railroads!,2026-05-14 17:18:15+00:00,Steam,9.99,9.99,0
 7600,018d937e-f4d7-7087-b8f9-3e7dc4a28a38,Sid Meiers Railroads!,2026-06-25 18:44:54+00:00,Steam,2.49,9.99,75
 7600,018d937e-f4d7-7087-b8f9-3e7dc4a28a38,Sid Meiers Railroads!,2026-07-09 17:17:12+00:00,Steam,9.99,9.99,0
+7600,018d937e-f4d7-7087-b8f9-3e7dc4a28a38,Sid Meiers Railroads!,2026-07-20 17:19:35+00:00,Steam,2.49,9.99,75
 7610,018d937f-3439-7329-b8c1-0098e7717c63,Railroad Tycoon 3,2015-01-01 00:00:00+00:00,Steam,9.99,9.99,0
 7610,018d937f-3439-7329-b8c1-0098e7717c63,Railroad Tycoon 3,2015-06-11 18:48:15+00:00,Steam,4.99,9.99,50
 7610,018d937f-3439-7329-b8c1-0098e7717c63,Railroad Tycoon 3,2015-06-22 17:21:18+00:00,Steam,9.99,9.99,0
@@ -23680,6 +23704,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 7610,018d937f-3439-7329-b8c1-0098e7717c63,Railroad Tycoon 3,2026-06-11 17:17:43+00:00,Steam,9.99,9.99,0
 7610,018d937f-3439-7329-b8c1-0098e7717c63,Railroad Tycoon 3,2026-06-25 18:44:54+00:00,Steam,2.49,9.99,75
 7610,018d937f-3439-7329-b8c1-0098e7717c63,Railroad Tycoon 3,2026-07-09 17:17:12+00:00,Steam,9.99,9.99,0
+7610,018d937f-3439-7329-b8c1-0098e7717c63,Railroad Tycoon 3,2026-07-20 17:19:35+00:00,Steam,2.49,9.99,75
 7620,018d937f-20fd-7367-9c35-9639cb4b6a7d,Railroad Tycoon II Platinum,2015-01-01 00:00:00+00:00,Steam,4.99,4.99,0
 7620,018d937f-20fd-7367-9c35-9639cb4b6a7d,Railroad Tycoon II Platinum,2015-06-11 18:48:15+00:00,Steam,2.49,4.99,50
 7620,018d937f-20fd-7367-9c35-9639cb4b6a7d,Railroad Tycoon II Platinum,2015-06-22 17:21:18+00:00,Steam,4.99,4.99,0
@@ -23795,6 +23820,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 7620,018d937f-20fd-7367-9c35-9639cb4b6a7d,Railroad Tycoon II Platinum,2026-06-11 17:17:43+00:00,Steam,4.99,4.99,0
 7620,018d937f-20fd-7367-9c35-9639cb4b6a7d,Railroad Tycoon II Platinum,2026-06-25 18:44:54+00:00,Steam,1.24,4.99,75
 7620,018d937f-20fd-7367-9c35-9639cb4b6a7d,Railroad Tycoon II Platinum,2026-07-09 17:17:12+00:00,Steam,4.99,4.99,0
+7620,018d937f-20fd-7367-9c35-9639cb4b6a7d,Railroad Tycoon II Platinum,2026-07-20 17:19:35+00:00,Steam,1.24,4.99,75
 7650,018d937e-f075-7232-ad5a-7bf4e271647b,X-COM: Terror From the Deep,2015-01-01 00:00:00+00:00,Steam,1.69,4.99,66
 7650,018d937e-f075-7232-ad5a-7bf4e271647b,X-COM: Terror From the Deep,2015-01-02 18:21:16+00:00,Steam,4.99,4.99,0
 7650,018d937e-f075-7232-ad5a-7bf4e271647b,X-COM: Terror From the Deep,2015-06-11 18:48:19+00:00,Steam,2.49,4.99,50
@@ -29005,6 +29031,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 9730,018d937e-efe9-721e-8d60-ae7710a3fb41,Tycoon City New York,2026-06-25 18:39:17+00:00,Steam,1.99,9.99,80
 9730,018d937e-efe9-721e-8d60-ae7710a3fb41,Tycoon City New York,2026-07-09 17:17:12+00:00,Steam,9.99,9.99,0
 9730,018d937e-efe9-721e-8d60-ae7710a3fb41,Tycoon City New York,2026-07-13 17:22:24+00:00,Steam,1.49,9.99,85
+9730,018d937e-efe9-721e-8d60-ae7710a3fb41,Tycoon City New York,2026-07-20 17:28:00+00:00,Steam,9.99,9.99,0
 9760,018d937f-29ed-7191-a058-ee919516ca42,Act of War High Treason,2015-01-01 00:00:00+00:00,Steam,9.99,9.99,0
 9760,018d937f-29ed-7191-a058-ee919516ca42,Act of War High Treason,2015-06-11 18:48:20+00:00,Steam,4.99,9.99,50
 9760,018d937f-29ed-7191-a058-ee919516ca42,Act of War High Treason,2015-06-22 17:21:18+00:00,Steam,9.99,9.99,0
@@ -29675,6 +29702,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 9960,018d956f-6eaa-7331-bf2d-301e00c00e93,Haunted House™ (2010),2026-06-25 18:39:17+00:00,Steam,1.19,5.99,80
 9960,018d956f-6eaa-7331-bf2d-301e00c00e93,Haunted House™ (2010),2026-07-09 17:17:12+00:00,Steam,5.99,5.99,0
 9960,018d956f-6eaa-7331-bf2d-301e00c00e93,Haunted House™ (2010),2026-07-13 17:22:24+00:00,Steam,0.89,5.99,85
+9960,018d956f-6eaa-7331-bf2d-301e00c00e93,Haunted House™ (2010),2026-07-20 17:28:00+00:00,Steam,5.99,5.99,0
 9970,018d937f-07c1-7070-a40c-8dc95ae86440,Star Raiders,2015-01-01 00:00:00+00:00,Steam,2.49,9.99,75
 9970,018d937f-07c1-7070-a40c-8dc95ae86440,Star Raiders,2015-01-02 18:21:16+00:00,Steam,9.99,9.99,0
 9970,018d937f-07c1-7070-a40c-8dc95ae86440,Star Raiders,2015-03-23 17:42:18+00:00,Steam,2.99,9.99,70
@@ -29800,6 +29828,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 9970,018d937f-07c1-7070-a40c-8dc95ae86440,Star Raiders,2026-06-25 18:09:38+00:00,Steam,1.99,9.99,80
 9970,018d937f-07c1-7070-a40c-8dc95ae86440,Star Raiders,2026-07-09 17:17:12+00:00,Steam,9.99,9.99,0
 9970,018d937f-07c1-7070-a40c-8dc95ae86440,Star Raiders,2026-07-13 17:22:24+00:00,Steam,1.49,9.99,85
+9970,018d937f-07c1-7070-a40c-8dc95ae86440,Star Raiders,2026-07-20 17:34:08+00:00,Steam,9.99,9.99,0
 9980,018d937f-0c13-7256-8768-b5f953776c43,The Undergarden,2015-01-01 00:00:00+00:00,Steam,3.49,6.99,50
 9980,018d937f-0c13-7256-8768-b5f953776c43,The Undergarden,2015-01-02 18:21:16+00:00,Steam,6.99,6.99,0
 9980,018d937f-0c13-7256-8768-b5f953776c43,The Undergarden,2015-04-06 17:27:03+00:00,Steam,3.49,6.99,50
@@ -29969,6 +29998,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 9980,018d937f-0c13-7256-8768-b5f953776c43,The Undergarden,2026-06-25 18:09:38+00:00,Steam,1.39,6.99,80
 9980,018d937f-0c13-7256-8768-b5f953776c43,The Undergarden,2026-07-09 17:17:12+00:00,Steam,6.99,6.99,0
 9980,018d937f-0c13-7256-8768-b5f953776c43,The Undergarden,2026-07-13 17:22:24+00:00,Steam,1.04,6.99,85
+9980,018d937f-0c13-7256-8768-b5f953776c43,The Undergarden,2026-07-20 17:34:08+00:00,Steam,6.99,6.99,0
 10090,018d937f-1ec4-7327-8a2a-99c60e52cd77,Call of Duty: World at War,2015-01-01 00:00:00+00:00,Steam,9.99,19.99,50
 10090,018d937f-1ec4-7327-8a2a-99c60e52cd77,Call of Duty: World at War,2015-01-02 18:21:16+00:00,Steam,19.99,19.99,0
 10090,018d937f-1ec4-7327-8a2a-99c60e52cd77,Call of Duty: World at War,2015-04-30 17:03:08+00:00,Steam,9.99,19.99,50
@@ -32090,6 +32120,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 10460,018d937f-0e0e-721b-9b82-56d061915529,The Club™,2026-04-23 17:21:37+00:00,Steam,3.74,14.99,75
 10460,018d937f-0e0e-721b-9b82-56d061915529,The Club™,2026-05-07 17:20:02+00:00,Steam,14.99,14.99,0
 10460,018d937f-0e0e-721b-9b82-56d061915529,The Club™,2026-06-25 17:58:05+00:00,Steam,3.74,14.99,75
+10460,018d937f-0e0e-721b-9b82-56d061915529,The Club™,2026-07-20 17:19:25+00:00,Steam,14.99,14.99,0
 10500,018d937f-32bb-7350-b5a2-6397d66c8393,Total War: Empire - Definitive Edition,2015-01-01 00:00:00+00:00,Steam,17.49,34.99,50
 10500,018d937f-32bb-7350-b5a2-6397d66c8393,Total War: Empire - Definitive Edition,2015-01-02 18:21:16+00:00,Steam,34.99,34.99,0
 10500,018d937f-32bb-7350-b5a2-6397d66c8393,Total War: Empire - Definitive Edition,2015-03-04 18:27:03+00:00,Steam,17.49,34.99,50
@@ -35388,6 +35419,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 11390,018d937f-295b-73ad-91f4-2c2e1d2228ab,Crash Time 2,2026-06-25 18:09:41+00:00,Steam,0.99,4.99,80
 11390,018d937f-295b-73ad-91f4-2c2e1d2228ab,Crash Time 2,2026-07-09 17:17:12+00:00,Steam,4.99,4.99,0
 11390,018d937f-295b-73ad-91f4-2c2e1d2228ab,Crash Time 2,2026-07-13 17:22:24+00:00,Steam,1.99,4.99,60
+11390,018d937f-295b-73ad-91f4-2c2e1d2228ab,Crash Time 2,2026-07-20 17:34:08+00:00,Steam,4.99,4.99,0
 11450,018d937e-efdc-72f3-8ab3-2dabf769dcfa,Overlord™,2015-01-01 00:00:00+00:00,Steam,2.49,4.99,50
 11450,018d937e-efdc-72f3-8ab3-2dabf769dcfa,Overlord™,2015-01-02 18:21:16+00:00,Steam,4.99,4.99,0
 11450,018d937e-efdc-72f3-8ab3-2dabf769dcfa,Overlord™,2015-02-19 18:42:12+00:00,Steam,1.24,4.99,75
@@ -35756,6 +35788,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 12130,018d937f-2b5f-711c-aad6-b86bf5524f04,Manhunt,2026-05-25 17:21:54+00:00,Steam,3.49,9.99,65
 12130,018d937f-2b5f-711c-aad6-b86bf5524f04,Manhunt,2026-06-08 17:24:25+00:00,Steam,9.99,9.99,0
 12130,018d937f-2b5f-711c-aad6-b86bf5524f04,Manhunt,2026-06-25 18:39:25+00:00,Steam,3.49,9.99,65
+12130,018d937f-2b5f-711c-aad6-b86bf5524f04,Manhunt,2026-07-20 17:19:25+00:00,Steam,9.99,9.99,0
 12140,018d937f-0650-7041-83bd-528b3190f299,Max Payne,2015-01-01 00:00:00+00:00,Steam,2.99,9.99,70
 12140,018d937f-0650-7041-83bd-528b3190f299,Max Payne,2015-01-02 18:21:16+00:00,Steam,9.99,9.99,0
 12140,018d937f-0650-7041-83bd-528b3190f299,Max Payne,2015-02-10 18:27:03+00:00,Steam,2.49,9.99,75
@@ -35913,6 +35946,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 12140,018d937f-0650-7041-83bd-528b3190f299,Max Payne,2026-05-25 17:21:54+00:00,Steam,3.49,9.99,65
 12140,018d937f-0650-7041-83bd-528b3190f299,Max Payne,2026-06-08 17:24:25+00:00,Steam,9.99,9.99,0
 12140,018d937f-0650-7041-83bd-528b3190f299,Max Payne,2026-06-25 18:39:25+00:00,Steam,3.49,9.99,65
+12140,018d937f-0650-7041-83bd-528b3190f299,Max Payne,2026-07-20 17:19:25+00:00,Steam,9.99,9.99,0
 12150,018d937f-26e9-7058-9337-3957883a16b7,Max Payne 2: The Fall of Max Payne,2015-01-01 00:00:00+00:00,Steam,2.99,9.99,70
 12150,018d937f-26e9-7058-9337-3957883a16b7,Max Payne 2: The Fall of Max Payne,2015-01-02 18:21:16+00:00,Steam,9.99,9.99,0
 12150,018d937f-26e9-7058-9337-3957883a16b7,Max Payne 2: The Fall of Max Payne,2015-02-10 18:27:03+00:00,Steam,2.49,9.99,75
@@ -36023,6 +36057,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 12150,018d937f-26e9-7058-9337-3957883a16b7,Max Payne 2: The Fall of Max Payne,2026-05-25 17:21:54+00:00,Steam,2.49,9.99,75
 12150,018d937f-26e9-7058-9337-3957883a16b7,Max Payne 2: The Fall of Max Payne,2026-06-08 17:24:25+00:00,Steam,9.99,9.99,0
 12150,018d937f-26e9-7058-9337-3957883a16b7,Max Payne 2: The Fall of Max Payne,2026-06-25 18:39:25+00:00,Steam,2.49,9.99,75
+12150,018d937f-26e9-7058-9337-3957883a16b7,Max Payne 2: The Fall of Max Payne,2026-07-20 17:19:25+00:00,Steam,9.99,9.99,0
 12200,018d937e-ff09-7073-ad85-039cd1a4448e,Bully: Scholarship Edition,2015-01-01 00:00:00+00:00,Steam,14.99,14.99,0
 12200,018d937e-ff09-7073-ad85-039cd1a4448e,Bully: Scholarship Edition,2015-06-11 18:48:17+00:00,Steam,3.74,14.99,75
 12200,018d937e-ff09-7073-ad85-039cd1a4448e,Bully: Scholarship Edition,2015-06-14 17:30:38+00:00,Steam,2.99,14.99,80
@@ -49570,6 +49605,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 18700,018d937e-f000-7045-b0ea-e5aff59e2e32,And Yet It Moves,2026-06-25 18:14:47+00:00,Steam,0.99,9.99,90
 18700,018d937e-f000-7045-b0ea-e5aff59e2e32,And Yet It Moves,2026-07-09 17:17:14+00:00,Steam,9.99,9.99,0
 18700,018d937e-f000-7045-b0ea-e5aff59e2e32,And Yet It Moves,2026-07-13 17:22:24+00:00,Steam,4.99,9.99,50
+18700,018d937e-f000-7045-b0ea-e5aff59e2e32,And Yet It Moves,2026-07-20 17:28:00+00:00,Steam,9.99,9.99,0
 18820,018d937f-0fab-717d-9e80-ee2f5494787c,Zero Gear,2015-01-01 00:00:00+00:00,Steam,0.99,4.99,80
 18820,018d937f-0fab-717d-9e80-ee2f5494787c,Zero Gear,2015-01-02 18:21:16+00:00,Steam,4.99,4.99,0
 18820,018d937f-0fab-717d-9e80-ee2f5494787c,Zero Gear,2015-11-25 19:02:24+00:00,Steam,0.99,4.99,80
@@ -53945,6 +53981,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 21980,018d937f-1c88-723c-a78b-ac5e6fb54aea,Call of Juarez®: Bound in Blood,2026-06-02 17:17:17+00:00,Steam,9.99,9.99,0
 21980,018d937f-1c88-723c-a78b-ac5e6fb54aea,Call of Juarez®: Bound in Blood,2026-06-25 18:34:27+00:00,Steam,1.99,9.99,80
 21980,018d937f-1c88-723c-a78b-ac5e6fb54aea,Call of Juarez®: Bound in Blood,2026-07-09 17:17:14+00:00,Steam,9.99,9.99,0
+21980,018d937f-1c88-723c-a78b-ac5e6fb54aea,Call of Juarez®: Bound in Blood,2026-07-21 17:15:27+00:00,Steam,1.99,9.99,80
 22000,018d937e-f4ff-70c1-9940-33b270495628,World of Goo,2015-01-01 00:00:00+00:00,Steam,2.49,9.99,75
 22000,018d937e-f4ff-70c1-9940-33b270495628,World of Goo,2015-01-02 18:21:16+00:00,Steam,9.99,9.99,0
 22000,018d937e-f4ff-70c1-9940-33b270495628,World of Goo,2015-06-11 18:48:18+00:00,Steam,2.49,9.99,75
@@ -58116,6 +58153,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 23490,018d937f-1314-7049-bf32-3b7388fcceaf,Tropico 3,2026-06-01 17:31:52+00:00,Steam,9.99,9.99,0
 23490,018d937f-1314-7049-bf32-3b7388fcceaf,Tropico 3,2026-06-25 18:33:31+00:00,Steam,2.99,9.99,70
 23490,018d937f-1314-7049-bf32-3b7388fcceaf,Tropico 3,2026-07-09 17:17:15+00:00,Steam,9.99,9.99,0
+23490,018d937f-1314-7049-bf32-3b7388fcceaf,Tropico 3,2026-07-20 17:27:20+00:00,Steam,2.99,9.99,70
 23500,018d937f-0464-7239-927c-8ec145715e84,Puzzle Quest: Galactrix,2015-01-01 00:00:00+00:00,Steam,9.99,9.99,0
 23500,018d937f-0464-7239-927c-8ec145715e84,Puzzle Quest: Galactrix,2017-10-26 19:15:37+00:00,Steam,4.99,9.99,50
 23500,018d937f-0464-7239-927c-8ec145715e84,Puzzle Quest: Galactrix,2017-11-01 17:16:01+00:00,Steam,9.99,9.99,0
@@ -58640,6 +58678,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 24010,018f9c26-8945-724b-9017-e17b7ce9e48d,Train Simulator Classic 2024,2026-05-25 17:22:03+00:00,Steam,29.99,29.99,0
 24010,018f9c26-8945-724b-9017-e17b7ce9e48d,Train Simulator Classic 2024,2026-06-25 18:20:43+00:00,Steam,5.99,29.99,80
 24010,018f9c26-8945-724b-9017-e17b7ce9e48d,Train Simulator Classic 2024,2026-07-09 17:17:15+00:00,Steam,29.99,29.99,0
+24010,018f9c26-8945-724b-9017-e17b7ce9e48d,Train Simulator Classic 2024,2026-07-20 17:19:25+00:00,Steam,5.99,29.99,80
 24200,018d937f-2b8e-726e-ba39-7672b24e59da,DC Universe Online,2015-01-01 00:00:00+00:00,Steam,0.0,0.0,0
 24240,018d937f-105c-70ab-905f-cbc0d4bcba15,PAYDAY The Heist,2015-01-01 00:00:00+00:00,Steam,3.74,14.99,75
 24240,018d937f-105c-70ab-905f-cbc0d4bcba15,PAYDAY The Heist,2015-01-02 18:21:16+00:00,Steam,14.99,14.99,0
@@ -58944,6 +58983,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 24400,018d937e-f971-7331-bbd6-3c799a554751,King Arthur  The Roleplaying Wargame,2026-04-06 17:26:57+00:00,Steam,9.99,9.99,0
 24400,018d937e-f971-7331-bbd6-3c799a554751,King Arthur  The Roleplaying Wargame,2026-06-25 17:48:58+00:00,Steam,2.49,9.99,75
 24400,018d937e-f971-7331-bbd6-3c799a554751,King Arthur  The Roleplaying Wargame,2026-07-09 17:17:19+00:00,Steam,9.99,9.99,0
+24400,018d937e-f971-7331-bbd6-3c799a554751,King Arthur  The Roleplaying Wargame,2026-07-20 17:19:25+00:00,Steam,2.49,9.99,75
 24410,018d937e-e9bf-7375-aec2-05da879b0700,Crusaders: Thy Kingdom Come,2015-01-01 00:00:00+00:00,Steam,2.49,9.99,75
 24410,018d937e-e9bf-7375-aec2-05da879b0700,Crusaders: Thy Kingdom Come,2015-01-02 18:21:16+00:00,Steam,9.99,9.99,0
 24410,018d937e-e9bf-7375-aec2-05da879b0700,Crusaders: Thy Kingdom Come,2015-06-11 18:48:17+00:00,Steam,2.49,9.99,75
@@ -59310,6 +59350,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 24460,018d937f-00ea-704e-beb8-fc0e99cd7d2e,King Arthur: Fallen Champions,2026-04-06 17:26:57+00:00,Steam,4.99,4.99,0
 24460,018d937f-00ea-704e-beb8-fc0e99cd7d2e,King Arthur: Fallen Champions,2026-06-25 17:48:58+00:00,Steam,2.49,4.99,50
 24460,018d937f-00ea-704e-beb8-fc0e99cd7d2e,King Arthur: Fallen Champions,2026-07-09 17:17:19+00:00,Steam,4.99,4.99,0
+24460,018d937f-00ea-704e-beb8-fc0e99cd7d2e,King Arthur: Fallen Champions,2026-07-20 17:19:25+00:00,Steam,2.49,4.99,50
 24480,018d937f-1378-7292-ac8d-6881b69412c8,King Arthur II: The Role-playing Wargame,2015-01-01 00:00:00+00:00,Steam,2.49,9.99,75
 24480,018d937f-1378-7292-ac8d-6881b69412c8,King Arthur II: The Role-playing Wargame,2015-01-02 18:21:16+00:00,Steam,9.99,9.99,0
 24480,018d937f-1378-7292-ac8d-6881b69412c8,King Arthur II: The Role-playing Wargame,2015-06-11 18:48:20+00:00,Steam,2.49,9.99,75
@@ -59511,6 +59552,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 24480,018d937f-1378-7292-ac8d-6881b69412c8,King Arthur II: The Role-playing Wargame,2026-04-06 17:26:57+00:00,Steam,9.99,9.99,0
 24480,018d937f-1378-7292-ac8d-6881b69412c8,King Arthur II: The Role-playing Wargame,2026-06-25 17:48:58+00:00,Steam,2.49,9.99,75
 24480,018d937f-1378-7292-ac8d-6881b69412c8,King Arthur II: The Role-playing Wargame,2026-07-09 17:17:19+00:00,Steam,9.99,9.99,0
+24480,018d937f-1378-7292-ac8d-6881b69412c8,King Arthur II: The Role-playing Wargame,2026-07-20 17:19:25+00:00,Steam,2.49,9.99,75
 24720,018d937e-f83a-7067-be9f-d124f523f80d,Spore: Galactic Adventures,2015-01-01 00:00:00+00:00,Steam,9.99,19.99,50
 24720,018d937e-f83a-7067-be9f-d124f523f80d,Spore: Galactic Adventures,2015-01-02 18:21:16+00:00,Steam,19.99,19.99,0
 24720,018d937e-f83a-7067-be9f-d124f523f80d,Spore: Galactic Adventures,2015-06-11 18:48:17+00:00,Steam,9.99,19.99,50
@@ -61834,6 +61876,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 25980,018d937e-f9ce-72a4-ac5b-95280904a64f,Majesty 2,2026-05-07 17:20:34+00:00,Steam,9.99,9.99,0
 25980,018d937e-f9ce-72a4-ac5b-95280904a64f,Majesty 2,2026-06-25 17:58:05+00:00,Steam,2.49,9.99,75
 25980,018d937e-f9ce-72a4-ac5b-95280904a64f,Majesty 2,2026-07-09 17:17:15+00:00,Steam,9.99,9.99,0
+25980,018d937e-f9ce-72a4-ac5b-95280904a64f,Majesty 2,2026-07-20 17:19:25+00:00,Steam,2.49,9.99,75
 25990,018d937f-1239-70d3-b49d-b95458d79b7d,Majesty Gold HD,2015-01-01 00:00:00+00:00,Steam,1.99,9.99,80
 25990,018d937f-1239-70d3-b49d-b95458d79b7d,Majesty Gold HD,2015-01-02 18:21:16+00:00,Steam,9.99,9.99,0
 25990,018d937f-1239-70d3-b49d-b95458d79b7d,Majesty Gold HD,2015-01-16 18:03:08+00:00,Steam,2.49,9.99,75
@@ -62038,6 +62081,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 25990,018d937f-1239-70d3-b49d-b95458d79b7d,Majesty Gold HD,2026-05-07 17:20:34+00:00,Steam,9.99,9.99,0
 25990,018d937f-1239-70d3-b49d-b95458d79b7d,Majesty Gold HD,2026-06-25 17:58:05+00:00,Steam,2.49,9.99,75
 25990,018d937f-1239-70d3-b49d-b95458d79b7d,Majesty Gold HD,2026-07-09 17:17:15+00:00,Steam,9.99,9.99,0
+25990,018d937f-1239-70d3-b49d-b95458d79b7d,Majesty Gold HD,2026-07-20 17:19:25+00:00,Steam,2.49,9.99,75
 26000,018d937f-157e-7178-9b15-76557d459155,The MAW,2015-01-01 00:00:00+00:00,Steam,1.99,9.99,80
 26000,018d937f-157e-7178-9b15-76557d459155,The MAW,2015-01-02 18:21:16+00:00,Steam,9.99,9.99,0
 26000,018d937f-157e-7178-9b15-76557d459155,The MAW,2015-06-11 18:48:20+00:00,Steam,3.39,9.99,66
@@ -63600,6 +63644,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 29720,018d937f-15a7-726d-811e-1ac3417b0ecc,Guild Wars,2026-06-05 17:19:08+00:00,Steam,11.99,19.99,40
 29720,018d937f-15a7-726d-811e-1ac3417b0ecc,Guild Wars,2026-06-08 17:33:46+00:00,Steam,19.99,19.99,0
 29720,018d937f-15a7-726d-811e-1ac3417b0ecc,Guild Wars,2026-07-14 17:16:26+00:00,Steam,13.99,19.99,30
+29720,018d937f-15a7-726d-811e-1ac3417b0ecc,Guild Wars,2026-07-21 17:15:28+00:00,Steam,19.99,19.99,0
 29800,018d937f-2417-7217-9a2a-6795639f5902,Caster,2015-01-01 00:00:00+00:00,Steam,4.99,4.99,0
 29800,018d937f-2417-7217-9a2a-6795639f5902,Caster,2015-03-10 05:21:00+00:00,Steam,2.99,2.99,0
 29800,018d937f-2417-7217-9a2a-6795639f5902,Caster,2015-03-23 17:42:18+00:00,Steam,0.14,2.99,95
@@ -64215,6 +64260,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 31810,018d937f-09e8-70eb-ad49-3f199da028c7,Nancy Drew®: Last Train to Blue Moon Canyon,2026-03-26 17:18:10+00:00,Steam,9.99,9.99,0
 31810,018d937f-09e8-70eb-ad49-3f199da028c7,Nancy Drew®: Last Train to Blue Moon Canyon,2026-06-25 17:29:28+00:00,Steam,6.49,9.99,35
 31810,018d937f-09e8-70eb-ad49-3f199da028c7,Nancy Drew®: Last Train to Blue Moon Canyon,2026-07-09 17:17:16+00:00,Steam,9.99,9.99,0
+31810,018d937f-09e8-70eb-ad49-3f199da028c7,Nancy Drew®: Last Train to Blue Moon Canyon,2026-07-20 17:19:25+00:00,Steam,5.99,9.99,40
 31820,018d937e-fd2f-7001-a73b-3fcf4ac4d278,Nancy Drew®: The Haunted Carousel,2015-01-01 00:00:00+00:00,Steam,2.09,6.99,70
 31820,018d937e-fd2f-7001-a73b-3fcf4ac4d278,Nancy Drew®: The Haunted Carousel,2015-01-02 18:21:16+00:00,Steam,6.99,6.99,0
 31820,018d937e-fd2f-7001-a73b-3fcf4ac4d278,Nancy Drew®: The Haunted Carousel,2015-06-12 17:51:33+00:00,Steam,3.49,6.99,50
@@ -69183,6 +69229,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 33100,018d937e-f9a9-72bd-bb71-78e79388dc7c,Alien Shooter,2026-03-19 17:31:51+00:00,Steam,1.24,4.99,75
 33100,018d937e-f9a9-72bd-bb71-78e79388dc7c,Alien Shooter,2026-03-26 17:18:12+00:00,Steam,4.99,4.99,0
 33100,018d937e-f9a9-72bd-bb71-78e79388dc7c,Alien Shooter,2026-07-13 17:22:23+00:00,Steam,1.24,4.99,75
+33100,018d937e-f9a9-72bd-bb71-78e79388dc7c,Alien Shooter,2026-07-20 17:28:00+00:00,Steam,4.99,4.99,0
 33110,018d937e-f010-709c-9351-79ca571c9caf,Alien Shooter Revisited,2015-01-01 00:00:00+00:00,Steam,14.99,14.99,0
 33110,018d937e-f010-709c-9351-79ca571c9caf,Alien Shooter Revisited,2015-12-16 09:24:13+00:00,Steam,4.99,4.99,0
 33110,018d937e-f010-709c-9351-79ca571c9caf,Alien Shooter Revisited,2015-12-16 21:43:25+00:00,Steam,14.99,14.99,0
@@ -69282,6 +69329,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 33110,018d937e-f010-709c-9351-79ca571c9caf,Alien Shooter Revisited,2026-03-19 17:31:51+00:00,Steam,1.24,4.99,75
 33110,018d937e-f010-709c-9351-79ca571c9caf,Alien Shooter Revisited,2026-03-26 17:18:12+00:00,Steam,4.99,4.99,0
 33110,018d937e-f010-709c-9351-79ca571c9caf,Alien Shooter Revisited,2026-07-13 17:22:23+00:00,Steam,1.24,4.99,75
+33110,018d937e-f010-709c-9351-79ca571c9caf,Alien Shooter Revisited,2026-07-20 17:28:00+00:00,Steam,4.99,4.99,0
 33120,018d937f-0c9e-72de-a4cc-a6b4316e02ab,Alien Shooter 2 Reloaded,2015-01-01 00:00:00+00:00,Steam,14.99,14.99,0
 33120,018d937f-0c9e-72de-a4cc-a6b4316e02ab,Alien Shooter 2 Reloaded,2015-12-16 09:43:03+00:00,Steam,4.99,4.99,0
 33120,018d937f-0c9e-72de-a4cc-a6b4316e02ab,Alien Shooter 2 Reloaded,2015-12-16 21:29:48+00:00,Steam,14.99,14.99,0
@@ -69387,6 +69435,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 33120,018d937f-0c9e-72de-a4cc-a6b4316e02ab,Alien Shooter 2 Reloaded,2026-03-19 17:31:51+00:00,Steam,1.24,4.99,75
 33120,018d937f-0c9e-72de-a4cc-a6b4316e02ab,Alien Shooter 2 Reloaded,2026-03-26 17:18:12+00:00,Steam,4.99,4.99,0
 33120,018d937f-0c9e-72de-a4cc-a6b4316e02ab,Alien Shooter 2 Reloaded,2026-07-13 17:22:23+00:00,Steam,1.24,4.99,75
+33120,018d937f-0c9e-72de-a4cc-a6b4316e02ab,Alien Shooter 2 Reloaded,2026-07-20 17:34:08+00:00,Steam,4.99,4.99,0
 33130,018d937f-1254-7182-b35f-32e8dab0f94c,Zombie Shooter,2015-01-01 00:00:00+00:00,Steam,14.99,14.99,0
 33130,018d937f-1254-7182-b35f-32e8dab0f94c,Zombie Shooter,2015-12-16 09:18:41+00:00,Steam,4.99,4.99,0
 33130,018d937f-1254-7182-b35f-32e8dab0f94c,Zombie Shooter,2015-12-17 00:45:01+00:00,Steam,14.99,14.99,0
@@ -69494,6 +69543,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 33130,018d937f-1254-7182-b35f-32e8dab0f94c,Zombie Shooter,2026-03-19 17:31:51+00:00,Steam,1.24,4.99,75
 33130,018d937f-1254-7182-b35f-32e8dab0f94c,Zombie Shooter,2026-03-26 17:18:12+00:00,Steam,4.99,4.99,0
 33130,018d937f-1254-7182-b35f-32e8dab0f94c,Zombie Shooter,2026-07-13 17:22:23+00:00,Steam,1.24,4.99,75
+33130,018d937f-1254-7182-b35f-32e8dab0f94c,Zombie Shooter,2026-07-20 17:34:08+00:00,Steam,4.99,4.99,0
 33180,018d937f-2989-7382-b7dc-7cfd640268fb,Zombie Shooter 2,2015-01-01 00:00:00+00:00,Steam,9.99,9.99,0
 33180,018d937f-2989-7382-b7dc-7cfd640268fb,Zombie Shooter 2,2016-06-23 18:27:34+00:00,Steam,4.99,9.99,50
 33180,018d937f-2989-7382-b7dc-7cfd640268fb,Zombie Shooter 2,2016-07-04 16:25:26+00:00,Steam,9.99,9.99,0
@@ -69596,6 +69646,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 33180,018d937f-2989-7382-b7dc-7cfd640268fb,Zombie Shooter 2,2026-03-19 17:57:47+00:00,Steam,2.49,9.99,75
 33180,018d937f-2989-7382-b7dc-7cfd640268fb,Zombie Shooter 2,2026-03-26 17:18:12+00:00,Steam,9.99,9.99,0
 33180,018d937f-2989-7382-b7dc-7cfd640268fb,Zombie Shooter 2,2026-07-13 17:22:23+00:00,Steam,2.49,9.99,75
+33180,018d937f-2989-7382-b7dc-7cfd640268fb,Zombie Shooter 2,2026-07-20 17:28:00+00:00,Steam,9.99,9.99,0
 33220,018d937f-0e6f-7107-91fb-db2489d0b5c7,Tom Clancy's Splinter Cell Conviction,2015-01-01 00:00:00+00:00,Steam,11.99,19.99,40
 33220,018d937f-0e6f-7107-91fb-db2489d0b5c7,Tom Clancy's Splinter Cell Conviction,2015-01-02 18:21:16+00:00,Steam,19.99,19.99,0
 33220,018d937f-0e6f-7107-91fb-db2489d0b5c7,Tom Clancy's Splinter Cell Conviction,2015-06-11 18:48:18+00:00,Steam,11.99,19.99,40
@@ -73266,6 +73317,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 34010,018d937f-0a31-7242-8fec-424f1cc03161,Alpha Protocol,2026-04-23 17:21:41+00:00,Steam,9.99,19.99,50
 34010,018d937f-0a31-7242-8fec-424f1cc03161,Alpha Protocol,2026-05-07 17:20:02+00:00,Steam,19.99,19.99,0
 34010,018d937f-0a31-7242-8fec-424f1cc03161,Alpha Protocol,2026-06-25 17:58:05+00:00,Steam,9.99,19.99,50
+34010,018d937f-0a31-7242-8fec-424f1cc03161,Alpha Protocol,2026-07-20 17:19:25+00:00,Steam,19.99,19.99,0
 34030,018d937e-f862-7224-a5aa-d90d54b89059,Total War: Napoleon - Definitive Edition,2015-01-01 00:00:00+00:00,Steam,10.19,29.99,66
 34030,018d937e-f862-7224-a5aa-d90d54b89059,Total War: Napoleon - Definitive Edition,2015-01-02 18:21:16+00:00,Steam,29.99,29.99,0
 34030,018d937e-f862-7224-a5aa-d90d54b89059,Total War: Napoleon - Definitive Edition,2015-03-26 17:21:09+00:00,Steam,7.49,29.99,75
@@ -79364,6 +79416,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 38600,018d937f-0c41-705f-b638-1c7849edf5c0,Faerie Solitaire,2026-06-25 18:33:33+00:00,Steam,1.49,14.99,90
 38600,018d937f-0c41-705f-b638-1c7849edf5c0,Faerie Solitaire,2026-07-09 17:17:17+00:00,Steam,14.99,14.99,0
 38600,018d937f-0c41-705f-b638-1c7849edf5c0,Faerie Solitaire,2026-07-13 17:22:24+00:00,Steam,1.49,14.99,90
+38600,018d937f-0c41-705f-b638-1c7849edf5c0,Faerie Solitaire,2026-07-20 17:28:00+00:00,Steam,14.99,14.99,0
 38700,018d937f-22a8-72cc-9ec8-e6819b838349,Toki Tori,2015-01-01 00:00:00+00:00,Steam,0.49,4.99,90
 38700,018d937f-22a8-72cc-9ec8-e6819b838349,Toki Tori,2015-01-02 18:21:16+00:00,Steam,4.99,4.99,0
 38700,018d937f-22a8-72cc-9ec8-e6819b838349,Toki Tori,2015-01-05 18:21:09+00:00,Steam,0.49,4.99,90
@@ -79562,6 +79615,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 38700,018d937f-22a8-72cc-9ec8-e6819b838349,Toki Tori,2026-06-04 17:22:16+00:00,Steam,4.99,4.99,0
 38700,018d937f-22a8-72cc-9ec8-e6819b838349,Toki Tori,2026-06-25 19:12:13+00:00,Steam,0.79,4.99,84
 38700,018d937f-22a8-72cc-9ec8-e6819b838349,Toki Tori,2026-07-09 17:17:17+00:00,Steam,4.99,4.99,0
+38700,018d937f-22a8-72cc-9ec8-e6819b838349,Toki Tori,2026-07-20 17:19:25+00:00,Steam,0.79,4.99,84
 38720,018d937f-2110-7322-b6a9-058b9ae738e3,RUSH,2015-01-01 00:00:00+00:00,Steam,0.49,4.99,90
 38720,018d937f-2110-7322-b6a9-058b9ae738e3,RUSH,2015-01-02 18:21:16+00:00,Steam,4.99,4.99,0
 38720,018d937f-2110-7322-b6a9-058b9ae738e3,RUSH,2015-01-05 18:21:09+00:00,Steam,0.49,4.99,90
@@ -79750,6 +79804,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 38720,018d937f-2110-7322-b6a9-058b9ae738e3,RUSH,2026-06-04 17:22:16+00:00,Steam,4.99,4.99,0
 38720,018d937f-2110-7322-b6a9-058b9ae738e3,RUSH,2026-06-25 19:12:13+00:00,Steam,0.79,4.99,84
 38720,018d937f-2110-7322-b6a9-058b9ae738e3,RUSH,2026-07-09 17:17:17+00:00,Steam,4.99,4.99,0
+38720,018d937f-2110-7322-b6a9-058b9ae738e3,RUSH,2026-07-20 17:19:25+00:00,Steam,0.79,4.99,84
 38740,018d937f-09e1-71e0-baf5-eb62600f21e4,EDGE,2015-01-01 00:00:00+00:00,Steam,0.79,7.99,90
 38740,018d937f-09e1-71e0-baf5-eb62600f21e4,EDGE,2015-01-02 18:21:16+00:00,Steam,7.99,7.99,0
 38740,018d937f-09e1-71e0-baf5-eb62600f21e4,EDGE,2015-01-05 18:21:09+00:00,Steam,0.79,7.99,90
@@ -79946,6 +80001,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 38740,018d937f-09e1-71e0-baf5-eb62600f21e4,EDGE,2026-06-04 17:22:16+00:00,Steam,6.99,6.99,0
 38740,018d937f-09e1-71e0-baf5-eb62600f21e4,EDGE,2026-06-25 19:12:13+00:00,Steam,0.83,6.99,88
 38740,018d937f-09e1-71e0-baf5-eb62600f21e4,EDGE,2026-07-09 17:17:17+00:00,Steam,6.99,6.99,0
+38740,018d937f-09e1-71e0-baf5-eb62600f21e4,EDGE,2026-07-20 17:27:20+00:00,Steam,0.83,6.99,88
 39000,018d937f-25e5-7028-8902-8048ee05e3d7,Moonbase Alpha,2015-01-01 00:00:00+00:00,Steam,0.0,0.0,0
 39110,018d937f-0a0f-7119-b0e9-6edaa76fe2ec,SEASON OF MYSTERY: The Cherry Blossom Murders,2015-01-01 00:00:00+00:00,Steam,2.49,4.99,50
 39110,018d937f-0a0f-7119-b0e9-6edaa76fe2ec,SEASON OF MYSTERY: The Cherry Blossom Murders,2015-01-02 18:21:16+00:00,Steam,4.99,4.99,0
@@ -84747,6 +84803,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 40400,018d937f-12d5-7136-98e9-8e3f5f4c35fd,AI War: Fleet Command,2026-06-15 17:29:54+00:00,Steam,9.99,9.99,0
 40400,018d937f-12d5-7136-98e9-8e3f5f4c35fd,AI War: Fleet Command,2026-06-25 18:50:34+00:00,Steam,2.49,9.99,75
 40400,018d937f-12d5-7136-98e9-8e3f5f4c35fd,AI War: Fleet Command,2026-07-09 17:17:18+00:00,Steam,9.99,9.99,0
+40400,018d937f-12d5-7136-98e9-8e3f5f4c35fd,AI War: Fleet Command,2026-07-20 17:19:26+00:00,Steam,2.49,9.99,75
 40420,018d937e-ea62-720d-8e0c-e47aa44c4c5d,Tidalis,2015-01-01 00:00:00+00:00,Steam,1.24,4.99,75
 40420,018d937e-ea62-720d-8e0c-e47aa44c4c5d,Tidalis,2015-01-02 18:21:16+00:00,Steam,4.99,4.99,0
 40420,018d937e-ea62-720d-8e0c-e47aa44c4c5d,Tidalis,2015-01-19 18:21:08+00:00,Steam,1.24,4.99,75
@@ -84943,6 +85000,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 40420,018d937e-ea62-720d-8e0c-e47aa44c4c5d,Tidalis,2026-06-15 17:29:54+00:00,Steam,4.99,4.99,0
 40420,018d937e-ea62-720d-8e0c-e47aa44c4c5d,Tidalis,2026-06-25 18:50:34+00:00,Steam,1.24,4.99,75
 40420,018d937e-ea62-720d-8e0c-e47aa44c4c5d,Tidalis,2026-07-09 17:17:18+00:00,Steam,4.99,4.99,0
+40420,018d937e-ea62-720d-8e0c-e47aa44c4c5d,Tidalis,2026-07-20 17:19:26+00:00,Steam,1.24,4.99,75
 40500,018d937f-00de-70b6-b20b-f9dd624b8ff9,Sacraboar,2015-01-01 00:00:00+00:00,Steam,8.99,8.99,0
 40500,018d937f-00de-70b6-b20b-f9dd624b8ff9,Sacraboar,2015-11-25 19:20:04+00:00,Steam,0.89,8.99,90
 40500,018d937f-00de-70b6-b20b-f9dd624b8ff9,Sacraboar,2015-12-01 18:23:56+00:00,Steam,8.99,8.99,0
@@ -85757,6 +85815,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 40950,018d937f-087b-725d-8bac-903737c7a90f,Stronghold HD,2026-06-25 18:44:39+00:00,Steam,1.19,5.99,80
 40950,018d937f-087b-725d-8bac-903737c7a90f,Stronghold HD,2026-07-09 17:17:18+00:00,Steam,5.99,5.99,0
 40950,018d937f-087b-725d-8bac-903737c7a90f,Stronghold HD,2026-07-13 17:22:24+00:00,Steam,1.19,5.99,80
+40950,018d937f-087b-725d-8bac-903737c7a90f,Stronghold HD,2026-07-20 17:34:08+00:00,Steam,5.99,5.99,0
 40960,018d937e-ff30-73f0-a54b-c06be228cabd,Stronghold 2: Steam Edition,2017-10-06 20:45:27+00:00,Steam,12.74,14.99,15
 40960,018d937e-ff30-73f0-a54b-c06be228cabd,Stronghold 2: Steam Edition,2017-10-12 17:15:42+00:00,Steam,14.99,14.99,0
 40960,018d937e-ff30-73f0-a54b-c06be228cabd,Stronghold 2: Steam Edition,2017-10-26 18:15:48+00:00,Steam,12.74,14.99,15
@@ -85931,6 +85990,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 40960,018d937e-ff30-73f0-a54b-c06be228cabd,Stronghold 2: Steam Edition,2026-06-25 18:44:39+00:00,Steam,3.74,14.99,75
 40960,018d937e-ff30-73f0-a54b-c06be228cabd,Stronghold 2: Steam Edition,2026-07-09 17:17:18+00:00,Steam,14.99,14.99,0
 40960,018d937e-ff30-73f0-a54b-c06be228cabd,Stronghold 2: Steam Edition,2026-07-13 17:22:24+00:00,Steam,3.74,14.99,75
+40960,018d937e-ff30-73f0-a54b-c06be228cabd,Stronghold 2: Steam Edition,2026-07-20 17:34:08+00:00,Steam,14.99,14.99,0
 40970,0194b16a-fe62-7399-844d-6085393d8346,Stronghold Crusader HD (2012),2015-01-01 00:00:00+00:00,Steam,4.99,9.99,50
 40970,0194b16a-fe62-7399-844d-6085393d8346,Stronghold Crusader HD (2012),2015-01-02 18:21:16+00:00,Steam,9.99,9.99,0
 40970,0194b16a-fe62-7399-844d-6085393d8346,Stronghold Crusader HD (2012),2015-06-11 18:48:20+00:00,Steam,4.99,9.99,50
@@ -86202,6 +86262,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 40980,018d937e-ff04-73df-b25f-4701567a1888,Stronghold Legends: Steam Edition,2026-06-25 18:44:39+00:00,Steam,3.74,14.99,75
 40980,018d937e-ff04-73df-b25f-4701567a1888,Stronghold Legends: Steam Edition,2026-07-09 17:17:18+00:00,Steam,14.99,14.99,0
 40980,018d937e-ff04-73df-b25f-4701567a1888,Stronghold Legends: Steam Edition,2026-07-13 17:22:24+00:00,Steam,3.74,14.99,75
+40980,018d937e-ff04-73df-b25f-4701567a1888,Stronghold Legends: Steam Edition,2026-07-20 17:28:00+00:00,Steam,14.99,14.99,0
 40990,018d937f-3102-701d-a896-7cbc7f8bbec8,Mafia,2017-11-22 05:45:30+00:00,Steam,14.99,14.99,0
 40990,018d937f-3102-701d-a896-7cbc7f8bbec8,Mafia,2018-03-08 18:53:22+00:00,Steam,10.04,14.99,33
 40990,018d937f-3102-701d-a896-7cbc7f8bbec8,Mafia,2018-03-12 17:51:54+00:00,Steam,14.99,14.99,0
@@ -92953,6 +93014,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 45760,018d937e-effa-732c-848f-5948d6106f81,Ultra Street Fighter IV,2026-06-18 17:18:31+00:00,Steam,29.99,29.99,0
 45760,018d937e-effa-732c-848f-5948d6106f81,Ultra Street Fighter IV,2026-06-25 19:08:12+00:00,Steam,3.89,29.99,87
 45760,018d937e-effa-732c-848f-5948d6106f81,Ultra Street Fighter IV,2026-07-09 17:17:18+00:00,Steam,29.99,29.99,0
+45760,018d937e-effa-732c-848f-5948d6106f81,Ultra Street Fighter IV,2026-07-20 17:19:35+00:00,Steam,3.89,29.99,87
 45770,018d937e-f4da-726b-aff7-4fde33dab7d0,Dead Rising® 2: Off The Record,2015-01-01 00:00:00+00:00,Steam,10.19,29.99,66
 45770,018d937e-f4da-726b-aff7-4fde33dab7d0,Dead Rising® 2: Off The Record,2015-01-02 18:21:16+00:00,Steam,29.99,29.99,0
 45770,018d937e-f4da-726b-aff7-4fde33dab7d0,Dead Rising® 2: Off The Record,2015-03-17 17:27:03+00:00,Steam,6.79,19.99,66
@@ -99389,6 +99451,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 47400,018d937e-fd68-72ed-b71b-1f115a3154eb,Stronghold 3 Gold,2026-06-25 18:39:27+00:00,Steam,2.99,29.99,90
 47400,018d937e-fd68-72ed-b71b-1f115a3154eb,Stronghold 3 Gold,2026-07-09 17:17:19+00:00,Steam,29.99,29.99,0
 47400,018d937e-fd68-72ed-b71b-1f115a3154eb,Stronghold 3 Gold,2026-07-13 17:22:24+00:00,Steam,2.99,29.99,90
+47400,018d937e-fd68-72ed-b71b-1f115a3154eb,Stronghold 3 Gold,2026-07-20 17:28:00+00:00,Steam,29.99,29.99,0
 47410,018d937f-2947-726f-ab1e-7bf1498bb030,Stronghold Kingdoms,2015-01-01 00:00:00+00:00,Steam,0.0,0.0,0
 47700,018d937e-f825-7356-b86b-775ebde601b9,Command & Conquer 4 : Tiberian Twilight,2015-01-01 00:00:00+00:00,Steam,9.99,19.99,50
 47700,018d937e-f825-7356-b86b-775ebde601b9,Command & Conquer 4 : Tiberian Twilight,2015-01-02 18:21:16+00:00,Steam,19.99,19.99,0
@@ -101302,6 +101365,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 48800,018d937f-2e8a-73a2-8626-c2751d929e9d,Ship Simulator Extremes,2026-04-20 17:19:27+00:00,Steam,19.99,19.99,0
 48800,018d937f-2e8a-73a2-8626-c2751d929e9d,Ship Simulator Extremes,2026-06-25 17:50:03+00:00,Steam,4.99,19.99,75
 48800,018d937f-2e8a-73a2-8626-c2751d929e9d,Ship Simulator Extremes,2026-07-09 17:17:19+00:00,Steam,19.99,19.99,0
+48800,018d937f-2e8a-73a2-8626-c2751d929e9d,Ship Simulator Extremes,2026-07-20 17:19:35+00:00,Steam,4.99,19.99,75
 48900,018d937f-2d02-706f-8353-1a061ef8e44a,Saira,2015-01-01 00:00:00+00:00,Steam,0.0,0.0,0
 48950,018d937f-0413-7105-95df-b632d41e3e35,Greed Corp,2015-01-01 00:00:00+00:00,Steam,2.49,9.99,75
 48950,018d937f-0413-7105-95df-b632d41e3e35,Greed Corp,2015-01-02 18:21:16+00:00,Steam,9.99,9.99,0
@@ -101947,6 +102011,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 49600,018d937f-22ac-7384-9821-5624846e916f,Beat Hazard,2026-06-15 17:29:54+00:00,Steam,9.99,9.99,0
 49600,018d937f-22ac-7384-9821-5624846e916f,Beat Hazard,2026-06-25 18:50:35+00:00,Steam,2.49,9.99,75
 49600,018d937f-22ac-7384-9821-5624846e916f,Beat Hazard,2026-07-09 17:17:20+00:00,Steam,9.99,9.99,0
+49600,018d937f-22ac-7384-9821-5624846e916f,Beat Hazard,2026-07-20 17:19:35+00:00,Steam,2.49,9.99,75
 49800,018d937f-1202-72ad-aa5e-0e47196f69a3,Flight of the Icarus,2015-01-01 00:00:00+00:00,Steam,1.24,4.99,75
 49800,018d937f-1202-72ad-aa5e-0e47196f69a3,Flight of the Icarus,2015-01-02 18:21:16+00:00,Steam,4.99,4.99,0
 49800,018d937f-1202-72ad-aa5e-0e47196f69a3,Flight of the Icarus,2015-11-25 19:20:17+00:00,Steam,1.24,4.99,75
@@ -105151,6 +105216,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 57650,018d937f-0eba-73e9-8a43-d4fdc4abfa17,Dungeons,2026-04-27 17:28:18+00:00,Steam,9.99,9.99,0
 57650,018d937f-0eba-73e9-8a43-d4fdc4abfa17,Dungeons,2026-06-25 17:56:51+00:00,Steam,0.99,9.99,90
 57650,018d937f-0eba-73e9-8a43-d4fdc4abfa17,Dungeons,2026-07-09 17:17:20+00:00,Steam,9.99,9.99,0
+57650,018d937f-0eba-73e9-8a43-d4fdc4abfa17,Dungeons,2026-07-20 17:19:35+00:00,Steam,2.49,9.99,75
 57680,018d937f-4f2d-73d2-ad43-05568446392e,The First Templar - Special Edition,2015-01-01 00:00:00+00:00,Steam,4.99,19.99,75
 57680,018d937f-4f2d-73d2-ad43-05568446392e,The First Templar - Special Edition,2015-01-02 18:21:16+00:00,Steam,19.99,19.99,0
 57680,018d937f-4f2d-73d2-ad43-05568446392e,The First Templar - Special Edition,2015-06-11 18:48:16+00:00,Steam,4.99,19.99,75
@@ -105427,6 +105493,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 57690,018d937f-0a7f-7072-948b-050a8756807f,Tropico 4,2026-06-01 17:22:50+00:00,Steam,14.99,14.99,0
 57690,018d937f-0a7f-7072-948b-050a8756807f,Tropico 4,2026-06-25 18:33:35+00:00,Steam,5.99,14.99,60
 57690,018d937f-0a7f-7072-948b-050a8756807f,Tropico 4,2026-07-09 17:17:20+00:00,Steam,14.99,14.99,0
+57690,018d937f-0a7f-7072-948b-050a8756807f,Tropico 4,2026-07-20 17:19:35+00:00,Steam,5.99,14.99,60
 57700,018d937f-0c45-70cf-bb4a-fd6366ac99f3,Whos That Flying?!,2015-01-01 00:00:00+00:00,Steam,1.49,5.99,75
 57700,018d937f-0c45-70cf-bb4a-fd6366ac99f3,Whos That Flying?!,2015-01-02 18:21:16+00:00,Steam,5.99,5.99,0
 57700,018d937f-0c45-70cf-bb4a-fd6366ac99f3,Whos That Flying?!,2015-06-11 18:48:20+00:00,Steam,1.49,5.99,75
@@ -105864,6 +105931,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 57900,018d937e-f050-7366-9d55-484657399ad7,Duke Nukem Forever,2026-06-15 17:29:48+00:00,Steam,19.99,19.99,0
 57900,018d937e-f050-7366-9d55-484657399ad7,Duke Nukem Forever,2026-06-25 18:50:35+00:00,Steam,4.99,19.99,75
 57900,018d937e-f050-7366-9d55-484657399ad7,Duke Nukem Forever,2026-07-09 17:17:20+00:00,Steam,19.99,19.99,0
+57900,018d937e-f050-7366-9d55-484657399ad7,Duke Nukem Forever,2026-07-20 17:19:35+00:00,Steam,4.99,19.99,75
 58200,018d937f-3439-7329-b8c1-0098e66fa650,Jolly Rover,2015-01-01 00:00:00+00:00,Steam,9.99,9.99,0
 58200,018d937f-3439-7329-b8c1-0098e66fa650,Jolly Rover,2017-12-21 18:46:23+00:00,Steam,7.49,9.99,25
 58200,018d937f-3439-7329-b8c1-0098e66fa650,Jolly Rover,2018-01-04 20:45:34+00:00,Steam,9.99,9.99,0
@@ -108256,6 +108324,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 63500,018d937f-1946-7164-bec3-34b1daafce79,Swords & Soldiers HD,2026-06-25 17:57:19+00:00,Steam,1.19,5.99,80
 63500,018d937f-1946-7164-bec3-34b1daafce79,Swords & Soldiers HD,2026-07-09 17:17:20+00:00,Steam,5.99,5.99,0
 63500,018d937f-1946-7164-bec3-34b1daafce79,Swords & Soldiers HD,2026-07-13 17:22:24+00:00,Steam,0.89,5.99,85
+63500,018d937f-1946-7164-bec3-34b1daafce79,Swords & Soldiers HD,2026-07-20 17:28:00+00:00,Steam,5.99,5.99,0
 63610,018e4dbe-20f1-72e7-92bd-6f82e3b137b0,Riven (1997),2015-01-01 00:00:00+00:00,Steam,2.99,5.99,50
 63610,018e4dbe-20f1-72e7-92bd-6f82e3b137b0,Riven (1997),2015-01-02 18:21:16+00:00,Steam,5.99,5.99,0
 63610,018e4dbe-20f1-72e7-92bd-6f82e3b137b0,Riven (1997),2015-06-11 18:48:16+00:00,Steam,2.03,5.99,66
@@ -112452,6 +112521,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 67370,018d937f-09c9-728a-81df-6a614f614b7f,The Darkness II,2026-06-15 17:29:46+00:00,Steam,29.99,29.99,0
 67370,018d937f-09c9-728a-81df-6a614f614b7f,The Darkness II,2026-06-25 18:56:33+00:00,Steam,2.99,29.99,90
 67370,018d937f-09c9-728a-81df-6a614f614b7f,The Darkness II,2026-07-09 17:17:21+00:00,Steam,29.99,29.99,0
+67370,018d937f-09c9-728a-81df-6a614f614b7f,The Darkness II,2026-07-20 17:19:32+00:00,Steam,2.99,29.99,90
 70000,018d937f-105a-7179-a0f6-a3e9e3126b21,Dino D-Day,2015-01-01 00:00:00+00:00,Steam,9.99,9.99,0
 70000,018d937f-105a-7179-a0f6-a3e9e3126b21,Dino D-Day,2015-01-29 18:21:07+00:00,Steam,0.99,9.99,90
 70000,018d937f-105a-7179-a0f6-a3e9e3126b21,Dino D-Day,2015-02-02 18:21:26+00:00,Steam,9.99,9.99,0
@@ -112636,6 +112706,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 70000,018d937f-105a-7179-a0f6-a3e9e3126b21,Dino D-Day,2026-06-01 17:31:52+00:00,Steam,9.99,9.99,0
 70000,018d937f-105a-7179-a0f6-a3e9e3126b21,Dino D-Day,2026-06-25 18:33:35+00:00,Steam,0.99,9.99,90
 70000,018d937f-105a-7179-a0f6-a3e9e3126b21,Dino D-Day,2026-07-09 17:17:21+00:00,Steam,9.99,9.99,0
+70000,018d937f-105a-7179-a0f6-a3e9e3126b21,Dino D-Day,2026-07-20 17:27:20+00:00,Steam,0.99,9.99,90
 70100,018d937f-3321-7287-85a8-485d5b338b7d,Hacker Evolution,2015-01-01 00:00:00+00:00,Steam,1.99,9.99,80
 70100,018d937f-3321-7287-85a8-485d5b338b7d,Hacker Evolution,2015-01-02 18:21:16+00:00,Steam,9.99,9.99,0
 70100,018d937f-3321-7287-85a8-485d5b338b7d,Hacker Evolution,2015-01-05 18:21:09+00:00,Steam,1.99,9.99,80
@@ -115561,6 +115632,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 73020,018d937e-f0ac-72e6-b9f3-cb12ada25843,Majesty 2 Collection,2026-05-07 17:21:09+00:00,Steam,22.46,22.46,0
 73020,018d937e-f0ac-72e6-b9f3-cb12ada25843,Majesty 2 Collection,2026-06-25 17:58:57+00:00,Steam,6.48,16.21,60
 73020,018d937e-f0ac-72e6-b9f3-cb12ada25843,Majesty 2 Collection,2026-07-09 17:18:10+00:00,Steam,16.21,16.21,0
+73020,018d937e-f0ac-72e6-b9f3-cb12ada25843,Majesty 2 Collection,2026-07-20 17:22:08+00:00,Steam,6.48,16.21,60
 73170,018d937f-08c4-727d-aa8f-fb688cc80458,Darkest Hour: A Hearts of Iron Game,2015-01-01 00:00:00+00:00,Steam,1.99,9.99,80
 73170,018d937f-08c4-727d-aa8f-fb688cc80458,Darkest Hour: A Hearts of Iron Game,2015-01-02 18:21:16+00:00,Steam,9.99,9.99,0
 73170,018d937f-08c4-727d-aa8f-fb688cc80458,Darkest Hour: A Hearts of Iron Game,2015-06-11 18:48:20+00:00,Steam,1.99,9.99,80
@@ -117528,6 +117600,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 91600,018d937e-f96e-7180-950f-f9d4ab6c3f07,Sanctum,2026-06-25 18:39:27+00:00,Steam,1.99,9.99,80
 91600,018d937e-f96e-7180-950f-f9d4ab6c3f07,Sanctum,2026-07-09 17:17:21+00:00,Steam,9.99,9.99,0
 91600,018d937e-f96e-7180-950f-f9d4ab6c3f07,Sanctum,2026-07-13 17:22:24+00:00,Steam,1.99,9.99,80
+91600,018d937e-f96e-7180-950f-f9d4ab6c3f07,Sanctum,2026-07-20 17:34:08+00:00,Steam,9.99,9.99,0
 91700,01939826-74c9-7352-9adc-79f40dfa92b2,E.Y.E: Divine Cybermancy,2015-01-01 00:00:00+00:00,Steam,0.99,9.99,90
 91700,01939826-74c9-7352-9adc-79f40dfa92b2,E.Y.E: Divine Cybermancy,2015-01-02 18:21:16+00:00,Steam,9.99,9.99,0
 91700,01939826-74c9-7352-9adc-79f40dfa92b2,E.Y.E: Divine Cybermancy,2015-03-17 17:27:04+00:00,Steam,0.99,9.99,90
@@ -118811,6 +118884,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 94400,018d937f-1d07-7123-be06-7d70027aa6de,Nidhogg,2026-06-25 18:33:36+00:00,Steam,3.49,9.99,65
 94400,018d937f-1d07-7123-be06-7d70027aa6de,Nidhogg,2026-07-09 17:17:21+00:00,Steam,9.99,9.99,0
 94400,018d937f-1d07-7123-be06-7d70027aa6de,Nidhogg,2026-07-13 17:22:24+00:00,Steam,3.49,9.99,65
+94400,018d937f-1d07-7123-be06-7d70027aa6de,Nidhogg,2026-07-20 17:34:08+00:00,Steam,9.99,9.99,0
 94590,018d937f-0c7c-7341-82c7-251c2509385c,Puzzle Agent 2,2015-01-01 00:00:00+00:00,Steam,2.49,9.99,75
 94590,018d937f-0c7c-7341-82c7-251c2509385c,Puzzle Agent 2,2015-01-02 18:21:16+00:00,Steam,9.99,9.99,0
 94590,018d937f-0c7c-7341-82c7-251c2509385c,Puzzle Agent 2,2015-02-10 18:27:03+00:00,Steam,2.49,9.99,75
@@ -119713,6 +119787,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 96000,018d937f-265d-7082-a4d5-d908cdb7b787,The Tiny Bang Story,2026-06-25 18:09:44+00:00,Steam,0.99,4.99,80
 96000,018d937f-265d-7082-a4d5-d908cdb7b787,The Tiny Bang Story,2026-07-09 17:17:22+00:00,Steam,4.99,4.99,0
 96000,018d937f-265d-7082-a4d5-d908cdb7b787,The Tiny Bang Story,2026-07-13 17:22:24+00:00,Steam,0.99,4.99,80
+96000,018d937f-265d-7082-a4d5-d908cdb7b787,The Tiny Bang Story,2026-07-20 17:34:08+00:00,Steam,4.99,4.99,0
 96100,018d937e-f4b3-71e6-83ca-edc074ba9f06,Defy Gravity Extended,2015-01-01 00:00:00+00:00,Steam,0.14,2.99,95
 96100,018d937e-f4b3-71e6-83ca-edc074ba9f06,Defy Gravity Extended,2015-01-02 18:21:16+00:00,Steam,2.99,2.99,0
 96100,018d937e-f4b3-71e6-83ca-edc074ba9f06,Defy Gravity Extended,2015-01-19 18:21:08+00:00,Steam,0.14,2.99,95
@@ -120232,6 +120307,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 96900,018d937f-30a6-70fa-994c-059be5ca7af4,Slam Bolt Scrappers,2026-06-25 18:20:47+00:00,Steam,0.99,4.99,80
 96900,018d937f-30a6-70fa-994c-059be5ca7af4,Slam Bolt Scrappers,2026-07-09 17:17:22+00:00,Steam,4.99,4.99,0
 96900,018d937f-30a6-70fa-994c-059be5ca7af4,Slam Bolt Scrappers,2026-07-10 17:16:41+00:00,Steam,0.99,4.99,80
+96900,018d937f-30a6-70fa-994c-059be5ca7af4,Slam Bolt Scrappers,2026-07-20 17:27:59+00:00,Steam,4.99,4.99,0
 97000,018d937f-311e-70ff-9cb5-f23ca3ec696a,Solar 2,2015-01-01 00:00:00+00:00,Steam,4.99,9.99,50
 97000,018d937f-311e-70ff-9cb5-f23ca3ec696a,Solar 2,2015-01-02 18:21:16+00:00,Steam,9.99,9.99,0
 97000,018d937f-311e-70ff-9cb5-f23ca3ec696a,Solar 2,2015-06-11 18:48:17+00:00,Steam,3.99,9.99,60
@@ -121002,6 +121078,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 98900,018d937f-2e8b-71b6-8952-55a71e07e03d,Alien Hallway,2026-03-19 17:49:05+00:00,Steam,1.24,4.99,75
 98900,018d937f-2e8b-71b6-8952-55a71e07e03d,Alien Hallway,2026-03-26 17:18:20+00:00,Steam,4.99,4.99,0
 98900,018d937f-2e8b-71b6-8952-55a71e07e03d,Alien Hallway,2026-07-13 17:22:23+00:00,Steam,1.24,4.99,75
+98900,018d937f-2e8b-71b6-8952-55a71e07e03d,Alien Hallway,2026-07-20 17:34:08+00:00,Steam,4.99,4.99,0
 99100,018d937f-00d2-73ad-9373-76142439c263,Dungeons & Dragons: Daggerdale,2015-01-01 00:00:00+00:00,Steam,14.99,14.99,0
 99100,018d937f-00d2-73ad-9373-76142439c263,Dungeons & Dragons: Daggerdale,2016-10-28 18:15:31+00:00,Steam,3.74,14.99,75
 99100,018d937f-00d2-73ad-9373-76142439c263,Dungeons & Dragons: Daggerdale,2016-11-01 18:15:54+00:00,Steam,14.99,14.99,0
@@ -121128,6 +121205,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 99120,018d937f-13d2-71ee-9421-56bce3bf91eb,Yars Revenge,2026-06-25 18:39:18+00:00,Steam,1.99,9.99,80
 99120,018d937f-13d2-71ee-9421-56bce3bf91eb,Yars Revenge,2026-07-09 17:17:22+00:00,Steam,9.99,9.99,0
 99120,018d937f-13d2-71ee-9421-56bce3bf91eb,Yars Revenge,2026-07-13 17:22:24+00:00,Steam,1.49,9.99,85
+99120,018d937f-13d2-71ee-9421-56bce3bf91eb,Yars Revenge,2026-07-20 17:34:08+00:00,Steam,9.99,9.99,0
 99300,018d937e-f834-73ac-8bd5-f994b441f770,Renegade Ops,2015-01-01 00:00:00+00:00,Steam,7.5,15.0,50
 99300,018d937e-f834-73ac-8bd5-f994b441f770,Renegade Ops,2015-01-02 18:21:16+00:00,Steam,15.0,15.0,0
 99300,018d937e-f834-73ac-8bd5-f994b441f770,Renegade Ops,2015-01-19 18:21:08+00:00,Steam,3.0,15.0,80
@@ -121266,6 +121344,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 99300,018d937e-f834-73ac-8bd5-f994b441f770,Renegade Ops,2026-04-23 17:21:41+00:00,Steam,3.75,15.0,75
 99300,018d937e-f834-73ac-8bd5-f994b441f770,Renegade Ops,2026-05-07 17:20:02+00:00,Steam,15.0,15.0,0
 99300,018d937e-f834-73ac-8bd5-f994b441f770,Renegade Ops,2026-06-25 17:58:06+00:00,Steam,3.75,15.0,75
+99300,018d937e-f834-73ac-8bd5-f994b441f770,Renegade Ops,2026-07-20 17:19:32+00:00,Steam,15.0,15.0,0
 99400,018d937f-1d2b-7069-bc71-3e05a20d9ecd,Garshasp: The Monster Slayer,2015-01-01 00:00:00+00:00,Steam,1.24,4.99,75
 99400,018d937f-1d2b-7069-bc71-3e05a20d9ecd,Garshasp: The Monster Slayer,2015-01-02 18:21:16+00:00,Steam,4.99,4.99,0
 99400,018d937f-1d2b-7069-bc71-3e05a20d9ecd,Garshasp: The Monster Slayer,2015-06-11 18:48:19+00:00,Steam,1.24,4.99,75
@@ -121366,6 +121445,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 99400,018d937f-1d2b-7069-bc71-3e05a20d9ecd,Garshasp: The Monster Slayer,2026-04-27 17:21:01+00:00,Steam,4.99,4.99,0
 99400,018d937f-1d2b-7069-bc71-3e05a20d9ecd,Garshasp: The Monster Slayer,2026-06-25 17:56:52+00:00,Steam,0.99,4.99,80
 99400,018d937f-1d2b-7069-bc71-3e05a20d9ecd,Garshasp: The Monster Slayer,2026-07-09 17:17:22+00:00,Steam,4.99,4.99,0
+99400,018d937f-1d2b-7069-bc71-3e05a20d9ecd,Garshasp: The Monster Slayer,2026-07-20 17:19:32+00:00,Steam,0.99,4.99,80
 99410,018d937f-2291-729e-b1b7-6e19f8baa132,Garshasp: Temple of the Dragon,2015-01-01 00:00:00+00:00,Steam,1.24,4.99,75
 99410,018d937f-2291-729e-b1b7-6e19f8baa132,Garshasp: Temple of the Dragon,2015-01-02 18:21:16+00:00,Steam,4.99,4.99,0
 99410,018d937f-2291-729e-b1b7-6e19f8baa132,Garshasp: Temple of the Dragon,2015-06-11 18:48:19+00:00,Steam,1.24,4.99,75
@@ -121467,6 +121547,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 99410,018d937f-2291-729e-b1b7-6e19f8baa132,Garshasp: Temple of the Dragon,2026-04-27 17:21:01+00:00,Steam,4.99,4.99,0
 99410,018d937f-2291-729e-b1b7-6e19f8baa132,Garshasp: Temple of the Dragon,2026-06-25 17:56:52+00:00,Steam,0.99,4.99,80
 99410,018d937f-2291-729e-b1b7-6e19f8baa132,Garshasp: Temple of the Dragon,2026-07-09 17:17:22+00:00,Steam,4.99,4.99,0
+99410,018d937f-2291-729e-b1b7-6e19f8baa132,Garshasp: Temple of the Dragon,2026-07-20 17:19:32+00:00,Steam,0.99,4.99,80
 99700,018d937f-13e1-702f-809d-705ba743fecc,NightSky,2015-01-01 00:00:00+00:00,Steam,4.99,9.99,50
 99700,018d937f-13e1-702f-809d-705ba743fecc,NightSky,2015-01-02 18:21:16+00:00,Steam,9.99,9.99,0
 99700,018d937f-13e1-702f-809d-705ba743fecc,NightSky,2015-05-25 18:42:10+00:00,Steam,4.99,9.99,50
@@ -123539,6 +123620,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 107200,018d937f-137a-713f-bfe9-1e921e2c9286,Space Pirates and Zombies,2026-06-25 18:39:27+00:00,Steam,1.99,9.99,80
 107200,018d937f-137a-713f-bfe9-1e921e2c9286,Space Pirates and Zombies,2026-07-09 17:17:22+00:00,Steam,9.99,9.99,0
 107200,018d937f-137a-713f-bfe9-1e921e2c9286,Space Pirates and Zombies,2026-07-13 17:22:24+00:00,Steam,4.99,9.99,50
+107200,018d937f-137a-713f-bfe9-1e921e2c9286,Space Pirates and Zombies,2026-07-20 17:34:08+00:00,Steam,9.99,9.99,0
 107300,018d937f-3416-71a6-85e2-d4303e2d9b88,Breath of Death VII,2015-01-01 00:00:00+00:00,Steam,0.98,2.99,67
 107300,018d937f-3416-71a6-85e2-d4303e2d9b88,Breath of Death VII,2015-01-02 18:21:16+00:00,Steam,2.99,2.99,0
 107300,018d937f-3416-71a6-85e2-d4303e2d9b88,Breath of Death VII,2015-02-09 18:27:03+00:00,Steam,0.47,2.99,84
@@ -124234,6 +124316,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 108110,018d937f-30e0-732d-b6d3-cbb75a97817e,Starpoint Gemini,2026-06-15 17:29:54+00:00,Steam,13.99,13.99,0
 108110,018d937f-30e0-732d-b6d3-cbb75a97817e,Starpoint Gemini,2026-06-25 18:50:35+00:00,Steam,1.39,13.99,90
 108110,018d937f-30e0-732d-b6d3-cbb75a97817e,Starpoint Gemini,2026-07-09 17:17:22+00:00,Steam,13.99,13.99,0
+108110,018d937f-30e0-732d-b6d3-cbb75a97817e,Starpoint Gemini,2026-07-20 17:19:32+00:00,Steam,1.39,13.99,90
 108500,018d937f-2cf2-72d6-9b56-242f14813921,Vessel,2015-01-01 00:00:00+00:00,Steam,5.24,14.99,65
 108500,018d937f-2cf2-72d6-9b56-242f14813921,Vessel,2015-01-02 18:21:16+00:00,Steam,14.99,14.99,0
 108500,018d937f-2cf2-72d6-9b56-242f14813921,Vessel,2015-05-04 17:27:03+00:00,Steam,5.24,14.99,65
@@ -126900,6 +126983,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 115800,018d937f-08b0-7348-88dc-03d88c5413e3,Owlboy,2026-06-25 18:09:45+00:00,Steam,4.99,19.99,75
 115800,018d937f-08b0-7348-88dc-03d88c5413e3,Owlboy,2026-07-09 17:17:22+00:00,Steam,19.99,19.99,0
 115800,018d937f-08b0-7348-88dc-03d88c5413e3,Owlboy,2026-07-13 17:22:25+00:00,Steam,4.99,19.99,75
+115800,018d937f-08b0-7348-88dc-03d88c5413e3,Owlboy,2026-07-20 17:34:08+00:00,Steam,19.99,19.99,0
 116100,018d937f-045e-71ff-97f3-d249730fe7c1,Super Toy Cars,2015-01-01 00:00:00+00:00,Steam,4.99,9.99,50
 116100,018d937f-045e-71ff-97f3-d249730fe7c1,Super Toy Cars,2015-01-02 18:21:16+00:00,Steam,9.99,9.99,0
 116100,018d937f-045e-71ff-97f3-d249730fe7c1,Super Toy Cars,2015-03-09 17:03:08+00:00,Steam,3.99,9.99,60
@@ -128943,6 +129027,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 200550,018d937f-26cf-7243-a8b5-b0b84ac47ea4,Dungeons - The Dark Lord,2026-04-27 17:21:02+00:00,Steam,9.99,9.99,0
 200550,018d937f-26cf-7243-a8b5-b0b84ac47ea4,Dungeons - The Dark Lord,2026-06-25 17:56:52+00:00,Steam,0.99,9.99,90
 200550,018d937f-26cf-7243-a8b5-b0b84ac47ea4,Dungeons - The Dark Lord,2026-07-09 17:17:23+00:00,Steam,9.99,9.99,0
+200550,018d937f-26cf-7243-a8b5-b0b84ac47ea4,Dungeons - The Dark Lord,2026-07-20 17:19:33+00:00,Steam,0.99,9.99,90
 200670,018d937f-1639-7350-9261-6588f249b599,Disciples III: Resurrection,2015-01-01 00:00:00+00:00,Steam,4.99,19.99,75
 200670,018d937f-1639-7350-9261-6588f249b599,Disciples III: Resurrection,2015-01-02 18:21:16+00:00,Steam,19.99,19.99,0
 200670,018d937f-1639-7350-9261-6588f249b599,Disciples III: Resurrection,2015-06-11 18:48:15+00:00,Steam,4.99,19.99,75
@@ -130511,6 +130596,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 201330,018d937f-0650-7041-83bd-528b3190f299,Max Payne,2026-05-25 17:21:54+00:00,Steam,3.49,9.99,65
 201330,018d937f-0650-7041-83bd-528b3190f299,Max Payne,2026-06-08 17:24:25+00:00,Steam,9.99,9.99,0
 201330,018d937f-0650-7041-83bd-528b3190f299,Max Payne,2026-06-25 18:39:25+00:00,Steam,3.49,9.99,65
+201330,018d937f-0650-7041-83bd-528b3190f299,Max Payne,2026-07-20 17:19:25+00:00,Steam,9.99,9.99,0
 201420,018d937f-2950-736f-bf13-1833d3b5e6aa,Toki Tori 2+,2015-01-01 00:00:00+00:00,Steam,14.99,14.99,0
 201420,018d937f-2950-736f-bf13-1833d3b5e6aa,Toki Tori 2+,2015-01-05 18:21:09+00:00,Steam,1.49,14.99,90
 201420,018d937f-2950-736f-bf13-1833d3b5e6aa,Toki Tori 2+,2015-01-12 18:03:09+00:00,Steam,14.99,14.99,0
@@ -130698,6 +130784,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 201420,018d937f-2950-736f-bf13-1833d3b5e6aa,Toki Tori 2+,2026-06-04 17:22:16+00:00,Steam,14.99,14.99,0
 201420,018d937f-2950-736f-bf13-1833d3b5e6aa,Toki Tori 2+,2026-06-25 19:12:13+00:00,Steam,1.04,14.99,93
 201420,018d937f-2950-736f-bf13-1833d3b5e6aa,Toki Tori 2+,2026-07-09 17:17:23+00:00,Steam,14.99,14.99,0
+201420,018d937f-2950-736f-bf13-1833d3b5e6aa,Toki Tori 2+,2026-07-20 17:19:33+00:00,Steam,1.04,14.99,93
 201480,018d937f-24a4-7373-887b-3761a2682782,Serious Sam: The Random Encounter,2015-01-01 00:00:00+00:00,Steam,0.99,4.99,80
 201480,018d937f-24a4-7373-887b-3761a2682782,Serious Sam: The Random Encounter,2015-01-02 18:21:16+00:00,Steam,4.99,4.99,0
 201480,018d937f-24a4-7373-887b-3761a2682782,Serious Sam: The Random Encounter,2015-02-14 18:21:08+00:00,Steam,0.99,4.99,80
@@ -132910,6 +132997,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 202570,018d937f-0650-7041-83bd-528b3190f299,Max Payne,2026-05-25 17:21:54+00:00,Steam,3.49,9.99,65
 202570,018d937f-0650-7041-83bd-528b3190f299,Max Payne,2026-06-08 17:24:25+00:00,Steam,9.99,9.99,0
 202570,018d937f-0650-7041-83bd-528b3190f299,Max Payne,2026-06-25 18:39:25+00:00,Steam,3.49,9.99,65
+202570,018d937f-0650-7041-83bd-528b3190f299,Max Payne,2026-07-20 17:19:25+00:00,Steam,9.99,9.99,0
 202670,018d937f-0887-73b6-a32d-95f5972355f9,Nancy Drew: Alibi in Ashes,2015-01-01 00:00:00+00:00,Steam,2.09,6.99,70
 202670,018d937f-0887-73b6-a32d-95f5972355f9,Nancy Drew: Alibi in Ashes,2015-01-02 18:21:16+00:00,Steam,6.99,6.99,0
 202670,018d937f-0887-73b6-a32d-95f5972355f9,Nancy Drew: Alibi in Ashes,2015-06-12 17:51:33+00:00,Steam,3.49,6.99,50
@@ -135748,6 +135836,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 204100,018d937f-1624-7008-a279-b8bfb6e55610,Max Payne 3,2026-05-25 17:21:54+00:00,Steam,5.99,19.99,70
 204100,018d937f-1624-7008-a279-b8bfb6e55610,Max Payne 3,2026-06-08 17:24:25+00:00,Steam,19.99,19.99,0
 204100,018d937f-1624-7008-a279-b8bfb6e55610,Max Payne 3,2026-06-25 18:39:27+00:00,Steam,5.99,19.99,70
+204100,018d937f-1624-7008-a279-b8bfb6e55610,Max Payne 3,2026-07-20 17:19:33+00:00,Steam,19.99,19.99,0
 204120,018d937f-0c84-73c0-8f80-54032543a169,LEGO Harry Potter: Years 5-7,2015-01-01 00:00:00+00:00,Steam,7.99,19.99,60
 204120,018d937f-0c84-73c0-8f80-54032543a169,LEGO Harry Potter: Years 5-7,2015-01-02 18:21:16+00:00,Steam,19.99,19.99,0
 204120,018d937f-0c84-73c0-8f80-54032543a169,LEGO Harry Potter: Years 5-7,2015-01-29 18:21:07+00:00,Steam,4.99,19.99,75
@@ -136290,6 +136379,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 204300,018d937f-0f89-7236-b7ea-2836ea927a31,Awesomenauts,2026-06-25 18:39:18+00:00,Steam,9.99,19.99,50
 204300,018d937f-0f89-7236-b7ea-2836ea927a31,Awesomenauts,2026-07-09 17:17:24+00:00,Steam,19.99,19.99,0
 204300,018d937f-0f89-7236-b7ea-2836ea927a31,Awesomenauts,2026-07-13 17:22:26+00:00,Steam,9.99,19.99,50
+204300,018d937f-0f89-7236-b7ea-2836ea927a31,Awesomenauts,2026-07-20 17:28:00+00:00,Steam,19.99,19.99,0
 204340,018d937e-f820-7061-8269-8e08abc9a858,Serious Sam 2,2015-01-01 00:00:00+00:00,Steam,1.99,9.99,80
 204340,018d937e-f820-7061-8269-8e08abc9a858,Serious Sam 2,2015-01-02 18:21:16+00:00,Steam,9.99,9.99,0
 204340,018d937e-f820-7061-8269-8e08abc9a858,Serious Sam 2,2015-02-14 18:21:08+00:00,Steam,1.99,9.99,80
@@ -136947,6 +137037,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 204450,018d937f-124c-7160-9762-1144ea75581e,Call of Juarez: Gunslinger,2026-06-02 17:17:17+00:00,Steam,14.99,14.99,0
 204450,018d937f-124c-7160-9762-1144ea75581e,Call of Juarez: Gunslinger,2026-06-25 18:34:27+00:00,Steam,1.49,14.99,90
 204450,018d937f-124c-7160-9762-1144ea75581e,Call of Juarez: Gunslinger,2026-07-09 17:17:24+00:00,Steam,14.99,14.99,0
+204450,018d937f-124c-7160-9762-1144ea75581e,Call of Juarez: Gunslinger,2026-07-21 17:15:27+00:00,Steam,1.49,14.99,90
 204530,018d937f-286e-7171-ab43-50732a381070,Infested Planet,2015-01-01 00:00:00+00:00,Steam,14.99,14.99,0
 204530,018d937f-286e-7171-ab43-50732a381070,Infested Planet,2015-02-23 18:21:10+00:00,Steam,5.99,14.99,60
 204530,018d937f-286e-7171-ab43-50732a381070,Infested Planet,2015-03-02 18:27:07+00:00,Steam,14.99,14.99,0
@@ -137195,6 +137286,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 204530,018d937f-286e-7171-ab43-50732a381070,Infested Planet,2026-06-08 17:33:02+00:00,Steam,14.99,14.99,0
 204530,018d937f-286e-7171-ab43-50732a381070,Infested Planet,2026-06-25 18:39:27+00:00,Steam,1.94,14.99,87
 204530,018d937f-286e-7171-ab43-50732a381070,Infested Planet,2026-07-09 17:17:24+00:00,Steam,14.99,14.99,0
+204530,018d937f-286e-7171-ab43-50732a381070,Infested Planet,2026-07-20 17:19:34+00:00,Steam,1.94,14.99,87
 204560,018d937e-f041-71a3-8511-fd62c0b3b69e,Confrontation,2015-01-01 00:00:00+00:00,Steam,6.79,19.99,66
 204560,018d937e-f041-71a3-8511-fd62c0b3b69e,Confrontation,2015-01-02 18:21:16+00:00,Steam,19.99,19.99,0
 204560,018d937e-f041-71a3-8511-fd62c0b3b69e,Confrontation,2015-06-11 18:48:16+00:00,Steam,6.79,19.99,66
@@ -137854,6 +137946,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 204880,018d937f-0e0f-73fa-89b4-0b07c23b7289,Sins of a Solar Empire: Rebellion,2026-06-25 17:50:00+00:00,Steam,5.99,19.99,70
 204880,018d937f-0e0f-73fa-89b4-0b07c23b7289,Sins of a Solar Empire: Rebellion,2026-07-09 17:17:24+00:00,Steam,19.99,19.99,0
 204880,018d937f-0e0f-73fa-89b4-0b07c23b7289,Sins of a Solar Empire: Rebellion,2026-07-13 17:22:26+00:00,Steam,5.99,19.99,70
+204880,018d937f-0e0f-73fa-89b4-0b07c23b7289,Sins of a Solar Empire: Rebellion,2026-07-20 17:34:08+00:00,Steam,19.99,19.99,0
 204940,018d937e-f9d4-707b-b863-f87bcf54dc93,Crusader Kings Complete,2015-01-01 00:00:00+00:00,Steam,4.99,9.99,50
 204940,018d937e-f9d4-707b-b863-f87bcf54dc93,Crusader Kings Complete,2015-01-02 18:21:16+00:00,Steam,9.99,9.99,0
 204940,018d937e-f9d4-707b-b863-f87bcf54dc93,Crusader Kings Complete,2015-02-09 18:27:03+00:00,Steam,1.99,9.99,80
@@ -138716,6 +138809,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 205230,018d937f-220e-7290-84d7-80608be87563,Hell Yeah! Wrath of the Dead Rabbit,2026-04-23 17:21:41+00:00,Steam,3.74,14.99,75
 205230,018d937f-220e-7290-84d7-80608be87563,Hell Yeah! Wrath of the Dead Rabbit,2026-05-07 17:20:02+00:00,Steam,14.99,14.99,0
 205230,018d937f-220e-7290-84d7-80608be87563,Hell Yeah! Wrath of the Dead Rabbit,2026-06-25 17:58:06+00:00,Steam,3.74,14.99,75
+205230,018d937f-220e-7290-84d7-80608be87563,Hell Yeah! Wrath of the Dead Rabbit,2026-07-20 17:19:34+00:00,Steam,14.99,14.99,0
 205530,018d937e-f023-700f-b5c3-b942c9a84739,Gratuitous Tank Battles,2015-01-01 00:00:00+00:00,Steam,2.49,9.99,75
 205530,018d937e-f023-700f-b5c3-b942c9a84739,Gratuitous Tank Battles,2015-01-02 18:21:16+00:00,Steam,9.99,9.99,0
 205530,018d937e-f023-700f-b5c3-b942c9a84739,Gratuitous Tank Battles,2015-04-27 17:24:09+00:00,Steam,2.49,9.99,75
@@ -140079,6 +140173,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 205910,018d937e-fce3-7094-bf5f-033ef388a6e3,Tiny & Big: Grandpa's Leftovers,2026-06-08 17:33:02+00:00,Steam,11.99,11.99,0
 205910,018d937e-fce3-7094-bf5f-033ef388a6e3,Tiny & Big: Grandpa's Leftovers,2026-06-25 18:44:37+00:00,Steam,4.07,11.99,66
 205910,018d937e-fce3-7094-bf5f-033ef388a6e3,Tiny & Big: Grandpa's Leftovers,2026-07-09 17:17:24+00:00,Steam,11.99,11.99,0
+205910,018d937e-fce3-7094-bf5f-033ef388a6e3,Tiny & Big: Grandpa's Leftovers,2026-07-20 17:19:34+00:00,Steam,4.07,11.99,66
 205990,018d937f-014f-7361-93be-798c0ec7fafb,Warlock 2: The Exiled,2015-01-01 00:00:00+00:00,Steam,19.99,19.99,0
 205990,018d937f-014f-7361-93be-798c0ec7fafb,Warlock 2: The Exiled,2015-01-16 18:21:08+00:00,Steam,4.99,19.99,75
 205990,018d937f-014f-7361-93be-798c0ec7fafb,Warlock 2: The Exiled,2015-01-18 18:21:16+00:00,Steam,19.99,19.99,0
@@ -140286,6 +140381,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 205990,018d937f-014f-7361-93be-798c0ec7fafb,Warlock 2: The Exiled,2026-05-07 17:20:35+00:00,Steam,19.99,19.99,0
 205990,018d937f-014f-7361-93be-798c0ec7fafb,Warlock 2: The Exiled,2026-06-25 17:58:06+00:00,Steam,4.99,19.99,75
 205990,018d937f-014f-7361-93be-798c0ec7fafb,Warlock 2: The Exiled,2026-07-09 17:17:24+00:00,Steam,19.99,19.99,0
+205990,018d937f-014f-7361-93be-798c0ec7fafb,Warlock 2: The Exiled,2026-07-20 17:19:34+00:00,Steam,4.99,19.99,75
 206020,018d937e-feb2-7271-a7c5-52b9cbae6a09,Avernum 4,2015-01-01 00:00:00+00:00,Steam,0.99,4.99,80
 206020,018d937e-feb2-7271-a7c5-52b9cbae6a09,Avernum 4,2015-01-02 18:21:16+00:00,Steam,4.99,4.99,0
 206020,018d937e-feb2-7271-a7c5-52b9cbae6a09,Avernum 4,2015-02-02 18:21:24+00:00,Steam,2.39,11.99,80
@@ -141136,6 +141232,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 206370,018d937f-1347-7005-8052-8fb2de9c104a,Tales From Space: Mutant Blobs Attack,2026-06-15 17:29:47+00:00,Steam,9.99,9.99,0
 206370,018d937f-1347-7005-8052-8fb2de9c104a,Tales From Space: Mutant Blobs Attack,2026-06-25 18:50:35+00:00,Steam,2.49,9.99,75
 206370,018d937f-1347-7005-8052-8fb2de9c104a,Tales From Space: Mutant Blobs Attack,2026-07-09 17:17:24+00:00,Steam,9.99,9.99,0
+206370,018d937f-1347-7005-8052-8fb2de9c104a,Tales From Space: Mutant Blobs Attack,2026-07-20 17:19:36+00:00,Steam,2.49,9.99,75
 206410,018d937f-1eda-71e3-b9b6-2210d7e4c260,Crazy Machines: Elements,2015-01-01 00:00:00+00:00,Steam,2.49,9.99,75
 206410,018d937f-1eda-71e3-b9b6-2210d7e4c260,Crazy Machines: Elements,2015-01-02 18:21:16+00:00,Steam,9.99,9.99,0
 206410,018d937f-1eda-71e3-b9b6-2210d7e4c260,Crazy Machines: Elements,2015-06-01 17:21:09+00:00,Steam,2.49,9.99,75
@@ -141853,6 +141950,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 206610,018d937e-f507-72b3-9f23-fb0f35204854,3SwitcheD,2026-05-18 17:32:02+00:00,Steam,9.99,9.99,0
 206610,018d937e-f507-72b3-9f23-fb0f35204854,3SwitcheD,2026-06-25 18:09:45+00:00,Steam,2.49,9.99,75
 206610,018d937e-f507-72b3-9f23-fb0f35204854,3SwitcheD,2026-07-09 17:17:24+00:00,Steam,9.99,9.99,0
+206610,018d937e-f507-72b3-9f23-fb0f35204854,3SwitcheD,2026-07-21 17:15:27+00:00,Steam,2.49,9.99,75
 206690,018d937e-f509-71d5-be88-0d246e4453e2,iBomber Defense Pacific,2015-01-01 00:00:00+00:00,Steam,2.49,4.99,50
 206690,018d937e-f509-71d5-be88-0d246e4453e2,iBomber Defense Pacific,2015-01-02 18:21:16+00:00,Steam,4.99,4.99,0
 206690,018d937e-f509-71d5-be88-0d246e4453e2,iBomber Defense Pacific,2016-02-05 18:37:15+00:00,Steam,2.49,4.99,50
@@ -142820,6 +142918,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 207170,018d937f-30c6-72cb-ab75-02008b8977c5,Legend of Grimrock,2026-06-25 18:20:46+00:00,Steam,2.99,14.99,80
 207170,018d937f-30c6-72cb-ab75-02008b8977c5,Legend of Grimrock,2026-07-09 17:17:24+00:00,Steam,14.99,14.99,0
 207170,018d937f-30c6-72cb-ab75-02008b8977c5,Legend of Grimrock,2026-07-13 17:22:26+00:00,Steam,2.99,14.99,80
+207170,018d937f-30c6-72cb-ab75-02008b8977c5,Legend of Grimrock,2026-07-20 17:34:08+00:00,Steam,14.99,14.99,0
 207190,018d937f-2992-72bd-ab8a-f5952bc0beaf,Fireburst,2015-01-01 00:00:00+00:00,Steam,1.99,9.99,80
 207190,018d937f-2992-72bd-ab8a-f5952bc0beaf,Fireburst,2015-01-02 18:21:16+00:00,Steam,9.99,9.99,0
 207190,018d937f-2992-72bd-ab8a-f5952bc0beaf,Fireburst,2015-01-26 18:21:11+00:00,Steam,2.49,9.99,75
@@ -143619,6 +143718,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 207430,018d937f-3630-7340-83ed-6a474c7eb151,"Hack, Slash, Loot",2026-06-25 18:09:45+00:00,Steam,2.99,5.99,50
 207430,018d937f-3630-7340-83ed-6a474c7eb151,"Hack, Slash, Loot",2026-07-09 17:17:24+00:00,Steam,5.99,5.99,0
 207430,018d937f-3630-7340-83ed-6a474c7eb151,"Hack, Slash, Loot",2026-07-13 17:22:26+00:00,Steam,2.99,5.99,50
+207430,018d937f-3630-7340-83ed-6a474c7eb151,"Hack, Slash, Loot",2026-07-20 17:34:08+00:00,Steam,5.99,5.99,0
 207490,018d937f-084c-705b-b1e9-14f396637088,Rayman(R) Origins,2015-01-01 00:00:00+00:00,Steam,5.99,9.99,40
 207490,018d937f-084c-705b-b1e9-14f396637088,Rayman(R) Origins,2015-01-02 18:21:16+00:00,Steam,9.99,9.99,0
 207490,018d937f-084c-705b-b1e9-14f396637088,Rayman(R) Origins,2015-06-11 18:48:15+00:00,Steam,5.99,9.99,40
@@ -147591,6 +147691,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 209370,018d937f-2607-71b2-b2db-0e2e837fe8fd,Analogue: A Hate Story,2026-06-25 18:44:37+00:00,Steam,2.49,9.99,75
 209370,018d937f-2607-71b2-b2db-0e2e837fe8fd,Analogue: A Hate Story,2026-07-09 17:17:26+00:00,Steam,9.99,9.99,0
 209370,018d937f-2607-71b2-b2db-0e2e837fe8fd,Analogue: A Hate Story,2026-07-13 17:22:26+00:00,Steam,2.49,9.99,75
+209370,018d937f-2607-71b2-b2db-0e2e837fe8fd,Analogue: A Hate Story,2026-07-20 17:34:08+00:00,Steam,9.99,9.99,0
 209610,018d937e-e9ad-72bf-8d8b-27d5fb2271c3,Roller Coaster Rampage,2015-01-01 00:00:00+00:00,Steam,2.99,9.99,70
 209610,018d937e-e9ad-72bf-8d8b-27d5fb2271c3,Roller Coaster Rampage,2015-01-02 18:21:16+00:00,Steam,9.99,9.99,0
 209610,018d937e-e9ad-72bf-8d8b-27d5fb2271c3,Roller Coaster Rampage,2015-06-11 18:48:15+00:00,Steam,4.99,9.99,50
@@ -149117,6 +149218,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 211010,018d937f-27ff-7240-8082-4e5222d5b0b9,Alien Shooter 2 Conscription,2026-03-19 17:58:23+00:00,Steam,2.49,9.99,75
 211010,018d937f-27ff-7240-8082-4e5222d5b0b9,Alien Shooter 2 Conscription,2026-03-26 17:18:27+00:00,Steam,9.99,9.99,0
 211010,018d937f-27ff-7240-8082-4e5222d5b0b9,Alien Shooter 2 Conscription,2026-07-13 17:22:23+00:00,Steam,2.49,9.99,75
+211010,018d937f-27ff-7240-8082-4e5222d5b0b9,Alien Shooter 2 Conscription,2026-07-20 17:28:00+00:00,Steam,9.99,9.99,0
 211050,018d937f-0c46-729b-9b58-d1f2e05d55d8,Battle vs Chess,2016-07-07 04:16:36+00:00,Steam,19.99,19.99,0
 211050,018d937f-0c46-729b-9b58-d1f2e05d55d8,Battle vs Chess,2018-11-23 23:20:35+00:00,Steam,2.99,19.99,85
 211050,018d937f-0c46-729b-9b58-d1f2e05d55d8,Battle vs Chess,2021-03-22 13:09:10+00:00,Steam,188000.0,188000.0,0
@@ -149390,6 +149492,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 211070,018d937e-fa5a-717c-bd8d-e3dfdfb04883,Check vs Mate,2026-05-18 17:32:02+00:00,Steam,24.99,24.99,0
 211070,018d937e-fa5a-717c-bd8d-e3dfdfb04883,Check vs Mate,2026-06-25 18:09:46+00:00,Steam,9.99,24.99,60
 211070,018d937e-fa5a-717c-bd8d-e3dfdfb04883,Check vs Mate,2026-07-09 17:17:26+00:00,Steam,24.99,24.99,0
+211070,018d937e-fa5a-717c-bd8d-e3dfdfb04883,Check vs Mate,2026-07-21 17:15:27+00:00,Steam,9.99,24.99,60
 211160,018d937e-f8c5-7010-a344-8bec557ebd6a,Viking Battle for Asgard,2015-01-01 00:00:00+00:00,Steam,7.49,14.99,50
 211160,018d937e-f8c5-7010-a344-8bec557ebd6a,Viking Battle for Asgard,2015-01-02 18:21:16+00:00,Steam,14.99,14.99,0
 211160,018d937e-f8c5-7010-a344-8bec557ebd6a,Viking Battle for Asgard,2015-01-26 18:21:11+00:00,Steam,3.74,14.99,75
@@ -149473,6 +149576,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 211160,018d937e-f8c5-7010-a344-8bec557ebd6a,Viking Battle for Asgard,2026-04-23 17:21:41+00:00,Steam,3.74,14.99,75
 211160,018d937e-f8c5-7010-a344-8bec557ebd6a,Viking Battle for Asgard,2026-05-07 17:20:02+00:00,Steam,14.99,14.99,0
 211160,018d937e-f8c5-7010-a344-8bec557ebd6a,Viking Battle for Asgard,2026-06-25 18:04:17+00:00,Steam,3.74,14.99,75
+211160,018d937e-f8c5-7010-a344-8bec557ebd6a,Viking Battle for Asgard,2026-07-20 17:19:37+00:00,Steam,14.99,14.99,0
 211180,018d937e-fd3c-7304-b648-43a713ed2d50,Unmechanical,2015-01-01 00:00:00+00:00,Steam,9.99,9.99,0
 211180,018d937e-fd3c-7304-b648-43a713ed2d50,Unmechanical,2015-11-25 19:13:37+00:00,Steam,3.99,9.99,60
 211180,018d937e-fd3c-7304-b648-43a713ed2d50,Unmechanical,2015-11-27 18:54:52+00:00,Steam,9.99,9.99,0
@@ -150153,6 +150257,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 211340,018d937e-f9db-737e-968e-8d801f22b63e,Magical Diary: Horse Hall,2026-05-04 17:28:20+00:00,Steam,14.99,14.99,0
 211340,018d937e-f9db-737e-968e-8d801f22b63e,Magical Diary: Horse Hall,2026-06-25 17:57:24+00:00,Steam,5.24,14.99,65
 211340,018d937e-f9db-737e-968e-8d801f22b63e,Magical Diary: Horse Hall,2026-07-09 17:17:26+00:00,Steam,14.99,14.99,0
+211340,018d937e-f9db-737e-968e-8d801f22b63e,Magical Diary: Horse Hall,2026-07-20 17:19:37+00:00,Steam,3.74,14.99,75
 211360,018d937e-fec4-7343-8577-f74e18519a74,Offspring Fling!,2015-01-01 00:00:00+00:00,Steam,3.99,7.99,50
 211360,018d937e-fec4-7343-8577-f74e18519a74,Offspring Fling!,2015-01-02 18:21:16+00:00,Steam,7.99,7.99,0
 211360,018d937e-fec4-7343-8577-f74e18519a74,Offspring Fling!,2015-06-11 18:48:16+00:00,Steam,3.99,7.99,50
@@ -156902,6 +157007,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 215790,018d937f-0eb3-70c8-a520-8137f999f5e7,Dream Pinball 3D,2026-05-18 17:32:02+00:00,Steam,9.99,9.99,0
 215790,018d937f-0eb3-70c8-a520-8137f999f5e7,Dream Pinball 3D,2026-06-25 18:09:46+00:00,Steam,2.49,9.99,75
 215790,018d937f-0eb3-70c8-a520-8137f999f5e7,Dream Pinball 3D,2026-07-09 17:17:27+00:00,Steam,9.99,9.99,0
+215790,018d937f-0eb3-70c8-a520-8137f999f5e7,Dream Pinball 3D,2026-07-21 17:15:27+00:00,Steam,2.49,9.99,75
 215870,018d937f-123d-72d6-a876-415c2683b5a5,Dungeon Party,2015-01-01 00:00:00+00:00,Steam,0.0,0.0,0
 215930,018d937e-f8da-72fd-b64c-520e10444b4b,Jagged Alliance 2 Wildfire,2015-01-01 00:00:00+00:00,Steam,1.74,6.99,75
 215930,018d937e-f8da-72fd-b64c-520e10444b4b,Jagged Alliance 2 Wildfire,2015-01-02 18:21:16+00:00,Steam,6.99,6.99,0
@@ -157104,6 +157210,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 215930,018d937e-f8da-72fd-b64c-520e10444b4b,Jagged Alliance 2 Wildfire,2026-05-18 17:32:02+00:00,Steam,8.99,8.99,0
 215930,018d937e-f8da-72fd-b64c-520e10444b4b,Jagged Alliance 2 Wildfire,2026-06-25 18:09:46+00:00,Steam,4.49,8.99,50
 215930,018d937e-f8da-72fd-b64c-520e10444b4b,Jagged Alliance 2 Wildfire,2026-07-09 17:17:27+00:00,Steam,8.99,8.99,0
+215930,018d937e-f8da-72fd-b64c-520e10444b4b,Jagged Alliance 2 Wildfire,2026-07-21 17:15:27+00:00,Steam,4.49,8.99,50
 216090,018d937f-33fa-722b-9933-86fb41766d08,Go Home Dinosaurs!,2015-01-01 00:00:00+00:00,Steam,1.99,9.99,80
 216090,018d937f-33fa-722b-9933-86fb41766d08,Go Home Dinosaurs!,2015-01-02 18:21:16+00:00,Steam,9.99,9.99,0
 216090,018d937f-33fa-722b-9933-86fb41766d08,Go Home Dinosaurs!,2015-03-20 17:03:07+00:00,Steam,3.99,9.99,60
@@ -157335,6 +157442,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 216090,018d937f-33fa-722b-9933-86fb41766d08,Go Home Dinosaurs!,2026-06-25 18:20:48+00:00,Steam,1.99,9.99,80
 216090,018d937f-33fa-722b-9933-86fb41766d08,Go Home Dinosaurs!,2026-07-09 17:17:27+00:00,Steam,9.99,9.99,0
 216090,018d937f-33fa-722b-9933-86fb41766d08,Go Home Dinosaurs!,2026-07-10 17:16:41+00:00,Steam,2.99,9.99,70
+216090,018d937f-33fa-722b-9933-86fb41766d08,Go Home Dinosaurs!,2026-07-20 17:27:59+00:00,Steam,9.99,9.99,0
 216130,018d937f-0a8e-70b1-966a-191eee7cbcb4,Gemini Wars,2015-01-01 00:00:00+00:00,Steam,3.74,14.99,75
 216130,018d937f-0a8e-70b1-966a-191eee7cbcb4,Gemini Wars,2015-01-02 18:21:16+00:00,Steam,14.99,14.99,0
 216130,018d937f-0a8e-70b1-966a-191eee7cbcb4,Gemini Wars,2015-02-02 18:21:24+00:00,Steam,3.74,14.99,75
@@ -158739,6 +158847,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 217270,018d937f-153d-73bb-ab19-afa9850eea4d,Karateka,2026-03-26 17:18:29+00:00,Steam,3.99,3.99,0
 217270,018d937f-153d-73bb-ab19-afa9850eea4d,Karateka,2026-06-25 17:22:09+00:00,Steam,0.79,3.99,80
 217270,018d937f-153d-73bb-ab19-afa9850eea4d,Karateka,2026-07-09 17:17:27+00:00,Steam,3.99,3.99,0
+217270,018d937f-153d-73bb-ab19-afa9850eea4d,Karateka,2026-07-20 17:19:37+00:00,Steam,0.79,3.99,80
 217290,018d937e-fd5a-7214-abc8-cf69766e6d95,Din's Curse,2015-01-01 00:00:00+00:00,Steam,4.99,9.99,50
 217290,018d937e-fd5a-7214-abc8-cf69766e6d95,Din's Curse,2015-01-02 18:21:16+00:00,Steam,9.99,9.99,0
 217290,018d937e-fd5a-7214-abc8-cf69766e6d95,Din's Curse,2015-06-11 18:48:15+00:00,Steam,3.99,9.99,60
@@ -159780,6 +159889,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 218020,018d937f-1008-729e-ae75-d144b7f1c592,Nethergate: Resurrection,2026-06-25 18:14:49+00:00,Steam,1.99,4.99,60
 218020,018d937f-1008-729e-ae75-d144b7f1c592,Nethergate: Resurrection,2026-07-09 17:17:27+00:00,Steam,4.99,4.99,0
 218020,018d937f-1008-729e-ae75-d144b7f1c592,Nethergate: Resurrection,2026-07-13 17:22:26+00:00,Steam,1.99,4.99,60
+218020,018d937f-1008-729e-ae75-d144b7f1c592,Nethergate: Resurrection,2026-07-20 17:28:00+00:00,Steam,4.99,4.99,0
 218040,018d937f-05ea-7000-b8d7-4ad78bc58596,Democracy 2,2015-01-01 00:00:00+00:00,Steam,4.99,19.99,75
 218040,018d937f-05ea-7000-b8d7-4ad78bc58596,Democracy 2,2015-01-02 18:21:16+00:00,Steam,19.99,19.99,0
 218040,018d937f-05ea-7000-b8d7-4ad78bc58596,Democracy 2,2015-11-25 19:07:19+00:00,Steam,9.99,19.99,50
@@ -160470,6 +160580,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 218510,018d937e-f075-7232-ad5a-7bf4e45c7ee6,Planets Under Attack,2026-05-18 17:32:02+00:00,Steam,11.99,11.99,0
 218510,018d937e-f075-7232-ad5a-7bf4e45c7ee6,Planets Under Attack,2026-06-25 18:14:49+00:00,Steam,2.99,11.99,75
 218510,018d937e-f075-7232-ad5a-7bf4e45c7ee6,Planets Under Attack,2026-07-09 17:17:27+00:00,Steam,11.99,11.99,0
+218510,018d937e-f075-7232-ad5a-7bf4e45c7ee6,Planets Under Attack,2026-07-21 17:15:27+00:00,Steam,2.39,11.99,80
 218620,018d937f-2947-726f-ab1e-7bf149096fff,PAYDAY 2,2015-01-01 00:00:00+00:00,Steam,7.49,29.99,75
 218620,018d937f-2947-726f-ab1e-7bf149096fff,PAYDAY 2,2015-01-02 18:21:16+00:00,Steam,29.99,29.99,0
 218620,018d937f-2947-726f-ab1e-7bf149096fff,PAYDAY 2,2015-03-04 18:03:17+00:00,Steam,5.99,29.99,80
@@ -167384,6 +167495,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 222480,018d937e-f541-7208-b213-4b438af2fbb4,Resident Evil: Revelations,2026-06-18 17:18:31+00:00,Steam,19.99,19.99,0
 222480,018d937e-f541-7208-b213-4b438af2fbb4,Resident Evil: Revelations,2026-06-25 19:08:15+00:00,Steam,4.99,19.99,75
 222480,018d937e-f541-7208-b213-4b438af2fbb4,Resident Evil: Revelations,2026-07-09 17:17:28+00:00,Steam,19.99,19.99,0
+222480,018d937e-f541-7208-b213-4b438af2fbb4,Resident Evil: Revelations,2026-07-20 17:19:37+00:00,Steam,4.99,19.99,75
 222500,018d937e-f4ef-71fd-9e50-e3381aa3b1dd,Rail Adventures - VR Tech Demo,2020-10-21 00:48:18+00:00,Steam,0.0,0.0,0
 222520,018d937f-08a5-730e-ab9f-04c2845550f3,Champions of Regnum,2015-01-01 00:00:00+00:00,Steam,0.0,0.0,0
 222606,018d937e-fa6c-7246-b55a-7d601f37a4ee,Train Simulator: Pacific Surfliner® LA - San Diego Route,2015-01-01 00:00:00+00:00,Steam,19.99,39.99,50
@@ -171185,6 +171297,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 224900,018d937f-0689-707b-b2dc-edfdbf67882c,Iron Sky: Invasion,2026-05-18 17:32:02+00:00,Steam,19.99,19.99,0
 224900,018d937f-0689-707b-b2dc-edfdbf67882c,Iron Sky: Invasion,2026-06-25 18:14:49+00:00,Steam,7.99,19.99,60
 224900,018d937f-0689-707b-b2dc-edfdbf67882c,Iron Sky: Invasion,2026-07-09 17:17:29+00:00,Steam,19.99,19.99,0
+224900,018d937f-0689-707b-b2dc-edfdbf67882c,Iron Sky: Invasion,2026-07-21 17:15:27+00:00,Steam,7.99,19.99,60
 224940,018d937e-fd80-707b-978b-491c2f058899,Legacy of Kain: Soul Reaver 2,2015-01-01 00:00:00+00:00,Steam,1.74,6.99,75
 224940,018d937e-fd80-707b-978b-491c2f058899,Legacy of Kain: Soul Reaver 2,2015-01-02 18:21:16+00:00,Steam,6.99,6.99,0
 224940,018d937e-fd80-707b-978b-491c2f058899,Legacy of Kain: Soul Reaver 2,2015-02-05 18:27:03+00:00,Steam,1.74,6.99,75
@@ -176038,6 +176151,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 227300,018d937f-20cc-703a-963c-8dd3f93cb88b,Euro Truck Simulator 2,2026-05-14 16:15:43+00:00,Steam,4.99,19.99,75
 227300,018d937f-20cc-703a-963c-8dd3f93cb88b,Euro Truck Simulator 2,2026-05-24 16:15:53+00:00,Steam,19.99,19.99,0
 227300,018d937f-20cc-703a-963c-8dd3f93cb88b,Euro Truck Simulator 2,2026-06-25 18:15:26+00:00,Steam,4.99,19.99,75
+227300,018d937f-20cc-703a-963c-8dd3f93cb88b,Euro Truck Simulator 2,2026-07-20 17:19:39+00:00,Steam,19.99,19.99,0
 227380,018d937f-1f46-7086-bcd3-cd18fadad41b,Dragon's Lair,2015-01-01 00:00:00+00:00,Steam,4.99,9.99,50
 227380,018d937f-1f46-7086-bcd3-cd18fadad41b,Dragon's Lair,2015-01-02 18:21:16+00:00,Steam,9.99,9.99,0
 227380,018d937f-1f46-7086-bcd3-cd18fadad41b,Dragon's Lair,2015-06-11 18:48:17+00:00,Steam,4.99,9.99,50
@@ -176342,6 +176456,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 227600,018d937e-fa53-7223-8d1a-be0932e66357,Castle of Illusion,2026-04-23 17:21:41+00:00,Steam,3.74,14.99,75
 227600,018d937e-fa53-7223-8d1a-be0932e66357,Castle of Illusion,2026-05-07 17:20:02+00:00,Steam,14.99,14.99,0
 227600,018d937e-fa53-7223-8d1a-be0932e66357,Castle of Illusion,2026-06-25 17:58:07+00:00,Steam,3.74,14.99,75
+227600,018d937e-fa53-7223-8d1a-be0932e66357,Castle of Illusion,2026-07-20 17:19:39+00:00,Steam,14.99,14.99,0
 227760,018d937e-ea19-73d0-90a7-f24a8f52f01b,March of the Eagles,2015-01-01 00:00:00+00:00,Steam,4.99,19.99,75
 227760,018d937e-ea19-73d0-90a7-f24a8f52f01b,March of the Eagles,2015-01-02 18:21:16+00:00,Steam,19.99,19.99,0
 227760,018d937e-ea19-73d0-90a7-f24a8f52f01b,March of the Eagles,2015-02-02 18:21:24+00:00,Steam,11.99,59.99,80
@@ -176541,6 +176656,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 227760,018d937e-ea19-73d0-90a7-f24a8f52f01b,March of the Eagles,2026-04-20 17:19:11+00:00,Steam,19.99,19.99,0
 227760,018d937e-ea19-73d0-90a7-f24a8f52f01b,March of the Eagles,2026-06-25 17:50:06+00:00,Steam,4.99,19.99,75
 227760,018d937e-ea19-73d0-90a7-f24a8f52f01b,March of the Eagles,2026-07-09 17:17:29+00:00,Steam,19.99,19.99,0
+227760,018d937e-ea19-73d0-90a7-f24a8f52f01b,March of the Eagles,2026-07-20 17:19:39+00:00,Steam,4.99,19.99,75
 227780,018d937f-2853-72e0-91b8-66d5cb8fb7f4,Serious Sam Classics: Revolution,2015-01-01 00:00:00+00:00,Steam,1.99,9.99,80
 227780,018d937f-2853-72e0-91b8-66d5cb8fb7f4,Serious Sam Classics: Revolution,2015-01-02 18:21:16+00:00,Steam,9.99,9.99,0
 227780,018d937f-2853-72e0-91b8-66d5cb8fb7f4,Serious Sam Classics: Revolution,2015-02-14 18:21:08+00:00,Steam,1.99,9.99,80
@@ -179786,6 +179902,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 230210,018d937f-2117-7395-bf14-3562c630c8a7,Asylum,2026-05-29 17:17:33+00:00,Steam,24.99,24.99,0
 230210,018d937f-2117-7395-bf14-3562c630c8a7,Asylum,2026-06-25 19:08:27+00:00,Steam,14.99,24.99,40
 230210,018d937f-2117-7395-bf14-3562c630c8a7,Asylum,2026-07-09 17:17:30+00:00,Steam,24.99,24.99,0
+230210,018d937f-2117-7395-bf14-3562c630c8a7,Asylum,2026-07-21 15:15:30+00:00,Steam,14.49,24.99,42
 230230,018d937e-f985-730f-a2a2-ffbd9c8f3c6b,DIVINITY: ORIGINAL SIN CLASSIC,2015-01-01 00:00:00+00:00,Steam,26.79,39.99,33
 230230,018d937e-f985-730f-a2a2-ffbd9c8f3c6b,DIVINITY: ORIGINAL SIN CLASSIC,2015-01-02 18:21:16+00:00,Steam,39.99,39.99,0
 230230,018d937e-f985-730f-a2a2-ffbd9c8f3c6b,DIVINITY: ORIGINAL SIN CLASSIC,2015-02-05 18:27:03+00:00,Steam,23.99,39.99,40
@@ -182773,6 +182890,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 232010,018d937f-296e-739e-8b86-f0e8f13cc73e,Euro Truck Simulator,2026-05-14 16:15:43+00:00,Steam,0.99,4.99,80
 232010,018d937f-296e-739e-8b86-f0e8f13cc73e,Euro Truck Simulator,2026-05-24 16:15:53+00:00,Steam,4.99,4.99,0
 232010,018d937f-296e-739e-8b86-f0e8f13cc73e,Euro Truck Simulator,2026-06-25 18:15:26+00:00,Steam,0.99,4.99,80
+232010,018d937f-296e-739e-8b86-f0e8f13cc73e,Euro Truck Simulator,2026-07-20 17:19:43+00:00,Steam,4.99,4.99,0
 232050,018d937f-0c67-7245-955c-072e7a912f61,Eador. Masters of the Broken World,2015-01-01 00:00:00+00:00,Steam,5.99,19.99,70
 232050,018d937f-0c67-7245-955c-072e7a912f61,Eador. Masters of the Broken World,2015-01-02 18:21:16+00:00,Steam,19.99,19.99,0
 232050,018d937f-0c67-7245-955c-072e7a912f61,Eador. Masters of the Broken World,2015-04-17 17:03:10+00:00,Steam,2.99,19.99,85
@@ -183905,6 +184023,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 232890,018d937e-fdbd-7369-9995-bb6cd7ea01c7,Stronghold Crusader 2,2026-06-25 18:39:29+00:00,Steam,3.99,39.99,90
 232890,018d937e-fdbd-7369-9995-bb6cd7ea01c7,Stronghold Crusader 2,2026-07-09 17:17:30+00:00,Steam,39.99,39.99,0
 232890,018d937e-fdbd-7369-9995-bb6cd7ea01c7,Stronghold Crusader 2,2026-07-13 17:22:26+00:00,Steam,3.99,39.99,90
+232890,018d937e-fdbd-7369-9995-bb6cd7ea01c7,Stronghold Crusader 2,2026-07-20 17:28:01+00:00,Steam,39.99,39.99,0
 232910,018d937f-3091-73ef-ba7b-5e45d156ca2e,TrackMania² Stadium,2015-01-01 00:00:00+00:00,Steam,9.99,9.99,0
 232910,018d937f-3091-73ef-ba7b-5e45d156ca2e,TrackMania² Stadium,2015-06-11 18:48:17+00:00,Steam,5.99,9.99,40
 232910,018d937f-3091-73ef-ba7b-5e45d156ca2e,TrackMania² Stadium,2015-06-22 17:21:18+00:00,Steam,9.99,9.99,0
@@ -184414,6 +184533,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 232970,018d937f-07f4-71f9-aa85-12a4415b690e,Thunder Wolves,2026-06-25 18:05:16+00:00,Steam,1.49,9.99,85
 232970,018d937f-07f4-71f9-aa85-12a4415b690e,Thunder Wolves,2026-07-09 17:17:30+00:00,Steam,9.99,9.99,0
 232970,018d937f-07f4-71f9-aa85-12a4415b690e,Thunder Wolves,2026-07-13 17:22:26+00:00,Steam,1.99,9.99,80
+232970,018d937f-07f4-71f9-aa85-12a4415b690e,Thunder Wolves,2026-07-20 17:28:01+00:00,Steam,9.99,9.99,0
 233110,018d937e-f01f-7381-b867-ca336fcbee38,Defense Technica,2015-01-01 00:00:00+00:00,Steam,3.74,14.99,75
 233110,018d937e-f01f-7381-b867-ca336fcbee38,Defense Technica,2015-01-02 18:21:16+00:00,Steam,14.99,14.99,0
 233110,018d937e-f01f-7381-b867-ca336fcbee38,Defense Technica,2015-03-02 18:27:04+00:00,Steam,3.74,14.99,75
@@ -186936,6 +187056,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 233720,018d937f-0f93-7221-a83e-1a2e0fddb240,Surgeon Simulator,2026-06-25 18:50:19+00:00,Steam,1.49,9.99,85
 233720,018d937f-0f93-7221-a83e-1a2e0fddb240,Surgeon Simulator,2026-07-09 17:17:31+00:00,Steam,9.99,9.99,0
 233720,018d937f-0f93-7221-a83e-1a2e0fddb240,Surgeon Simulator,2026-07-13 17:22:26+00:00,Steam,0.99,9.99,90
+233720,018d937f-0f93-7221-a83e-1a2e0fddb240,Surgeon Simulator,2026-07-20 17:28:01+00:00,Steam,9.99,9.99,0
 233740,018d937f-0e09-714b-abad-bbf47bc45840,Organ Trail: Director's Cut,2015-01-01 00:00:00+00:00,Steam,2.99,4.99,40
 233740,018d937f-0e09-714b-abad-bbf47bc45840,Organ Trail: Director's Cut,2015-01-02 18:21:16+00:00,Steam,4.99,4.99,0
 233740,018d937f-0e09-714b-abad-bbf47bc45840,Organ Trail: Director's Cut,2015-06-11 18:48:16+00:00,Steam,2.99,4.99,40
@@ -188456,6 +188577,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 234370,018d937f-2b38-7248-816a-5d9915f4e18a,Shattered Haven,2026-06-15 17:29:47+00:00,Steam,9.99,9.99,0
 234370,018d937f-2b38-7248-816a-5d9915f4e18a,Shattered Haven,2026-06-25 18:50:36+00:00,Steam,2.49,9.99,75
 234370,018d937f-2b38-7248-816a-5d9915f4e18a,Shattered Haven,2026-07-09 17:17:31+00:00,Steam,9.99,9.99,0
+234370,018d937f-2b38-7248-816a-5d9915f4e18a,Shattered Haven,2026-07-20 17:19:43+00:00,Steam,2.49,9.99,75
 234390,018d937e-f4c2-7246-bdac-6a07cf42a502,Teleglitch: Die More Edition,2015-01-01 00:00:00+00:00,Steam,3.24,12.99,75
 234390,018d937e-f4c2-7246-bdac-6a07cf42a502,Teleglitch: Die More Edition,2015-01-02 18:21:16+00:00,Steam,12.99,12.99,0
 234390,018d937e-f4c2-7246-bdac-6a07cf42a502,Teleglitch: Die More Edition,2015-01-26 18:21:11+00:00,Steam,4.41,12.99,66
@@ -189476,6 +189598,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 234900,018d937f-1715-737a-ab6b-97b6aafbec46,Anodyne,2026-06-25 18:20:50+00:00,Steam,5.99,14.99,60
 234900,018d937f-1715-737a-ab6b-97b6aafbec46,Anodyne,2026-07-09 17:17:31+00:00,Steam,14.99,14.99,0
 234900,018d937f-1715-737a-ab6b-97b6aafbec46,Anodyne,2026-07-13 17:22:26+00:00,Steam,7.49,14.99,50
+234900,018d937f-1715-737a-ab6b-97b6aafbec46,Anodyne,2026-07-20 17:28:01+00:00,Steam,14.99,14.99,0
 234920,018d937f-03fb-732f-9708-fc1410198be4,Dyscourse,2015-03-26 05:31:36+00:00,Steam,14.99,14.99,0
 234920,018d937f-03fb-732f-9708-fc1410198be4,Dyscourse,2015-06-11 18:48:20+00:00,Steam,9.74,14.99,35
 234920,018d937f-03fb-732f-9708-fc1410198be4,Dyscourse,2015-06-22 17:21:18+00:00,Steam,14.99,14.99,0
@@ -191970,6 +192093,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 236130,018d937f-3428-7021-ab12-f16073cac65b,Horizon,2026-06-25 18:39:29+00:00,Steam,5.99,29.99,80
 236130,018d937f-3428-7021-ab12-f16073cac65b,Horizon,2026-07-09 17:17:31+00:00,Steam,29.99,29.99,0
 236130,018d937f-3428-7021-ab12-f16073cac65b,Horizon,2026-07-13 17:22:26+00:00,Steam,5.99,29.99,80
+236130,018d937f-3428-7021-ab12-f16073cac65b,Horizon,2026-07-20 17:28:01+00:00,Steam,29.99,29.99,0
 236150,018d937f-1cd5-7291-b6b7-afc2fb9a81ee,Starpoint Gemini 2,2015-01-01 00:00:00+00:00,Steam,23.44,34.99,33
 236150,018d937f-1cd5-7291-b6b7-afc2fb9a81ee,Starpoint Gemini 2,2015-01-02 18:21:16+00:00,Steam,34.99,34.99,0
 236150,018d937f-1cd5-7291-b6b7-afc2fb9a81ee,Starpoint Gemini 2,2015-02-18 18:21:13+00:00,Steam,17.49,34.99,50
@@ -192216,6 +192340,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 236150,018d937f-1cd5-7291-b6b7-afc2fb9a81ee,Starpoint Gemini 2,2026-06-15 17:29:47+00:00,Steam,34.99,34.99,0
 236150,018d937f-1cd5-7291-b6b7-afc2fb9a81ee,Starpoint Gemini 2,2026-06-25 18:50:36+00:00,Steam,3.49,34.99,90
 236150,018d937f-1cd5-7291-b6b7-afc2fb9a81ee,Starpoint Gemini 2,2026-07-09 17:17:31+00:00,Steam,34.99,34.99,0
+236150,018d937f-1cd5-7291-b6b7-afc2fb9a81ee,Starpoint Gemini 2,2026-07-20 17:19:43+00:00,Steam,3.49,34.99,90
 236290,018d937f-2a16-73b9-9264-ad43b2aa1acf,Cranky Cat,2015-01-01 00:00:00+00:00,Steam,2.99,2.99,0
 236370,018d937f-0a33-7262-8a73-7f4c2797fe45,Interstellar Marines,2015-01-01 00:00:00+00:00,Steam,14.24,18.99,25
 236370,018d937f-0a33-7262-8a73-7f4c2797fe45,Interstellar Marines,2015-01-02 18:21:16+00:00,Steam,18.99,18.99,0
@@ -196488,6 +196613,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 238320,018d937f-0de8-7372-aa7a-fc902b95be0c,Outlast,2026-06-25 18:39:21+00:00,Steam,3.74,14.99,75
 238320,018d937f-0de8-7372-aa7a-fc902b95be0c,Outlast,2026-07-09 17:17:31+00:00,Steam,14.99,14.99,0
 238320,018d937f-0de8-7372-aa7a-fc902b95be0c,Outlast,2026-07-14 17:16:26+00:00,Steam,3.74,14.99,75
+238320,018d937f-0de8-7372-aa7a-fc902b95be0c,Outlast,2026-07-21 17:15:30+00:00,Steam,14.99,14.99,0
 238370,018d937f-22a7-73ca-b653-7970ccbc2fc6,Magicka 2,2015-03-05 05:21:23+00:00,Steam,14.99,14.99,0
 238370,018d937f-22a7-73ca-b653-7970ccbc2fc6,Magicka 2,2015-09-15 17:23:49+00:00,Steam,10.04,14.99,33
 238370,018d937f-22a7-73ca-b653-7970ccbc2fc6,Magicka 2,2015-09-17 17:08:46+00:00,Steam,14.99,14.99,0
@@ -197489,6 +197615,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 238870,018d937e-f523-7068-9681-8ee8011b0357,Citadels,2026-06-25 17:57:19+00:00,Steam,1.49,14.99,90
 238870,018d937e-f523-7068-9681-8ee8011b0357,Citadels,2026-07-09 17:17:31+00:00,Steam,14.99,14.99,0
 238870,018d937e-f523-7068-9681-8ee8011b0357,Citadels,2026-07-13 17:22:26+00:00,Steam,2.99,14.99,80
+238870,018d937e-f523-7068-9681-8ee8011b0357,Citadels,2026-07-20 17:28:01+00:00,Steam,14.99,14.99,0
 238890,018d937f-3415-73a8-ba33-96a42319f623,Skyward Collapse,2015-01-01 00:00:00+00:00,Steam,1.69,4.99,66
 238890,018d937f-3415-73a8-ba33-96a42319f623,Skyward Collapse,2015-01-02 18:21:16+00:00,Steam,4.99,4.99,0
 238890,018d937f-3415-73a8-ba33-96a42319f623,Skyward Collapse,2015-01-19 18:21:08+00:00,Steam,1.24,4.99,75
@@ -197685,6 +197812,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 238890,018d937f-3415-73a8-ba33-96a42319f623,Skyward Collapse,2026-06-15 17:29:47+00:00,Steam,4.99,4.99,0
 238890,018d937f-3415-73a8-ba33-96a42319f623,Skyward Collapse,2026-06-25 18:50:36+00:00,Steam,1.24,4.99,75
 238890,018d937f-3415-73a8-ba33-96a42319f623,Skyward Collapse,2026-07-09 17:17:31+00:00,Steam,4.99,4.99,0
+238890,018d937f-3415-73a8-ba33-96a42319f623,Skyward Collapse,2026-07-20 17:19:43+00:00,Steam,1.24,4.99,75
 238910,018d937f-15c5-711a-97b1-3eafd7917879,Bionic Dues,2015-01-01 00:00:00+00:00,Steam,4.99,9.99,50
 238910,018d937f-15c5-711a-97b1-3eafd7917879,Bionic Dues,2015-01-02 18:21:16+00:00,Steam,9.99,9.99,0
 238910,018d937f-15c5-711a-97b1-3eafd7917879,Bionic Dues,2015-01-19 18:21:08+00:00,Steam,2.49,9.99,75
@@ -199415,6 +199543,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 239700,018d937f-2410-73f5-a5e0-fd54a99df26d,Hate Plus,2026-06-25 18:39:29+00:00,Steam,2.49,9.99,75
 239700,018d937f-2410-73f5-a5e0-fd54a99df26d,Hate Plus,2026-07-09 17:17:32+00:00,Steam,9.99,9.99,0
 239700,018d937f-2410-73f5-a5e0-fd54a99df26d,Hate Plus,2026-07-13 17:22:26+00:00,Steam,2.49,9.99,75
+239700,018d937f-2410-73f5-a5e0-fd54a99df26d,Hate Plus,2026-07-20 17:28:01+00:00,Steam,9.99,9.99,0
 239800,018d937f-340f-72f3-b7ce-c1d56e0fc2c4,Bleed,2015-01-01 00:00:00+00:00,Steam,1.24,4.99,75
 239800,018d937f-340f-72f3-b7ce-c1d56e0fc2c4,Bleed,2015-01-02 18:21:16+00:00,Steam,4.99,4.99,0
 239800,018d937f-340f-72f3-b7ce-c1d56e0fc2c4,Bleed,2015-03-23 17:42:18+00:00,Steam,1.99,4.99,60
@@ -200864,6 +200993,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 241240,018d937f-29f5-7100-a880-b21ab78aa03d,Contraption Maker,2026-06-25 18:39:29+00:00,Steam,6.49,12.99,50
 241240,018d937f-29f5-7100-a880-b21ab78aa03d,Contraption Maker,2026-07-09 17:17:32+00:00,Steam,12.99,12.99,0
 241240,018d937f-29f5-7100-a880-b21ab78aa03d,Contraption Maker,2026-07-13 17:29:19+00:00,Steam,6.49,12.99,50
+241240,018d937f-29f5-7100-a880-b21ab78aa03d,Contraption Maker,2026-07-20 17:28:01+00:00,Steam,12.99,12.99,0
 241260,018d937e-f4f5-7095-b972-5a0bacdb6869,Sherlock Holmes: Crimes and Punishments,2015-01-01 00:00:00+00:00,Steam,29.99,39.99,25
 241260,018d937e-f4f5-7095-b972-5a0bacdb6869,Sherlock Holmes: Crimes and Punishments,2015-01-02 18:21:16+00:00,Steam,39.99,39.99,0
 241260,018d937e-f4f5-7095-b972-5a0bacdb6869,Sherlock Holmes: Crimes and Punishments,2015-02-10 18:27:03+00:00,Steam,26.79,39.99,33
@@ -209347,6 +209477,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 244910,018d937f-1923-72fc-a16a-6b47042a5538,Homesick,2026-06-01 17:22:50+00:00,Steam,14.99,14.99,0
 244910,018d937f-1923-72fc-a16a-6b47042a5538,Homesick,2026-06-25 18:33:40+00:00,Steam,2.99,14.99,80
 244910,018d937f-1923-72fc-a16a-6b47042a5538,Homesick,2026-07-09 17:17:32+00:00,Steam,14.99,14.99,0
+244910,018d937f-1923-72fc-a16a-6b47042a5538,Homesick,2026-07-20 17:19:43+00:00,Steam,3.74,14.99,75
 244950,018d937f-0c10-7236-8e2d-675541bc91bd,Where is my Heart?,2015-01-01 00:00:00+00:00,Steam,7.99,7.99,0
 244950,018d937f-0c10-7236-8e2d-675541bc91bd,Where is my Heart?,2016-02-05 18:39:47+00:00,Steam,5.35,7.99,33
 244950,018d937f-0c10-7236-8e2d-675541bc91bd,Where is my Heart?,2016-02-12 18:28:17+00:00,Steam,7.99,7.99,0
@@ -209955,6 +210086,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 245170,018d937f-4cee-7015-9ee2-902b3645522f,Skullgirls 2nd Encore,2026-06-25 18:20:51+00:00,Steam,2.49,24.99,90
 245170,018d937f-4cee-7015-9ee2-902b3645522f,Skullgirls 2nd Encore,2026-07-09 17:17:32+00:00,Steam,24.99,24.99,0
 245170,018d937f-4cee-7015-9ee2-902b3645522f,Skullgirls 2nd Encore,2026-07-13 17:22:26+00:00,Steam,6.24,24.99,75
+245170,018d937f-4cee-7015-9ee2-902b3645522f,Skullgirls 2nd Encore,2026-07-20 17:28:01+00:00,Steam,24.99,24.99,0
 245280,018d937e-f021-706f-995a-e04645b48b0c,Enslaved: Odyssey to the West Premium Edition,2015-01-01 00:00:00+00:00,Steam,6.79,19.99,66
 245280,018d937e-f021-706f-995a-e04645b48b0c,Enslaved: Odyssey to the West Premium Edition,2015-01-02 18:21:16+00:00,Steam,19.99,19.99,0
 245280,018d937e-f021-706f-995a-e04645b48b0c,Enslaved: Odyssey to the West Premium Edition,2015-06-11 18:48:16+00:00,Steam,6.79,19.99,66
@@ -210497,6 +210629,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 245390,018d937f-0c6d-7350-89e8-e8f1f87416cc,"I Have No Mouth, and I Must Scream",2026-06-25 18:50:19+00:00,Steam,2.99,9.99,70
 245390,018d937f-0c6d-7350-89e8-e8f1f87416cc,"I Have No Mouth, and I Must Scream",2026-07-09 17:17:32+00:00,Steam,9.99,9.99,0
 245390,018d937f-0c6d-7350-89e8-e8f1f87416cc,"I Have No Mouth, and I Must Scream",2026-07-13 17:22:26+00:00,Steam,2.49,9.99,75
+245390,018d937f-0c6d-7350-89e8-e8f1f87416cc,"I Have No Mouth, and I Must Scream",2026-07-20 17:34:09+00:00,Steam,9.99,9.99,0
 245410,018d937e-ff06-71c4-bb0e-59512c1f1d2d,Wizardry 6: Bane of the Cosmic Forge,2015-01-01 00:00:00+00:00,Steam,1.24,4.99,75
 245410,018d937e-ff06-71c4-bb0e-59512c1f1d2d,Wizardry 6: Bane of the Cosmic Forge,2015-01-02 18:21:16+00:00,Steam,4.99,4.99,0
 245410,018d937e-ff06-71c4-bb0e-59512c1f1d2d,Wizardry 6: Bane of the Cosmic Forge,2015-06-11 18:48:17+00:00,Steam,1.24,4.99,75
@@ -210706,6 +210839,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 245450,018d937f-17f6-721f-8f97-9ca838addbbc,Wizardry 8,2026-06-25 18:50:19+00:00,Steam,1.99,9.99,80
 245450,018d937f-17f6-721f-8f97-9ca838addbbc,Wizardry 8,2026-07-09 17:17:32+00:00,Steam,9.99,9.99,0
 245450,018d937f-17f6-721f-8f97-9ca838addbbc,Wizardry 8,2026-07-13 17:22:26+00:00,Steam,1.99,9.99,80
+245450,018d937f-17f6-721f-8f97-9ca838addbbc,Wizardry 8,2026-07-20 17:34:09+00:00,Steam,9.99,9.99,0
 245470,018d937f-119f-729b-8a49-68a16f8d0f65,Democracy 3,2015-01-01 00:00:00+00:00,Steam,6.24,24.99,75
 245470,018d937f-119f-729b-8a49-68a16f8d0f65,Democracy 3,2015-01-02 18:21:16+00:00,Steam,24.99,24.99,0
 245470,018d937f-119f-729b-8a49-68a16f8d0f65,Democracy 3,2015-03-23 17:42:18+00:00,Steam,14.99,29.99,50
@@ -216993,6 +217127,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 248710,018d937f-210f-731a-9f3e-791ad0fe3bb0,Iesabel,2026-06-25 18:09:47+00:00,Steam,0.84,4.99,83
 248710,018d937f-210f-731a-9f3e-791ad0fe3bb0,Iesabel,2026-07-09 17:17:33+00:00,Steam,4.99,4.99,0
 248710,018d937f-210f-731a-9f3e-791ad0fe3bb0,Iesabel,2026-07-13 17:22:26+00:00,Steam,0.84,4.99,83
+248710,018d937f-210f-731a-9f3e-791ad0fe3bb0,Iesabel,2026-07-20 17:34:09+00:00,Steam,4.99,4.99,0
 248730,018d937f-3607-7246-b7d4-4ae38b8e5c13,A Walk in the Dark,2015-01-01 00:00:00+00:00,Steam,2.79,6.99,60
 248730,018d937f-3607-7246-b7d4-4ae38b8e5c13,A Walk in the Dark,2015-01-02 18:21:16+00:00,Steam,6.99,6.99,0
 248730,018d937f-3607-7246-b7d4-4ae38b8e5c13,A Walk in the Dark,2015-02-16 18:21:31+00:00,Steam,3.49,6.99,50
@@ -224685,6 +224820,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 251730,018d9574-92e9-73ac-9425-c8ff612d62a0,Legend of Grimrock 2,2026-06-25 18:20:53+00:00,Steam,4.79,23.99,80
 251730,018d9574-92e9-73ac-9425-c8ff612d62a0,Legend of Grimrock 2,2026-07-09 17:17:34+00:00,Steam,23.99,23.99,0
 251730,018d9574-92e9-73ac-9425-c8ff612d62a0,Legend of Grimrock 2,2026-07-13 17:22:27+00:00,Steam,4.79,23.99,80
+251730,018d9574-92e9-73ac-9425-c8ff612d62a0,Legend of Grimrock 2,2026-07-20 17:34:09+00:00,Steam,23.99,23.99,0
 251830,018d937e-f4e1-72d7-80a8-3946c3e49abd,Stick it to The Man!,2015-01-01 00:00:00+00:00,Steam,10.49,14.99,30
 251830,018d937e-f4e1-72d7-80a8-3946c3e49abd,Stick it to The Man!,2015-01-02 18:21:16+00:00,Steam,14.99,14.99,0
 251830,018d937e-f4e1-72d7-80a8-3946c3e49abd,Stick it to The Man!,2015-06-11 18:48:19+00:00,Steam,5.99,14.99,60
@@ -225581,6 +225717,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 252010,018d937f-2848-71eb-8b82-ea536c7bacc8,Oniken: Unstoppable Edition,2026-06-25 18:09:48+00:00,Steam,1.99,4.99,60
 252010,018d937f-2848-71eb-8b82-ea536c7bacc8,Oniken: Unstoppable Edition,2026-07-09 17:17:34+00:00,Steam,4.99,4.99,0
 252010,018d937f-2848-71eb-8b82-ea536c7bacc8,Oniken: Unstoppable Edition,2026-07-13 17:22:27+00:00,Steam,3.99,4.99,20
+252010,018d937f-2848-71eb-8b82-ea536c7bacc8,Oniken: Unstoppable Edition,2026-07-20 17:34:09+00:00,Steam,4.99,4.99,0
 252030,018d937f-25e2-71b0-a622-2f303942a4ca,Valdis Story: Abyssal City,2015-01-01 00:00:00+00:00,Steam,14.99,14.99,0
 252030,018d937f-25e2-71b0-a622-2f303942a4ca,Valdis Story: Abyssal City,2015-05-11 17:27:03+00:00,Steam,9.74,14.99,35
 252030,018d937f-25e2-71b0-a622-2f303942a4ca,Valdis Story: Abyssal City,2015-05-21 17:24:17+00:00,Steam,14.99,14.99,0
@@ -227747,6 +227884,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 252470,018d937e-f8b7-71c3-8c4e-276edaa59279,Space Pirates and Zombies 2,2026-06-25 18:39:30+00:00,Steam,3.99,19.99,80
 252470,018d937e-f8b7-71c3-8c4e-276edaa59279,Space Pirates and Zombies 2,2026-07-09 17:17:34+00:00,Steam,19.99,19.99,0
 252470,018d937e-f8b7-71c3-8c4e-276edaa59279,Space Pirates and Zombies 2,2026-07-13 17:22:27+00:00,Steam,9.99,19.99,50
+252470,018d937e-f8b7-71c3-8c4e-276edaa59279,Space Pirates and Zombies 2,2026-07-20 17:34:09+00:00,Steam,19.99,19.99,0
 252490,018d937f-060f-705e-b364-8c5bba4d62f6,Rust,2015-01-01 00:00:00+00:00,Steam,19.99,19.99,0
 252490,018d937f-060f-705e-b364-8c5bba4d62f6,Rust,2015-11-25 19:20:04+00:00,Steam,13.39,19.99,33
 252490,018d937f-060f-705e-b364-8c5bba4d62f6,Rust,2015-12-01 18:23:56+00:00,Steam,19.99,19.99,0
@@ -231939,6 +232077,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 253650,018d937f-24b9-7255-8681-faea35e01fce,Sparkle 2 Evo,2026-06-25 18:09:48+00:00,Steam,0.84,4.99,83
 253650,018d937f-24b9-7255-8681-faea35e01fce,Sparkle 2 Evo,2026-07-09 17:17:34+00:00,Steam,4.99,4.99,0
 253650,018d937f-24b9-7255-8681-faea35e01fce,Sparkle 2 Evo,2026-07-13 17:22:27+00:00,Steam,0.84,4.99,83
+253650,018d937f-24b9-7255-8681-faea35e01fce,Sparkle 2 Evo,2026-07-20 17:34:09+00:00,Steam,4.99,4.99,0
 253690,018d937f-0c86-70e9-9298-ddf1984195b8,Tiny Brains,2015-01-01 00:00:00+00:00,Steam,9.99,9.99,0
 253690,018d937f-0c86-70e9-9298-ddf1984195b8,Tiny Brains,2015-06-11 18:48:20+00:00,Steam,1.99,9.99,80
 253690,018d937f-0c86-70e9-9298-ddf1984195b8,Tiny Brains,2015-06-22 17:21:18+00:00,Steam,9.99,9.99,0
@@ -232657,6 +232796,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 253860,018d937f-2d30-7244-af87-40be3045b2d1,Earth 2140,2026-05-18 17:32:07+00:00,Steam,6.99,6.99,0
 253860,018d937f-2d30-7244-af87-40be3045b2d1,Earth 2140,2026-06-25 18:09:48+00:00,Steam,3.49,6.99,50
 253860,018d937f-2d30-7244-af87-40be3045b2d1,Earth 2140,2026-07-09 17:17:34+00:00,Steam,6.99,6.99,0
+253860,018d937f-2d30-7244-af87-40be3045b2d1,Earth 2140,2026-07-21 17:15:27+00:00,Steam,3.49,6.99,50
 253880,018d937f-2b65-72bc-908c-cc7ec86f0949,Earth 2150 Trilogy,2015-01-01 00:00:00+00:00,Steam,1.74,6.99,75
 253880,018d937f-2b65-72bc-908c-cc7ec86f0949,Earth 2150 Trilogy,2015-01-02 18:21:16+00:00,Steam,6.99,6.99,0
 253880,018d937f-2b65-72bc-908c-cc7ec86f0949,Earth 2150 Trilogy,2015-01-05 18:21:09+00:00,Steam,0.97,6.99,86
@@ -232873,6 +233013,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 253880,018d937f-2b65-72bc-908c-cc7ec86f0949,Earth 2150 Trilogy,2026-05-18 17:32:07+00:00,Steam,9.99,9.99,0
 253880,018d937f-2b65-72bc-908c-cc7ec86f0949,Earth 2150 Trilogy,2026-06-25 18:09:48+00:00,Steam,4.99,9.99,50
 253880,018d937f-2b65-72bc-908c-cc7ec86f0949,Earth 2150 Trilogy,2026-07-09 17:17:34+00:00,Steam,9.99,9.99,0
+253880,018d937f-2b65-72bc-908c-cc7ec86f0949,Earth 2150 Trilogy,2026-07-21 17:15:27+00:00,Steam,4.99,9.99,50
 253900,018d937e-f4f3-72be-a8a1-24e3eb8c7487,Knights & Merchants,2015-01-01 00:00:00+00:00,Steam,6.99,6.99,0
 253900,018d937e-f4f3-72be-a8a1-24e3eb8c7487,Knights & Merchants,2015-01-19 18:21:08+00:00,Steam,0.97,6.99,86
 253900,018d937e-f4f3-72be-a8a1-24e3eb8c7487,Knights & Merchants,2015-01-26 18:21:12+00:00,Steam,6.99,6.99,0
@@ -233079,6 +233220,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 253900,018d937e-f4f3-72be-a8a1-24e3eb8c7487,Knights & Merchants,2026-05-18 17:32:08+00:00,Steam,9.99,9.99,0
 253900,018d937e-f4f3-72be-a8a1-24e3eb8c7487,Knights & Merchants,2026-06-25 18:09:48+00:00,Steam,4.99,9.99,50
 253900,018d937e-f4f3-72be-a8a1-24e3eb8c7487,Knights & Merchants,2026-07-09 17:17:34+00:00,Steam,9.99,9.99,0
+253900,018d937e-f4f3-72be-a8a1-24e3eb8c7487,Knights & Merchants,2026-07-21 17:15:27+00:00,Steam,4.99,9.99,50
 253920,018d937f-0ca2-7311-88d5-3935db900748,Gorky 17,2015-01-01 00:00:00+00:00,Steam,1.24,4.99,75
 253920,018d937f-0ca2-7311-88d5-3935db900748,Gorky 17,2015-01-02 18:21:16+00:00,Steam,4.99,4.99,0
 253920,018d937f-0ca2-7311-88d5-3935db900748,Gorky 17,2015-01-12 18:21:14+00:00,Steam,0.69,4.99,86
@@ -233292,6 +233434,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 253920,018d937f-0ca2-7311-88d5-3935db900748,Gorky 17,2026-05-18 17:32:08+00:00,Steam,9.99,9.99,0
 253920,018d937f-0ca2-7311-88d5-3935db900748,Gorky 17,2026-06-25 18:09:48+00:00,Steam,4.99,9.99,50
 253920,018d937f-0ca2-7311-88d5-3935db900748,Gorky 17,2026-07-09 17:17:34+00:00,Steam,9.99,9.99,0
+253920,018d937f-0ca2-7311-88d5-3935db900748,Gorky 17,2026-07-21 17:15:27+00:00,Steam,4.99,9.99,50
 253940,018d937f-0c87-7336-88ca-ca42f82e611b,Septerra Core,2015-01-01 00:00:00+00:00,Steam,1.24,4.99,75
 253940,018d937f-0c87-7336-88ca-ca42f82e611b,Septerra Core,2015-01-02 18:21:16+00:00,Steam,4.99,4.99,0
 253940,018d937f-0c87-7336-88ca-ca42f82e611b,Septerra Core,2015-01-19 18:21:08+00:00,Steam,0.69,4.99,86
@@ -233496,6 +233639,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 253940,018d937f-0c87-7336-88ca-ca42f82e611b,Septerra Core,2026-05-18 17:32:08+00:00,Steam,7.99,7.99,0
 253940,018d937f-0c87-7336-88ca-ca42f82e611b,Septerra Core,2026-06-25 18:09:48+00:00,Steam,3.99,7.99,50
 253940,018d937f-0c87-7336-88ca-ca42f82e611b,Septerra Core,2026-07-09 17:17:34+00:00,Steam,7.99,7.99,0
+253940,018d937f-0c87-7336-88ca-ca42f82e611b,Septerra Core,2026-07-21 17:15:27+00:00,Steam,3.99,7.99,50
 253960,018d937f-24e3-7317-97fe-3c118def71f5,Jack Orlando: Directors Cut,2015-01-01 00:00:00+00:00,Steam,1.24,4.99,75
 253960,018d937f-24e3-7317-97fe-3c118def71f5,Jack Orlando: Directors Cut,2015-01-02 18:21:16+00:00,Steam,4.99,4.99,0
 253960,018d937f-24e3-7317-97fe-3c118def71f5,Jack Orlando: Directors Cut,2015-02-16 18:21:31+00:00,Steam,0.69,4.99,86
@@ -233698,6 +233842,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 253960,018d937f-24e3-7317-97fe-3c118def71f5,Jack Orlando: Directors Cut,2026-05-18 17:32:08+00:00,Steam,6.99,6.99,0
 253960,018d937f-24e3-7317-97fe-3c118def71f5,Jack Orlando: Directors Cut,2026-06-25 18:09:48+00:00,Steam,3.49,6.99,50
 253960,018d937f-24e3-7317-97fe-3c118def71f5,Jack Orlando: Directors Cut,2026-07-09 17:17:34+00:00,Steam,6.99,6.99,0
+253960,018d937f-24e3-7317-97fe-3c118def71f5,Jack Orlando: Directors Cut,2026-07-21 17:15:27+00:00,Steam,3.49,6.99,50
 253980,018d937e-e9b9-7017-be46-d6fe15c0ddd8,Enclave,2015-01-01 00:00:00+00:00,Steam,1.24,4.99,75
 253980,018d937e-e9b9-7017-be46-d6fe15c0ddd8,Enclave,2015-01-02 18:21:16+00:00,Steam,4.99,4.99,0
 253980,018d937e-e9b9-7017-be46-d6fe15c0ddd8,Enclave,2015-01-12 18:21:14+00:00,Steam,0.69,4.99,86
@@ -233911,6 +234056,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 253980,018d937e-e9b9-7017-be46-d6fe15c0ddd8,Enclave,2026-05-18 17:32:08+00:00,Steam,9.99,9.99,0
 253980,018d937e-e9b9-7017-be46-d6fe15c0ddd8,Enclave,2026-06-25 18:09:48+00:00,Steam,4.99,9.99,50
 253980,018d937e-e9b9-7017-be46-d6fe15c0ddd8,Enclave,2026-07-09 17:17:34+00:00,Steam,9.99,9.99,0
+253980,018d937e-e9b9-7017-be46-d6fe15c0ddd8,Enclave,2026-07-21 17:15:27+00:00,Steam,4.99,9.99,50
 254060,018d937f-23f5-70a9-a37c-96e6f53ba848,KnightShift,2015-01-01 00:00:00+00:00,Steam,1.74,6.99,75
 254060,018d937f-23f5-70a9-a37c-96e6f53ba848,KnightShift,2015-01-02 18:21:16+00:00,Steam,6.99,6.99,0
 254060,018d937f-23f5-70a9-a37c-96e6f53ba848,KnightShift,2015-01-12 18:21:14+00:00,Steam,0.97,6.99,86
@@ -234114,6 +234260,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 254060,018d937f-23f5-70a9-a37c-96e6f53ba848,KnightShift,2026-05-18 17:32:08+00:00,Steam,8.99,8.99,0
 254060,018d937f-23f5-70a9-a37c-96e6f53ba848,KnightShift,2026-06-25 18:09:48+00:00,Steam,2.69,8.99,70
 254060,018d937f-23f5-70a9-a37c-96e6f53ba848,KnightShift,2026-07-09 17:17:34+00:00,Steam,8.99,8.99,0
+254060,018d937f-23f5-70a9-a37c-96e6f53ba848,KnightShift,2026-07-21 17:15:27+00:00,Steam,2.69,8.99,70
 254080,018d937f-17ac-7159-a7b8-4adbd17b0cc5,World War III: Black Gold,2015-01-01 00:00:00+00:00,Steam,1.24,4.99,75
 254080,018d937f-17ac-7159-a7b8-4adbd17b0cc5,World War III: Black Gold,2015-01-02 18:21:16+00:00,Steam,4.99,4.99,0
 254080,018d937f-17ac-7159-a7b8-4adbd17b0cc5,World War III: Black Gold,2015-03-02 18:27:04+00:00,Steam,0.69,4.99,86
@@ -234323,6 +234470,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 254080,018d937f-17ac-7159-a7b8-4adbd17b0cc5,World War III: Black Gold,2026-05-18 17:32:08+00:00,Steam,6.99,6.99,0
 254080,018d937f-17ac-7159-a7b8-4adbd17b0cc5,World War III: Black Gold,2026-06-25 18:09:48+00:00,Steam,3.49,6.99,50
 254080,018d937f-17ac-7159-a7b8-4adbd17b0cc5,World War III: Black Gold,2026-07-09 17:17:34+00:00,Steam,6.99,6.99,0
+254080,018d937f-17ac-7159-a7b8-4adbd17b0cc5,World War III: Black Gold,2026-07-21 17:15:27+00:00,Steam,3.49,6.99,50
 254100,018d937f-047c-703f-8183-4b317822687c,World War II: Panzer Claws,2015-01-01 00:00:00+00:00,Steam,1.24,4.99,75
 254100,018d937f-047c-703f-8183-4b317822687c,World War II: Panzer Claws,2015-01-02 18:21:16+00:00,Steam,4.99,4.99,0
 254100,018d937f-047c-703f-8183-4b317822687c,World War II: Panzer Claws,2015-03-02 18:27:04+00:00,Steam,0.69,4.99,86
@@ -234532,6 +234680,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 254100,018d937f-047c-703f-8183-4b317822687c,World War II: Panzer Claws,2026-05-18 17:32:08+00:00,Steam,6.99,6.99,0
 254100,018d937f-047c-703f-8183-4b317822687c,World War II: Panzer Claws,2026-06-25 18:09:48+00:00,Steam,3.49,6.99,50
 254100,018d937f-047c-703f-8183-4b317822687c,World War II: Panzer Claws,2026-07-09 17:17:34+00:00,Steam,6.99,6.99,0
+254100,018d937f-047c-703f-8183-4b317822687c,World War II: Panzer Claws,2026-07-21 17:15:27+00:00,Steam,3.49,6.99,50
 254200,018d937f-12fd-73b8-8c6a-8b3f8165d844,FortressCraft Evolved!,2015-01-01 00:00:00+00:00,Steam,8.99,8.99,0
 254200,018d937f-12fd-73b8-8c6a-8b3f8165d844,FortressCraft Evolved!,2015-02-16 18:21:31+00:00,Steam,2.24,8.99,75
 254200,018d937f-12fd-73b8-8c6a-8b3f8165d844,FortressCraft Evolved!,2015-02-23 18:21:11+00:00,Steam,8.99,8.99,0
@@ -244096,6 +244245,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 258890,018d937e-f89a-7368-a295-7a88466100f3,Type:Rider,2026-06-12 17:17:30+00:00,Steam,4.99,4.99,0
 258890,018d937e-f89a-7368-a295-7a88466100f3,Type:Rider,2026-06-25 18:50:15+00:00,Steam,0.84,4.99,83
 258890,018d937e-f89a-7368-a295-7a88466100f3,Type:Rider,2026-07-09 17:17:35+00:00,Steam,4.99,4.99,0
+258890,018d937e-f89a-7368-a295-7a88466100f3,Type:Rider,2026-07-21 17:15:27+00:00,Steam,0.84,4.99,83
 258950,018d937e-f530-71da-9fdb-ca5448b73648,Montague's Mount,2015-01-01 00:00:00+00:00,Steam,1.99,9.99,80
 258950,018d937e-f530-71da-9fdb-ca5448b73648,Montague's Mount,2015-01-02 18:21:16+00:00,Steam,9.99,9.99,0
 258950,018d937e-f530-71da-9fdb-ca5448b73648,Montague's Mount,2015-01-19 18:21:08+00:00,Steam,1.99,9.99,80
@@ -244991,6 +245141,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 259320,018d937e-f524-7384-a34a-0a7652c811bc,Heli Heroes,2026-05-18 17:32:08+00:00,Steam,6.99,6.99,0
 259320,018d937e-f524-7384-a34a-0a7652c811bc,Heli Heroes,2026-06-25 18:09:49+00:00,Steam,1.74,6.99,75
 259320,018d937e-f524-7384-a34a-0a7652c811bc,Heli Heroes,2026-07-09 17:17:36+00:00,Steam,6.99,6.99,0
+259320,018d937e-f524-7384-a34a-0a7652c811bc,Heli Heroes,2026-07-21 17:15:27+00:00,Steam,1.74,6.99,75
 259340,018d937f-0c51-726a-ab8b-e4995bec3f20,Chicken Shoot Gold,2015-01-01 00:00:00+00:00,Steam,1.74,6.99,75
 259340,018d937f-0c51-726a-ab8b-e4995bec3f20,Chicken Shoot Gold,2015-01-02 18:21:16+00:00,Steam,6.99,6.99,0
 259340,018d937f-0c51-726a-ab8b-e4995bec3f20,Chicken Shoot Gold,2015-02-16 18:21:31+00:00,Steam,0.69,6.99,90
@@ -245189,6 +245340,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 259340,018d937f-0c51-726a-ab8b-e4995bec3f20,Chicken Shoot Gold,2026-05-18 17:32:08+00:00,Steam,12.99,12.99,0
 259340,018d937f-0c51-726a-ab8b-e4995bec3f20,Chicken Shoot Gold,2026-06-25 18:09:49+00:00,Steam,3.24,12.99,75
 259340,018d937f-0c51-726a-ab8b-e4995bec3f20,Chicken Shoot Gold,2026-07-09 17:17:36+00:00,Steam,12.99,12.99,0
+259340,018d937f-0c51-726a-ab8b-e4995bec3f20,Chicken Shoot Gold,2026-07-21 17:15:27+00:00,Steam,3.24,12.99,75
 259390,018d937f-1d10-738e-a02f-671851f53d81,Ballpoint Universe - Infinite,2015-01-01 00:00:00+00:00,Steam,3.99,3.99,0
 259390,018d937f-1d10-738e-a02f-671851f53d81,Ballpoint Universe - Infinite,2015-06-11 18:48:17+00:00,Steam,2.99,3.99,25
 259390,018d937f-1d10-738e-a02f-671851f53d81,Ballpoint Universe - Infinite,2015-06-22 17:21:18+00:00,Steam,3.99,3.99,0
@@ -295835,6 +295987,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 279640,018d937f-1367-730a-a312-32b4a523feb4,The Troma Project,2026-05-18 17:32:08+00:00,Steam,7.99,7.99,0
 279640,018d937f-1367-730a-a312-32b4a523feb4,The Troma Project,2026-06-25 18:14:51+00:00,Steam,1.99,7.99,75
 279640,018d937f-1367-730a-a312-32b4a523feb4,The Troma Project,2026-07-09 17:17:41+00:00,Steam,7.99,7.99,0
+279640,018d937f-1367-730a-a312-32b4a523feb4,The Troma Project,2026-07-21 17:15:27+00:00,Steam,1.99,7.99,75
 279720,018d937e-fd18-7001-9537-5dd1e9bc5d5e,The I of the Dragon,2015-03-06 16:21:09+00:00,Steam,3.49,6.99,50
 279720,018d937e-fd18-7001-9537-5dd1e9bc5d5e,The I of the Dragon,2015-03-13 18:21:18+00:00,Steam,6.99,6.99,0
 279720,018d937e-fd18-7001-9537-5dd1e9bc5d5e,The I of the Dragon,2015-05-11 17:27:03+00:00,Steam,1.74,6.99,75
@@ -296037,6 +296190,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 279720,018d937e-fd18-7001-9537-5dd1e9bc5d5e,The I of the Dragon,2026-05-18 17:32:08+00:00,Steam,7.99,7.99,0
 279720,018d937e-fd18-7001-9537-5dd1e9bc5d5e,The I of the Dragon,2026-06-25 18:14:51+00:00,Steam,3.19,7.99,60
 279720,018d937e-fd18-7001-9537-5dd1e9bc5d5e,The I of the Dragon,2026-07-09 17:17:41+00:00,Steam,7.99,7.99,0
+279720,018d937e-fd18-7001-9537-5dd1e9bc5d5e,The I of the Dragon,2026-07-21 17:15:27+00:00,Steam,3.19,7.99,60
 279800,018d937f-2473-7218-a354-b4f4f4ef70dd,Grim Legends 2: Song of the Dark Swan,2015-03-26 18:27:04+00:00,Steam,5.99,9.99,40
 279800,018d937f-2473-7218-a354-b4f4f4ef70dd,Grim Legends 2: Song of the Dark Swan,2015-04-02 17:27:05+00:00,Steam,9.99,9.99,0
 279800,018d937f-2473-7218-a354-b4f4f4ef70dd,Grim Legends 2: Song of the Dark Swan,2015-06-11 18:48:17+00:00,Steam,4.99,9.99,50
@@ -315453,6 +315607,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 285740,018d937e-ff56-73de-ad7e-3cc0d29aad5b,Kitty Powers' Matchmaker,2026-06-19 17:17:09+00:00,Steam,9.99,9.99,0
 285740,018d937e-ff56-73de-ad7e-3cc0d29aad5b,Kitty Powers' Matchmaker,2026-06-25 19:08:21+00:00,Steam,6.69,9.99,33
 285740,018d937e-ff56-73de-ad7e-3cc0d29aad5b,Kitty Powers' Matchmaker,2026-07-09 17:17:42+00:00,Steam,9.99,9.99,0
+285740,018d937e-ff56-73de-ad7e-3cc0d29aad5b,Kitty Powers' Matchmaker,2026-07-21 16:15:54+00:00,Steam,6.69,9.99,33
 285800,018d937f-0e13-72cb-9808-4487453f4f18,Braveland,2015-01-01 00:00:00+00:00,Steam,1.99,4.99,60
 285800,018d937f-0e13-72cb-9808-4487453f4f18,Braveland,2015-01-02 18:21:16+00:00,Steam,4.99,4.99,0
 285800,018d937f-0e13-72cb-9808-4487453f4f18,Braveland,2015-02-09 18:27:03+00:00,Steam,1.24,4.99,75
@@ -348749,6 +348904,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 295650,018d937f-203a-72e8-a9b2-a62b6ff7ff35,Streng Check,2026-06-06 10:30:58+00:00,Steam,4.99,4.99,0
 295650,018d937f-203a-72e8-a9b2-a62b6ff7ff35,Streng Check,2026-06-25 19:12:30+00:00,Steam,0.49,4.99,90
 295650,018d937f-203a-72e8-a9b2-a62b6ff7ff35,Streng Check,2026-07-09 17:17:46+00:00,Steam,4.99,4.99,0
+295650,018d937f-203a-72e8-a9b2-a62b6ff7ff35,Streng Check,2026-07-21 17:15:27+00:00,Steam,0.49,4.99,90
 295670,018d937f-2e69-70b8-a8fa-c43082a19f66,Hive Jump,2016-07-21 08:17:41+00:00,Steam,19.99,19.99,0
 295670,018d937f-2e69-70b8-a8fa-c43082a19f66,Hive Jump,2016-11-23 18:45:59+00:00,Steam,14.99,19.99,25
 295670,018d937f-2e69-70b8-a8fa-c43082a19f66,Hive Jump,2016-11-29 18:15:43+00:00,Steam,19.99,19.99,0
@@ -371194,6 +371350,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 302180,018d937f-1e53-7107-9242-6ad1c40a8023,Voyage: Journey to the Moon,2026-04-06 17:26:59+00:00,Steam,4.99,4.99,0
 302180,018d937f-1e53-7107-9242-6ad1c40a8023,Voyage: Journey to the Moon,2026-06-25 17:49:01+00:00,Steam,0.99,4.99,80
 302180,018d937f-1e53-7107-9242-6ad1c40a8023,Voyage: Journey to the Moon,2026-07-09 17:17:49+00:00,Steam,4.99,4.99,0
+302180,018d937f-1e53-7107-9242-6ad1c40a8023,Voyage: Journey to the Moon,2026-07-21 17:15:27+00:00,Steam,0.99,4.99,80
 302190,018e08be-dd87-728f-b8a1-5a41b662d606,Amerzone: The Explorer's Legacy (1999),2015-01-01 00:00:00+00:00,Steam,4.99,4.99,0
 302190,018e08be-dd87-728f-b8a1-5a41b662d606,Amerzone: The Explorer's Legacy (1999),2015-01-12 18:21:14+00:00,Steam,1.24,4.99,75
 302190,018e08be-dd87-728f-b8a1-5a41b662d606,Amerzone: The Explorer's Legacy (1999),2015-01-19 18:21:09+00:00,Steam,4.99,4.99,0
@@ -382313,6 +382470,7 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 305780,018d937f-3594-717b-bc6a-1fcc1d307019,Echo of the Wilds,2026-06-15 17:29:52+00:00,Steam,6.99,6.99,0
 305780,018d937f-3594-717b-bc6a-1fcc1d307019,Echo of the Wilds,2026-06-25 18:50:38+00:00,Steam,3.84,6.99,45
 305780,018d937f-3594-717b-bc6a-1fcc1d307019,Echo of the Wilds,2026-07-09 17:17:52+00:00,Steam,6.99,6.99,0
+305780,018d937f-3594-717b-bc6a-1fcc1d307019,Echo of the Wilds,2026-07-21 19:15:47+00:00,Steam,3.84,6.99,45
 305800,018d937f-12df-70a2-b6c0-2ff290e36054,POP: Methodology Experiment One,2015-01-01 00:00:00+00:00,Steam,2.99,3.99,25
 305800,018d937f-12df-70a2-b6c0-2ff290e36054,POP: Methodology Experiment One,2015-01-02 18:21:16+00:00,Steam,3.99,3.99,0
 305800,018d937f-12df-70a2-b6c0-2ff290e36054,POP: Methodology Experiment One,2015-06-11 19:15:12+00:00,Steam,0.99,3.99,75
@@ -406296,3 +406454,4 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 3065800,018d937f-221d-72ee-99a5-238681910c51,Marathon,2026-06-16 17:17:01+00:00,Steam,39.99,39.99,0
 3065800,018d937f-221d-72ee-99a5-238681910c51,Marathon,2026-06-25 18:56:53+00:00,Steam,27.99,39.99,30
 3065800,018d937f-221d-72ee-99a5-238681910c51,Marathon,2026-07-09 18:29:58+00:00,Steam,39.99,39.99,0
+3065800,018d937f-221d-72ee-99a5-238681910c51,Marathon,2026-07-21 17:19:11+00:00,Steam,27.99,39.99,30
