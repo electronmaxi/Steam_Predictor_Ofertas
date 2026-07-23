@@ -16,7 +16,6 @@ import pandas as pd
 from datetime import datetime, timezone
 
 # --- Cargar API key ---
-# Intenta cargar desde archivo .env local si existe (no falla si no está, ej. en CI)
 try:
     from dotenv import load_dotenv
     load_dotenv("keys.env")
@@ -35,8 +34,13 @@ BASE = "https://api.isthereanydeal.com"
 DATA_DIR = "data"
 PRICE_HISTORY_PATH = os.path.join(DATA_DIR, "price_history.csv")
 SNAPSHOTS_PATH = os.path.join(DATA_DIR, "snapshots.csv")
-
 TRACKED_PATH = os.path.join(DATA_DIR, "tracked_games.csv")
+
+# Cada cuántos días se re-consulta un juego ya activo.
+# El histórico de precios NO pierde datos por consultar menos seguido
+# (ITAD ya lo registra con su propio timestamp); lo único que pierde
+# resolución es el snapshot de jugadores/reviews del día.
+UPDATE_INTERVAL_DAYS = 7
 
 
 class RateLimitReached(Exception):
@@ -79,13 +83,14 @@ def get_game_data(appid, since="2015-01-01T00:00:00Z", country="us"):
             "history": history, "info": info}
 
 
-def save_price_history(result):
-    """Guarda el histórico de precios sin duplicar filas ya existentes."""
+# --- Funciones "build": arman las filas en memoria, SIN tocar disco ---
+
+def build_history_rows(result):
     appid = result["appid"]
     game_id = result["game_id"]
     title = result["title"]
 
-    df_new = pd.DataFrame([{
+    return [{
         "appid": appid,
         "game_id": game_id,
         "title": title,
@@ -94,30 +99,10 @@ def save_price_history(result):
         "price": h["deal"]["price"]["amount"],
         "regular": h["deal"]["regular"]["amount"],
         "discount_pct": h["deal"]["cut"]
-    } for h in result["history"]])
-
-    if df_new.empty:
-        print(f"[{title}] Sin registros de historial nuevos para guardar.")
-        return
-
-    df_new["timestamp"] = pd.to_datetime(df_new["timestamp"], utc=True)
-
-    if os.path.exists(PRICE_HISTORY_PATH):
-        df_old = pd.read_csv(PRICE_HISTORY_PATH, parse_dates=["timestamp"])
-        df_old["timestamp"] = pd.to_datetime(df_old["timestamp"], utc=True)
-        df_all = pd.concat([df_old, df_new], ignore_index=True)
-    else:
-        df_all = df_new
-
-    df_all = df_all.drop_duplicates(subset=["appid", "timestamp", "shop"])
-    df_all = df_all.sort_values(["appid", "timestamp"]).reset_index(drop=True)
-
-    df_all.to_csv(PRICE_HISTORY_PATH, index=False)
-    print(f"[{title}] Historial actualizado. Total filas en archivo: {len(df_all)}")
+    } for h in result["history"]]
 
 
-def save_snapshot(result):
-    """Guarda un snapshot diario de metadata (jugadores, reviews, rank, etc.)."""
+def build_snapshot_row(result):
     info = result["info"]
     today = datetime.now(timezone.utc).date().isoformat()
 
@@ -143,7 +128,41 @@ def save_snapshot(result):
         row[f"{source}_score"] = review["score"]
         row[f"{source}_count"] = review["count"]
 
-    df_new = pd.DataFrame([row])
+    return row
+
+
+# --- Funciones "write bulk": leen el CSV UNA sola vez, agregan todo, guardan UNA sola vez ---
+
+def write_price_history_bulk(new_rows):
+    """Escribe todas las filas nuevas de historial en una sola operación de IO."""
+    if not new_rows:
+        print("Sin registros nuevos de historial para guardar.")
+        return
+
+    df_new = pd.DataFrame(new_rows)
+    df_new["timestamp"] = pd.to_datetime(df_new["timestamp"], utc=True)
+
+    if os.path.exists(PRICE_HISTORY_PATH):
+        df_old = pd.read_csv(PRICE_HISTORY_PATH, parse_dates=["timestamp"])
+        df_old["timestamp"] = pd.to_datetime(df_old["timestamp"], utc=True)
+        df_all = pd.concat([df_old, df_new], ignore_index=True)
+    else:
+        df_all = df_new
+
+    df_all = df_all.drop_duplicates(subset=["appid", "timestamp", "shop"])
+    df_all = df_all.sort_values(["appid", "timestamp"]).reset_index(drop=True)
+
+    df_all.to_csv(PRICE_HISTORY_PATH, index=False)
+    print(f"price_history.csv actualizado. Total filas: {len(df_all)}")
+
+
+def write_snapshots_bulk(new_rows):
+    """Escribe todos los snapshots nuevos en una sola operación de IO."""
+    if not new_rows:
+        print("Sin snapshots nuevos para guardar.")
+        return
+
+    df_new = pd.DataFrame(new_rows)
 
     if os.path.exists(SNAPSHOTS_PATH):
         df_old = pd.read_csv(SNAPSHOTS_PATH)
@@ -155,7 +174,7 @@ def save_snapshot(result):
     df_all = df_all.sort_values(["appid", "date_checked"]).reset_index(drop=True)
 
     df_all.to_csv(SNAPSHOTS_PATH, index=False)
-    print(f"[{info['title']}] Snapshot de {today} guardado. Total filas en archivo: {len(df_all)}")
+    print(f"snapshots.csv actualizado. Total filas: {len(df_all)}")
 
 
 def get_active_games_sorted():
@@ -172,7 +191,6 @@ def get_active_games_sorted():
     df["last_updated"] = df["last_updated"].astype("object")
 
     active = df[df["status"] == "active"].copy()
-    # Los que nunca se han actualizado (NaN) quedan primero, luego los más antiguos
     active["_sort_key"] = pd.to_datetime(active["last_updated"], utc=True, errors="coerce")
     active = active.sort_values("_sort_key", na_position="first")
 
@@ -187,28 +205,46 @@ def main():
         print("No hay juegos activos para actualizar todavía.")
         return
 
-    print(f"{len(active)} juegos activos en total. Actualizando en orden de antigüedad...")
+    # Filtro: solo los que nunca se actualizaron o superan el intervalo definido
+    cutoff = pd.Timestamp.now(tz="UTC") - pd.Timedelta(days=UPDATE_INTERVAL_DAYS)
+    due = active[active["_sort_key"].isna() | (active["_sort_key"] < cutoff)]
 
+    print(f"{len(active)} juegos activos en total. "
+          f"{len(due)} necesitan actualización (sin datos hace más de {UPDATE_INTERVAL_DAYS} días).")
+
+    if due.empty:
+        print("Todos los juegos activos están al día. Nada que hacer por ahora.")
+        return
+
+    history_rows = []
+    snapshot_rows = []
     updated_count = 0
-    for idx, row in active.iterrows():
+    rate_limited = False
+
+    for idx, row in due.iterrows():
         appid = row["appid"]
         try:
             result = get_game_data(appid)
-            save_price_history(result)
-            save_snapshot(result)
+            history_rows.extend(build_history_rows(result))
+            snapshot_rows.append(build_snapshot_row(result))
             df.loc[df["appid"] == appid, "last_updated"] = pd.Timestamp.now(tz="UTC").isoformat()
             updated_count += 1
         except RateLimitReached:
             print(f"Rate limit alcanzado tras actualizar {updated_count} juegos. "
                   f"Guardando progreso, el resto sigue en la próxima ejecución.")
+            rate_limited = True
             break
         except Exception as e:
             print(f"Error procesando appid {appid}: {e}")
-            # no se detiene el loop por errores puntuales (juego eliminado, etc.)
         time.sleep(0.3)
 
+    # Guardado en bloque, UNA sola vez, sin importar cuántos juegos se procesaron
+    write_price_history_bulk(history_rows)
+    write_snapshots_bulk(snapshot_rows)
     df.to_csv(TRACKED_PATH, index=False)
-    print(f"Corrida terminada. Juegos actualizados esta vez: {updated_count} / {len(active)}")
+
+    print(f"Corrida terminada. Juegos actualizados esta vez: {updated_count} / {len(due)} pendientes de actualizar"
+          f"{' (detenido por rate limit)' if rate_limited else ''}")
 
 
 if __name__ == "__main__":
