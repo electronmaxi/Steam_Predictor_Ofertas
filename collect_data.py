@@ -18,7 +18,7 @@ from datetime import datetime, timezone
 # --- Cargar API key ---
 try:
     from dotenv import load_dotenv
-    load_dotenv("keys.env")
+    load_dotenv()
 except ImportError:
     pass
 
@@ -32,7 +32,8 @@ if not API_KEY:
 
 BASE = "https://api.isthereanydeal.com"
 DATA_DIR = "data"
-PRICE_HISTORY_PATH = os.path.join(DATA_DIR, "price_history.csv")
+PRICE_HISTORY_DIR = os.path.join(DATA_DIR, "price_history")
+NUM_SHARDS = 20  # si algún shard se acerca a 100MB en el futuro, subir este número y re-particionar
 SNAPSHOTS_PATH = os.path.join(DATA_DIR, "snapshots.csv")
 TRACKED_PATH = os.path.join(DATA_DIR, "tracked_games.csv")
 
@@ -133,27 +134,44 @@ def build_snapshot_row(result):
 
 # --- Funciones "write bulk": leen el CSV UNA sola vez, agregan todo, guardan UNA sola vez ---
 
+def shard_path(appid):
+    """Devuelve la ruta del archivo shard correspondiente a un appid."""
+    shard_id = appid % NUM_SHARDS
+    return os.path.join(PRICE_HISTORY_DIR, f"shard_{shard_id:02d}.csv")
+
+
 def write_price_history_bulk(new_rows):
-    """Escribe todas las filas nuevas de historial en una sola operación de IO."""
+    """Escribe las filas nuevas de historial, particionadas por appid en shards
+    para que ningún archivo individual se acerque al límite de 100MB de GitHub."""
     if not new_rows:
         print("Sin registros nuevos de historial para guardar.")
         return
 
+    os.makedirs(PRICE_HISTORY_DIR, exist_ok=True)
+
     df_new = pd.DataFrame(new_rows)
     df_new["timestamp"] = pd.to_datetime(df_new["timestamp"], utc=True)
+    df_new["_shard"] = df_new["appid"] % NUM_SHARDS
 
-    if os.path.exists(PRICE_HISTORY_PATH):
-        df_old = pd.read_csv(PRICE_HISTORY_PATH, parse_dates=["timestamp"])
-        df_old["timestamp"] = pd.to_datetime(df_old["timestamp"], utc=True)
-        df_all = pd.concat([df_old, df_new], ignore_index=True)
-    else:
-        df_all = df_new
+    total_rows = 0
+    for shard_id, group in df_new.groupby("_shard"):
+        group = group.drop(columns="_shard")
+        path = os.path.join(PRICE_HISTORY_DIR, f"shard_{shard_id:02d}.csv")
 
-    df_all = df_all.drop_duplicates(subset=["appid", "timestamp", "shop"])
-    df_all = df_all.sort_values(["appid", "timestamp"]).reset_index(drop=True)
+        if os.path.exists(path):
+            df_old = pd.read_csv(path, parse_dates=["timestamp"])
+            df_old["timestamp"] = pd.to_datetime(df_old["timestamp"], utc=True)
+            df_all = pd.concat([df_old, group], ignore_index=True)
+        else:
+            df_all = group
 
-    df_all.to_csv(PRICE_HISTORY_PATH, index=False)
-    print(f"price_history.csv actualizado. Total filas: {len(df_all)}")
+        df_all = df_all.drop_duplicates(subset=["appid", "timestamp", "shop"])
+        df_all = df_all.sort_values(["appid", "timestamp"]).reset_index(drop=True)
+        df_all.to_csv(path, index=False)
+        total_rows += len(df_all)
+
+    print(f"price_history actualizado en {df_new['_shard'].nunique()} shard(s). "
+          f"Total filas combinadas (aprox, suma de shards tocados): {total_rows}")
 
 
 def write_snapshots_bulk(new_rows):
@@ -175,6 +193,18 @@ def write_snapshots_bulk(new_rows):
 
     df_all.to_csv(SNAPSHOTS_PATH, index=False)
     print(f"snapshots.csv actualizado. Total filas: {len(df_all)}")
+
+
+def load_all_price_history():
+    """Utilidad para leer TODOS los shards juntos como un solo dataframe.
+    Pensado para cuando se necesite el histórico completo (ej. entrenar el modelo),
+    no para el flujo normal de guardado diario."""
+    import glob
+    paths = sorted(glob.glob(os.path.join(PRICE_HISTORY_DIR, "shard_*.csv")))
+    if not paths:
+        return pd.DataFrame()
+    dfs = [pd.read_csv(p, parse_dates=["timestamp"]) for p in paths]
+    return pd.concat(dfs, ignore_index=True)
 
 
 def get_active_games_sorted():
