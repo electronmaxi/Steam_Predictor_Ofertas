@@ -17346,6 +17346,306 @@ appid,game_id,title,date_checked,release_date,tags,developers,players_recent,pla
 615160,018d937f-224d-7321-aad0-a1ce308df387,The Adventures of Alvis,2026-07-29,2017-04-04,"Adventure, Indie, RPG, Free to Play",Sunshine Games,0,0,0,2,33255,21,1263,61.0,26.0,,,,,,
 615180,018d937f-345f-73ba-8bb7-472116c28486,Firewood,2026-07-29,2017-08-01,"Indie, Adventure, Casual, Horror, Psychological Horror",Frymore,0,0,0,261,23288,247,1432,76.0,126.0,,1.0,,1.0,,
 615250,01939824-f7b2-7183-8ad2-5e836a78cebb,M.A.X. - Mechanized Assault and Exploration,2026-07-29,2017-04-07,"Strategy, Action, Sci-fi, Top-Down, Futuristic",Interplay Entertainment Corp.,8,16,26,34,61229,229,53,88.0,203.0,,,,,,
+615270,018d937f-2eb0-733d-ba00-2199fdc4a78c,Star Rage VR,2026-07-29,2017-09-30,"Action, Adventure, Indie, VR",Metaverse Studio,0,0,1,4,74342,143,18,86.0,30.0,,,,,,
+615330,018d937f-0656-72a6-8a3d-b85e53305dd7,Happy Penguin VR,2026-07-29,2017-03-30,"Indie, Simulation, Sports, Action, Adventure",Bellcat Game,0,0,0,3,76016,77,131,91.0,23.0,,,,,,
+615340,018d937f-37f2-705c-a371-995037cf8d40,Mystic Journey: Tri Peaks Solitaire,2026-07-29,2017-05-11,"Free to Play, Casual, Adventure, Card Game",FIVE-BN GAMES,3,3,7,14,27542,18,1558,53.0,179.0,,,,1.0,,
+615350,018d937f-0a5f-73a7-b2b4-6b1e11c7efe1,Scarlett Mysteries: Cursed Child,2026-07-29,2017-06-08,"Adventure, Casual, Hidden Object, Female Protagonist, Point & Click",World-Loom,1,3,4,39,18996,446,1573,88.0,224.0,,,,2.0,,
+615390,018d937f-0103-7012-b01e-ee344bbd0e8b,Encounter of Galaxies,2026-07-29,2017-04-17,"Action, Indie",Obi-Wanya,0,0,0,1,85311,34,104,0.0,4.0,,,,,,
+615400,018d937e-f9c9-720a-8f66-1645707f9c1f,Make It Rain: Love of Money,2026-07-29,2018-05-25,"Free to Play, Casual, Simulation, Strategy, Action",Game Troopers,1,2,2,12,30898,8,1389,49.0,267.0,,,,,,
+615460,018d937e-fef8-73fd-98b6-b66afbe27571,Bitcoin VR,2026-07-29,2017-03-31,"Simulation, VR","Indiesquare, Mandelduck",0,0,0,3,31230,12,1365,76.0,17.0,,,,1.0,,
+615490,018d937f-05f9-70dd-a971-8d728b8f8609,I'm Awesome,2026-07-29,2017-06-07,"Action, Indie, Casual, Violent, Sexual Content",,0,0,0,28,40407,118,818,80.0,15.0,,,,,,
+615530,018d937e-feec-70b7-8a57-c14a93afa0f1,"Love, Money, Rock'n'Roll",2026-07-29,2022-08-03,"Visual Novel, Anime, 1980s, Atmospheric, Multiple Endings",Soviet Games,16,27,27,3997,16966,1280,241,81.0,3690.0,,1.0,63.0,88.0,,1.0
+615550,018d937f-2ce6-7045-8764-aa5bbebc59c3,StratoBash,2026-07-29,2017-06-02,"Action, Indie, RPG, VR, First-Person","Phr00ts Software, Phr00t's Software",0,0,0,10,59714,102,342,83.0,6.0,,,,1.0,,
+615590,018d937e-f827-73a7-8ecf-e2103f28392a,Solaright,2026-07-29,2017-04-13,"Casual, Indie, VR, Puzzle",Zabuza Labs,0,0,0,1,36237,46,1107,100.0,2.0,,,,,,
+615610,018d937f-27fc-724c-a100-d4289bbc8bc2,orbt xl,2026-07-29,2017-04-21,"Arcade, Difficult, Relaxing, 2D, Controller",Adamvision Studios,1,2,3,392,8188,772,4632,96.0,3215.0,,,69.0,9.0,,
+615630,018d937f-09c7-7164-8164-6fe52d28bf8c,The Sniper VR,2026-07-29,2017-08-25,"Action, Simulation, Strategy, VR, Sniper",iVRstudio,0,0,0,2,85911,64,35,56.0,32.0,,,,1.0,,
+615650,018d937f-2bb0-73a6-bf1b-0caaa7e80a5a,The Professor Presents: #GotHandles,2026-07-29,2017-04-13,"Free to Play, Sports, Simulation, VR",The Secret Location,0,0,0,2,29576,8,1456,83.0,24.0,,,,,,
+615670,018d937f-0e65-73ea-83b2-7af316d35672,SOLITUNE,2026-07-29,2017-04-25,"Adventure, Indie, Casual, Surreal, Great Soundtrack",Rat King Entertainment,0,0,0,383,26843,257,1118,76.0,110.0,,,,,,
+615680,018d937f-0fa6-72ce-88cc-96078683bd00,Vagrant Hearts Zero,2026-07-29,2017-04-28,"Adventure, RPG, Casual, Indie, Strategy","Aldorlea Games, Warfare Studios",0,1,1,727,42110,74,855,55.0,38.0,,,,1.0,,
+615690,018d937f-2bac-7339-b0a1-bbf7eab5b8ac,Inferno,2026-07-29,2020-10-01,"RPG, Adventure, Indie, Horror, Violent",Aldorlea Games,0,0,1,1003,54563,111,436,63.0,30.0,,,,,,
+615700,018d937f-3d19-7345-8fb5-7ae319a97b44,A Plunge into Darkness,2026-07-29,2020-03-18,"RPG, Dark, Indie, Adventure, Character Customization","Aldorlea Games, Aldorlea",0,1,2,910,54030,95,482,70.0,31.0,,,,,,
+615730,018d937f-0c55-7240-ac67-cb4a52892ed6,Nancy Drew - The Final Scene,2026-07-29,2017-04-18,"Adventure, Puzzle, Point & Click, Mystery, Detective",HeR Interactive,4,9,13,22,43243,369,219,81.0,161.0,,,71.0,8.0,,
+615770,018d937e-f49d-7372-9c9b-c5e499530562,Nancy Drew - Message in a Haunted Mansion,2026-07-29,2017-05-01,"Mystery, Puzzle, Point & Click, Female Protagonist, 2D",HeR Interactive,2,12,14,25,38988,418,253,85.0,272.0,,,,1.0,,
+615780,018d937f-1e5f-7228-975e-83ba8c9c4927,Nancy Drew: Treasure In The Royal Tower,2026-07-29,2017-05-22,"Mystery, Puzzle, Point & Click, Detective, Exploration",HeR Interactive,2,6,17,32,42891,359,250,83.0,249.0,,,87.0,6.0,,
+615910,018d937f-261c-7359-8cb1-16c7db167797,Katana X,2026-07-29,2017-06-10,"Simulation, Sports, Indie, Early Access, Action","Aargle, LLC",0,0,0,12,63119,177,122,66.0,89.0,,,,,,
+615970,018d937f-1ec2-7082-8b59-d21755d03bb5,Displaced,2026-07-29,2017-07-25,"Adventure, Indie, Strategy",Gamexy,0,1,1,62,21833,157,1779,49.0,99.0,,,,,,
+616000,018d937f-2639-7260-aff9-e0b2381e07a2,Riptale,2026-07-29,2017-04-27,"Indie, Action Roguelike, Action, Adventure, 2D","Super God Ltd, Super God",0,0,0,4,25839,591,508,87.0,72.0,,1.0,78.0,4.0,,
+616040,018d937f-0a58-72bc-bc9f-796166013edd,Tales of the Tiny Planet,2026-07-29,2017-08-03,"Indie, Physics, Casual, Adventure, Puzzle",Pixelsplit,0,0,1,10,20994,173,1848,90.0,33.0,,,,2.0,,4.0
+616050,018d937f-279c-722f-95cb-9318b580de0d,Hello inc VR,2026-07-29,2017-04-14,"Action, Indie, Early Access, Casual, VR","VRAD, Inc",0,0,0,0,90282,44,5,100.0,1.0,,,,,,
+616110,018d937f-295d-70d4-bba7-4f28bf5304eb,SPACEPLAN,2026-07-29,2017-05-04,"incremental, Casual, Indie, Space, Great Soundtrack",Jake Hollands,6,15,15,231,10902,1043,2493,91.0,3287.0,,1.0,,3.0,,
+616220,018d937e-e9b9-7017-be46-d6fe0904c371,Hide vs. Seek,2026-07-29,2017-08-08,"Free to Play, Multiplayer, Action, Indie, Funny",Brave Little Studios,0,0,0,6,27031,43,1540,38.0,624.0,,,,,,
+616240,018d937f-17d5-7131-8e4d-b4638bffb2c0,Premium Pool Arena,2026-07-29,2017-04-13,"Sports, Casual, Billiards",Iceflake Studios,0,0,1,8,33769,102,1079,46.0,86.0,,,,2.0,,2.0
+616330,018d937f-29f0-73c4-8bb9-bc43d4416994,埋葬（DIG-A-BOO）,2026-07-29,,"Adventure, Early Access, Nudity, Strategy, RPG",bonefrog,0,0,0,3,75448,132,26,67.0,28.0,,,,,,
+616390,018d937f-7003-72cc-84e1-4d3c8d3df39a,Zodiac Hentai - Hellish Memory,2026-07-29,2023-10-23,"Bullet Hell, Puzzle, Difficult, Action, Anime",JOZGamer,0,1,2,659,79838,47,145,88.0,36.0,,,,,,
+616420,018d937f-27cc-72d4-a3df-a7d7eb535fbe,Edge of Atlantis,2026-07-29,,"Action, Adventure, Early Access, Simulation, Indie",Creality Studio,0,0,0,0,85466,84,0,,,,,,,,
+616490,018d937f-357f-73a1-bfd1-16537ae05109,Post War Dreams,2026-07-29,2019-09-27,"Action, Indie, Violent, Post-apocalyptic, Side Scroller",Playstige Interactive,0,0,0,1,60809,167,187,58.0,12.0,,,,3.0,,
+616520,018d937f-05cc-70d8-a9fd-b60ceffe875e,Cheap Golf,2026-07-29,2018-11-05,"Adventure, Retro, Mini Golf, Indie, Action",Pixeljam,1,2,2,1219,16519,176,2588,90.0,64.0,,1.0,,2.0,,1.0
+616560,018d937f-357e-72f1-9d80-4e5c1f1d80c8,Ultimate Epic Battle Simulator,2026-07-29,2017-06-02,"Simulation, Sandbox, War, Strategy, Action",Brilliant Game Studios,16,32,32,10103,684,2026,28250,77.0,8589.0,,2.0,66.0,33.0,,1.0
+616580,018d937f-1c58-722b-98c3-b0c5aa919e25,War Girl,2026-07-29,,"Action, Adventure, Platformer, Shooter, 2D Platformer",Suits & Sandals,0,0,0,0,55331,316,0,,,,,,,,
+616610,018d937f-15c0-72a6-94e4-65a033eadb61,GetMeBro!,2026-07-29,2020-04-29,"Free to Play, Indie, Action, Racing, Early Access",GimmeBreak,0,0,0,140,32949,43,1229,82.0,138.0,,,,,,
+616620,018d937f-175b-7110-a8c6-7967b16db451,Forest Fortress,2026-07-29,2018-04-04,"Nudity, Visual Novel, Anime, Sexual Content, Dating Sim",Flaming Firefly,0,0,0,9,32408,505,308,78.0,137.0,,,,1.0,,
+616640,018d937f-1ac8-71f1-bb46-c0446527cf8b,B-12,2026-07-29,2019-07-12,"Action, Indie, Third-Person Shooter, 3D Platformer, Robots",Brantisky Interactive,0,0,0,57,25452,122,1496,82.0,40.0,,,,,,
+616650,018d937f-29c8-7250-a6f8-3183f89e7afe,RetroFighter VR,2026-07-29,2017-05-06,"Action, Indie, Early Access, Casual, Simulation",Jun Chul Park,0,0,0,1,86218,33,94,0.0,3.0,,,,,,
+616660,018d937e-fdc1-7144-a31f-8fa8d203e9ef,VR Coaster Extreme,2026-07-29,2017-04-18,"Simulation, Indie, Early Access, Casual, VR",George Cook,0,0,0,14,52766,40,626,53.0,13.0,,,,,,
+616680,018d937f-6503-733e-a3e7-5bbab24f0a4e,Monster Showdown,2026-07-29,2022-01-26,"Zombies, FPS, Survival Horror, VR, Shooter","Virtual Uppercut Studios, Yahya Danboos",0,0,0,5,59724,93,360,72.0,22.0,,,,,,
+616690,018d937f-278b-70cd-9886-3f061c83ca54,BRKÖUT,2026-07-29,2017-09-29,"Indie, Action, Adventure, Psychological Horror, Interactive Fiction","Fisher Wagg, Simon Wagg, Aaron Taylor",0,0,0,1,50362,57,652,78.0,14.0,,,,1.0,,
+616740,018d937e-f035-7188-a7aa-84a7739ee526,克莉丝的炎之信仰 Cryste: the Faith of Fire Vol.1,2026-07-29,,"Indie, Casual, Visual Novel, Adventure, Anime",Salvation,0,0,0,34,47892,373,74,89.0,260.0,,,,,,
+616750,018d937f-0886-7206-b6e2-999b7b09573c,1943 Deadly Desert,2026-07-29,2018-05-14,"Strategy, Indie, World War II, Turn-Based Strategy, Hex Grid",HandyGames,0,1,2,72,38925,142,818,65.0,91.0,,,53.0,4.0,,
+616780,018d937f-285e-7065-a58b-23400cf70794,Age of Space,2026-07-29,,"Strategy, Space, RTS, Singleplayer, Great Soundtrack",PodPal Games,0,0,0,0,39753,528,3,,,,,,,,
+616820,018d937e-fa2b-7347-8db0-114f444553b7,District Steel,2026-07-29,2023-02-16,"Bullet Time, Sci-fi, Old School, Combat, VR",Barricade Studio,0,1,1,7,50880,359,22,93.0,73.0,,,,,,
+616830,018d937f-29ee-71d1-af90-8b31f4e8b35e,Cartoon Strike,2026-07-29,2020-10-14,"Free to Play, Action, Indie, Massively Multiplayer, Multiplayer",Gametoria,0,0,1,91,31968,35,1286,64.0,545.0,,,,,,
+616860,018d937f-21fa-7300-8e5a-db3b1d96f07d,Magic Heroes: Save Our Park,2026-07-29,2017-04-18,"Indie, Casual, Match 3",Anawiki Games,0,0,1,3,84985,66,43,50.0,4.0,,,,,,
+616880,018d937f-2b46-722b-bb42-3b8379a3960c,No Stick Shooter,2026-07-29,2017-05-17,"Action, Indie",Happy Robot Games,1,1,1,115,40069,67,933,83.0,18.0,,2.0,,,,1.0
+616890,018d937f-24e1-723a-bd3f-67d7dc59abde,VR Slugger: The Toy Baseball Field,2026-07-29,,"Casual, Sports, Action, Indie, VR",Poly Poly Games,0,0,0,4,75203,109,76,81.0,27.0,,,,,,
+616920,018d937f-1c59-7122-a90e-626bbd850343,BatMUD,2026-07-29,2019-11-19,"RPG, Massively Multiplayer, Text-Based","Antti A. Luostarinen, Emil Nilimaa, Niklas Lindroos, Matti A. Virtanen, Riku-Ville Mäkelä, Lauri Holmas, Polar Night Software Sp. z o.o.",37,44,45,72,53891,277,114,85.0,182.0,,,,1.0,,
+617020,018d937f-35ba-7290-a9d2-068591486ec5,OMEGA PATTERN (VISUAL NOVEL),2026-07-29,2017-05-26,"Adventure, Sexual Content, Violent, Indie, Simulation",Borokai Studio,0,0,0,1,77888,117,26,50.0,4.0,,,,,,
+617030,018d937f-2400-7124-8a76-f4aff2a3be75,Landless,2026-07-29,2017-05-11,"Survival, Simulation, Adventure, RPG, Early Access",CodeBullet,0,0,0,6,30747,657,73,44.0,184.0,,,,,,
+617060,018d937f-2215-724b-a2e3-39a69e2f9634,Virush,2026-07-29,2017-06-08,"Action, Great Soundtrack, Arcade, Singleplayer, Score Attack",Arcturus,0,0,0,1,53817,41,597,85.0,7.0,,,,,,
+617160,018d937f-0c84-73c0-8f80-54031fb6453b,Home Sweet Home,2026-07-29,2017-09-26,"Horror, Adventure, Gore, Survival Horror, Indie","YGGDRAZIL Group Co Ltd, YGGDRAZIL GROUP CO.,LTD, YGGDRAZIL GROUP CO.LTD",13,17,20,247,7381,2353,2141,87.0,3115.0,,,,,66.0,32.0
+617270,018d937f-33c8-71b1-8bf7-857c5458e452,Hoggy 2,2026-07-29,2017-05-10,"Adventure, Indie, Action, Puzzle Platformer",Raptisoft,0,0,1,3,76068,109,65,82.0,17.0,,,,,,5.0
+617290,018d937f-2ed1-7268-a330-a02b70043f44,Remnant: From the Ashes,2026-07-29,2019-08-19,"Souls-like, Action, Co-op, RPG, Adventure",Gunfire Games,308,412,551,48153,520,7450,21318,84.0,46723.0,78.0,42.0,68.0,698.0,78.0,103.0
+617350,018d937f-159c-70be-96aa-a33df2608aa6,Samurai Forge,2026-07-29,,"Free to Play, RPG, Strategy, Card Game",deeparrowstudio,0,0,0,0,72919,62,202,,,,,,,,
+617420,018d937f-32b1-71df-94aa-ad549fcb4dd6,Animal Rivals,2026-07-29,2017-04-19,"Casual, Action, Indie, 4 Player Local, Local Multiplayer",Blue Sunset Games,0,0,0,925,31228,66,1255,54.0,33.0,,,77.0,6.0,,
+617430,018d937f-17a7-7070-ad77-3fff7072297a,A Butterfly in the District of Dreams,2026-07-29,2017-05-13,"Indie, Casual, Visual Novel, Cute, Story Rich",Life a Little,0,0,0,9,44877,388,130,78.0,28.0,,1.0,,1.0,,2.0
+617440,018d937f-3a5f-73a6-b29b-c5c47395e86d,Arcade Mayhem Juanito,2026-07-29,,"Action, Adventure, Indie, Casual, Arcade",Game Ever Studio,0,1,1,12,16174,340,2322,96.0,203.0,,,,,,
+617450,018d937f-245d-73ea-b005-2222121d2b09,Trollskog,2026-07-29,2019-08-19,"RTS, Colony Sim, Strategy, Indie, Early Access",Andreas Carlson,0,0,0,23,55774,301,20,55.0,36.0,,,,,,
+617480,018d937e-f994-72e7-b365-18bff488a1bb,Tower of Time,2026-07-29,2018-04-12,"Real Time Tactics, Real-Time, Turn-Based, Party-Based RPG, Strategy",Event Horizon,32,32,32,1203,1408,2627,17621,82.0,2291.0,77.0,12.0,78.0,109.0,70.0,19.0
+617590,018d937f-0e1a-7387-99fa-f06a2ef2cf5f,Affliction,2026-07-29,2018-06-25,"FPS, Shooter, Action RPG, RPG, First-Person",Corrosive Studios LLC,1,1,2,545,35959,173,857,47.0,101.0,,,,,,
+617600,018d937e-f083-72b5-bfdf-5459a3fe9572,VR Interior Designer Pro,2026-07-29,2017-04-05,"Free to Play, Indie, Simulation, VR",Edgehill CGI,0,0,0,8,29976,15,1421,72.0,18.0,,,,,,
+617610,018d937f-32e1-731c-9dac-bbfe387b14e1,Japanese Women - Animated Jigsaws,2026-07-29,2017-04-11,"Casual, Simulation, Puzzle, Sexual Content",BottleCube inc.,1,1,149,420,45465,117,665,87.0,188.0,,,,,,
+617620,018d937f-03f1-7125-9694-5e1ec4b73cb1,Disturbed: Beyond Aramor,2026-07-29,2018-05-19,"Choose Your Own Adventure, Point & Click, Visual Novel, Hand-drawn, Adventure",iBlackpen,0,0,1,29,35076,209,814,92.0,25.0,,,,,,
+617630,018d937f-1323-729e-a252-3fdd8aae4ea3,Shadow Mist,2026-07-29,2017-05-11,"Casual, Strategy, Adventure, Indie, Puzzle",Tencent Games,0,0,0,1,74223,135,36,58.0,24.0,,,,,,
+617640,018d937f-37bb-73fc-86ad-1b0d27b985ee,Forged of Blood,2026-07-29,2019-08-01,"Strategy, Adventure, Indie, RPG, Turn-Based Combat",Critical Forge,0,0,1,181,36203,558,64,62.0,100.0,57.0,5.0,68.0,5.0,53.0,7.0
+617650,018d937f-67cb-7023-981e-5f5f40adf4d7,AlphaLink,2026-07-29,2022-12-16,"Action, Arcade, Platformer, Shooter, Arena Shooter",Black Hive Media,0,0,0,1,91680,28,1,,,,,,,,1.0
+617660,018d937f-0e9c-7302-a9ff-8e7a9f4f3cbe,Dong-Jin Rice-hime,2026-07-29,2017-04-29,"Indie, Anime, Farming Sim, Visual Novel, Cute","Narrator, STORIA, SimonCreative",0,0,0,11,29954,632,164,90.0,352.0,,,,,,
+617670,018d937e-efd0-71c4-b47e-27e5f6ae980b,Zup! S,2026-07-29,2018-11-15,"Puzzle, Casual, Indie, 2D, Physics",Quiet River,23,23,23,712,14311,505,2438,96.0,14942.0,,,54.0,7.0,,
+617680,018d937f-102e-7291-9b1c-38056e44f666,Drunk-Fu: Wasted Masters,2026-07-29,2018-08-17,"Indie, Simulation, Sports, Action, Multiplayer","Rusto Games, Rusto",0,0,0,6,52982,294,102,55.0,20.0,,,,,,2.0
+617690,018d937f-15ef-7275-ad1c-2f7f3ffc1f6a,Endless Winter,2026-07-29,2017-06-02,"Adventure, Indie, Casual, Racing, Puzzle",DarkSun Studio,0,0,1,289,48079,181,461,80.0,35.0,,,,,,
+617700,018d937f-1ab0-70b6-ba75-60dc6a9cb48c,Weed Shop 2,2026-07-29,2017-03-31,"FPS, Life Sim, Immersive Sim, Management, Open World",ADhD Studios,0,2,4,201,33757,397,478,86.0,848.0,,,,2.0,,
+617710,018d937e-f963-71e4-8a81-dd1c7a4d1770,Cannons-Defenders: Steam Edition,2026-07-29,2017-04-07,"Action, Indie, Casual, 2D, Great Soundtrack",REX PEX GAMES,1,3,42,2400,24854,49,1693,69.0,148.0,,,,,,
+617750,018d937e-f506-70af-af13-e41a061fb246,Neurowake,2026-07-29,2017-07-22,"Strategy, Action, Simulation, Indie, FPS",Shortfuse Studio,0,0,0,16,85660,73,20,22.0,9.0,,,,,,
+617820,018d937e-fa62-7162-b98e-faab4e5c84fa,7 days with Death,2026-07-29,2017-10-14,"Sexual Content, Indie, Nudity, Adventure, Visual Novel","Narrator, STORIA",0,0,0,4,48834,342,113,90.0,53.0,,,,,,
+617830,018d937f-0618-71dc-a9d5-b4af2881fd97,SUPERHOT VR,2026-07-29,2016-12-05,"VR, Shooter, Bullet Time, FPS, Puzzle",SUPERHOT Team,23,32,43,4700,1894,3754,11947,82.0,7929.0,83.0,19.0,78.0,161.0,,
+617850,018d937e-fedf-725f-8f81-85b37d3af39d,Jaws Of Extinction,2026-07-29,2019-05-23,"Adventure, RPG, Action, Survival, Simulation","Immortal Hand Studios, Blood Eater Games, KYE Creations",1,2,2,52,36090,549,86,52.0,282.0,,,,,,
+617970,018d937e-ff35-71b0-8bfb-6083d241a789,Love Bites,2026-07-29,2018-06-01,"Visual Novel, Horror, Casual, Comedy, Dating Sim",Winter Wolves,0,0,0,5,50709,331,84,60.0,33.0,,,,,,
+617980,018d937f-4d20-739e-ad5b-0edace9e9552,Summer In Trigue,2026-07-29,2021-10-18,"LGBTQ+, Dating Sim, Romance, Anime, Visual Novel",Winter Wolves,1,1,1,13,52951,319,52,75.0,29.0,,,,,,
+617990,018f1a62-7ab3-7194-8a73-1c8067080e44,Thieves Of Dingirra,2026-07-29,2025-11-07,"Turn-Based Tactics, Colony Sim, LGBTQ+, Resource Management, City Builder",Winter Wolves,0,1,2,19,74338,144,16,80.0,10.0,,,,,,
+618000,018d937f-4d12-727b-8eaf-461effbb95d1,The Curse Of Mantras,2026-07-29,2022-03-14,"Strategy, Card Game, Card Battler, LGBTQ+, Turn-Based Strategy",Winter Wolves,0,0,1,14,61047,239,36,71.0,14.0,,,,,,
+618010,018d937f-12dd-726d-a08a-ed540212b088,Volleyball Heaven,2026-07-29,2020-07-22,"Nudity, LGBTQ+, Sexual Content, Visual Novel, Female Protagonist",Winter Wolves,0,0,1,11,52261,312,84,72.0,22.0,,,,1.0,,
+618050,018d937e-f518-7166-9649-affef66ec9d1,To The Light,2026-07-29,2017-07-03,"Female Protagonist, Sexual Content, Nudity, Dungeon Crawler, Indie",ZOV GAME STUDIO,1,1,1,21,30464,504,399,42.0,118.0,,,,,,
+618070,018d937f-1aa4-70d2-b447-1f4d5d27f30f,Jet Buster,2026-07-29,2017-10-24,"Action, Indie, Shoot 'Em Up, Retro, Cute",Team Grybanser Fox,0,0,1,4,31356,150,1078,89.0,38.0,,,,,,1.0
+618080,018d937f-3420-7043-bbcc-4a842fd38de3,Martial Arts Brutality,2026-07-29,2018-01-31,"Free to Play, Violent, Strategy, Indie, Martial Arts",Cold Beam Games,2,2,4,14,23040,81,1797,85.0,708.0,,,,,,
+618100,018d937f-2b7d-71c1-a152-12ccd2677edc,Feral Blue,2026-07-29,2019-10-22,"Adventure, RPG, Strategy, Action, Naval",Snowbird Games,0,1,1,76,39149,486,109,51.0,238.0,,,,,,
+618140,018d937f-3326-734a-bfc3-640e53c47917,Barro,2026-07-29,2018-03-28,"Indie, Racing, Sports, Multiplayer, PvP",SC Jogos,45,88,88,2285,3059,117,14314,85.0,3219.0,,,38.0,16.0,,
+618190,018d937f-24d6-7008-afb8-b86a0b48a4f6,People Eater,2026-07-29,2017-07-25,"Action, Indie, Procedural Generation, Roguelike",Perfect Square Studios LLC,0,0,0,1,79147,102,41,100.0,3.0,,1.0,,,,1.0
+618200,018d937f-170c-7159-b481-ac632dc55f08,Skylands,2026-07-29,2018-04-23,"Adventure, Indie, Casual, Action, Survival",Skylands,0,0,0,8,82825,65,72,41.0,17.0,,,,,,
+618210,018d937f-0621-7300-b229-268ae5818b01,Lanternium,2026-07-29,2019-04-22,"Puzzle Platformer, Character Action Game, Difficult, 3D, Cute",Blazing Planet Studio,0,0,1,116,52895,158,382,88.0,70.0,,,,1.0,,1.0
+618270,018d937f-1e81-7128-b146-f490459c7efd,Spiritlands,2026-07-29,2018-03-29,"Strategy, Adventure, Indie, Casual, Simulation",Prey Interactive,0,0,0,14,45262,191,520,47.0,17.0,,,,,,
+618310,018d937f-0674-71d9-ad73-aa91695db61e,AFTERGRINDER,2026-07-29,2017-07-18,"Precision Platformer, Score Attack, Side Scroller, 2D Platformer, Runner",Grave Danger Games,0,0,0,391,23252,99,1737,71.0,21.0,,2.0,,,,2.0
+618330,018d937f-0f9c-71e2-8d75-62620ad8694c,Within the Cosmos,2026-07-29,2025-03-28,"RPG, Sci-fi, Exploration, FPS, Shooter",debdev,0,0,1,17,25962,824,24,43.0,51.0,,,,,,
+618350,018d937f-1e68-72ee-8f6e-e4ffd21130b7,Personal Disco VR,2026-07-29,2017-04-06,"Indie, Casual, Music, VR",Dual Heights Software,0,0,0,5,83190,78,41,91.0,34.0,,,,1.0,,
+618360,018d937f-156c-7061-8225-5a75a30cb3ae,Aesthetic Melody,2026-07-29,2017-04-18,"Collectathon, Difficult, Platformer, 2D, Funny",Adam DeLease,0,0,0,101,43014,109,756,94.0,67.0,,,,,,
+618370,018d937f-13c5-7174-9613-4109323d5751,Rescue Quest Gold,2026-07-29,2017-06-05,"Casual, Match 3, Puzzle, Adventure, Magic",Boomzap Inc,0,1,2,6,61931,191,116,78.0,42.0,,,,,,
+618420,018d937f-6133-7231-8590-d3d5fd4bff0a,【NekoGakuen】《MatthiolaReverieVerse:LostIsland》,2026-07-29,2022-06-11,"Interactive Fiction, Visual Novel, Female Protagonist, Cute, Romance",NekoGakuen,0,0,0,11,42715,6,975,76.0,21.0,,,,,,
+618430,018d937f-25e6-70ac-b175-f667f246d4a4,Episicava,2026-07-29,2018-04-04,"Dating Sim, Casual, Visual Novel, Romance, Female Protagonist",Epic Works,0,0,0,2,58640,238,87,37.0,8.0,,,,,,
+618440,019cfc79-0df1-70e8-963b-c4374b0fdabc,Stencil of Judgement,2026-07-29,2027-04-15,"Spectacle fighter, Hack and Slash, Beat 'em up, Ninja, Action",Ibrahim Akinde,0,0,0,0,92537,3,0,,,,,,,,
+618470,018d937f-1c85-73bb-99c1-dd05dab3a9fa,Qbik,2026-07-29,2017-11-16,"Indie, Casual, Adventure, Puzzle, Pixel Graphics",Norbert Palacz,1,2,3,475,36844,157,860,92.0,136.0,,,56.0,9.0,,2.0
+618490,018d937f-246c-73c2-bb59-98589e206a86,Mr Blaster,2026-07-29,2017-07-13,"Action, Indie, Casual",ENTERi,0,0,1,1766,31481,66,1244,61.0,55.0,,,,,,1.0
+618500,018d937f-2d9d-73c6-b4ee-c18971a281ce,Hailstorm VR,2026-07-29,,"Action, Indie, Early Access, VR, Gore",SlimeQ,0,0,0,2,81618,81,54,60.0,15.0,,,,,,
+618510,018d937f-2062-70c9-be17-481fa9c8b7ea,Battle Bruise,2026-07-29,2017-05-03,"Indie, Action, Gore, Violent, Zombies",Zanardi and Liza,0,1,1,733,18083,145,2345,92.0,421.0,,,,2.0,,
+618550,018d937f-1308-70b9-be6c-b5fd01d7a2cf,Chess of Blades,2026-07-29,2018-01-05,"Indie, Casual, Tabletop, LGBTQ+, Visual Novel",Argent Games,0,1,1,9,57698,266,50,92.0,101.0,,,,,,
+618560,018d937f-3581-7209-bc65-bb81dc9950cb,The Legend of Excalipurr,2026-07-29,,"Action, Adventure, Indie, Platformer, Pixel Graphics",Wisp Entertainment,0,0,0,0,68101,195,0,,,,,,,,
+618570,018d95f1-3dad-730c-8e0c-36a03e352b22,Pixel Arcade Legacy,2026-07-29,2018-04-02,"Indie, Casual, Simulation, Action, Adventure",CJG Studio,0,0,0,3,61984,37,429,87.0,8.0,,,,,,
+618590,018d937f-1170-7032-9134-c366d68ce92d,Zombie Buster VR,2026-07-29,2017-04-08,"Action, VR, Zombies","jackstree, etoylab",0,0,0,25,80988,102,19,72.0,22.0,,,,,,
+618600,018d937f-3096-7222-ab8c-f0311b350744,挑战立方VR(Challenge Cube VR),2026-07-29,2017-04-25,"Casual, Sports, VR",光域网络,0,0,0,1,90863,37,6,,,,,,,,
+618610,018d937f-0fbe-70bb-a83b-f8bf6675657d,Endless Horde,2026-07-29,2017-04-11,"Tower Defense, Zombies, Survival, Action, Indie",Ominous Entertainment,0,1,1,2477,24454,177,1466,64.0,169.0,,,,,,
+618620,018d937f-4d42-713f-9154-4239c250c200,Naval Armada: Fleet Battle,2026-07-29,2020-01-15,"Free to Play, Simulation, Massively Multiplayer, Casual, Action",XDEVS LTD,3,5,7,19,42458,9,977,56.0,182.0,,,,,,
+618630,018d937f-3135-710a-b47d-34b84819142b,Astral Traveler,2026-07-29,2017-09-13,"Racing, Action, Indie, Runner, Singleplayer","Dragon Slumber, Brainoid",0,0,5,3782,62960,99,284,54.0,33.0,,1.0,,,,
+618650,018d937f-0ea9-71ec-b310-c13e71ed3fb9,Pixel Gear,2026-07-29,2017-06-12,"Action, Indie, VR",Geronimo Interactive,0,0,0,3,79777,115,7,66.0,6.0,,,50.0,22.0,,
+618670,018d937f-2233-71c0-81b7-9537b62c31f7,One Bullet Left,2026-07-29,2018-02-26,"Action, Violent, Indie",OxDev,0,0,0,1,82694,82,39,50.0,6.0,,,,,,
+618690,018d937f-2043-721d-9456-c7e55f96f76b,Gorescript,2026-07-29,2017-06-15,"FPS, Shooter, First-Person, Voxel, 3D",Sergiu Bucur,0,1,1,6,31061,257,873,90.0,53.0,,1.0,83.0,4.0,,1.0
+618710,018d937e-ff63-71df-abba-526f8261d6ae,Elminage ORIGINAL - Priestess of Darkness and The Ring of the Gods,2026-07-29,2017-11-28,"RPG, Dungeon Crawler, Grid-Based Movement, Turn-Based, First-Person","mebius, Starfish-SD Inc, mebius, Starfish-SD Inc, Starfish-SD Inc mebius",0,1,2,10,20860,963,256,84.0,72.0,,,,,,
+618720,018d937f-1745-7088-8db9-aceee779f253,1bitHeart,2026-07-29,2017-08-28,"Indie, Casual, Adventure, Anime, Visual Novel",△○□× (Miwashiba),0,2,8,53,12938,1007,1811,91.0,841.0,,2.0,77.0,6.0,,2.0
+618740,018d937f-089c-72d8-9650-c3d39ee18871,Beat Hazard 2,2026-07-29,2019-10-16,"Rhythm, Music-Based Procedural Generation, Procedural Generation, Twin Stick Shooter, Music",Cold Beam Games,2,4,7,439,3317,1307,11074,89.0,1396.0,,,,,,
+618750,018d937f-1203-737a-83eb-d424ad788fce,Choose Wisely,2026-07-29,2018-01-12,"Choose Your Own Adventure, Female Protagonist, Story Rich, Multiple Endings, Adventure",ID Card,1,1,1,1177,35665,154,906,73.0,114.0,,,,,,
+618760,018d937f-286c-7176-a2bd-6eb42f320962,IronBorn,2026-07-29,2018-09-11,"RPG, Indie, Adventure, Strategy, Casual",Valkyria Games,0,3,3,625,48293,74,674,58.0,39.0,,,,,,
+618850,018d937e-ff86-72c6-93c7-f6f79336d5bd,Pumpkin Days,2026-07-29,2021-02-01,"Farming Sim, Simulation, RPG, Casual, Indie",Pumpkin Interactive,1,2,2,478,33333,586,108,82.0,458.0,,,,,,
+618920,018d937f-249c-73e6-b37b-7568dc1afee9,Dungeon Escape VR,2026-07-29,2017-04-08,"Indie, Free to Play, Puzzle, VR, Mystery Dungeon",Silver Machine Studios,0,0,1,15,47519,104,633,81.0,193.0,,,,,,
+618950,018d937f-27a5-72f0-9ff8-0dee4b5f6e10,Agatha Knife,2026-07-29,2017-04-27,"Indie, Adventure, Point & Click, Female Protagonist, Dark Humor",Mango Protocol,1,4,7,12,18013,862,894,93.0,572.0,,1.0,73.0,12.0,71.0,12.0
+618970,018d937f-178d-72be-b608-bac7013b9b6f,Outcast - Second Contact,2026-07-29,2017-11-13,"Adventure, Action, Open World, Sci-fi, Remake","Bigben Interactive, Appeal, Appeal Studios",7,7,7,89,3947,1717,8548,82.0,731.0,68.0,13.0,59.0,47.0,68.0,34.0
+618990,018d937e-fd00-73d9-a35c-e7bfba6b1d98,Into Oblivion,2026-07-29,2018-07-30,"Card Battler, Collectathon, Casual, PvP, Crafting",Tenth&Hess Games,0,0,0,3,79498,100,41,88.0,17.0,,,,,,
+619000,018d937f-15bd-72e3-af9c-680c10b7d5b6,Riley Short: Analog Boy - Episode 1,2026-07-29,,"Indie, Simulation, Action, VR",boxmyth,0,0,0,1,89689,45,15,0.0,3.0,,,,,,
+619100,018d937f-1262-73aa-848d-883da3058d29,Spirit Guide Crucible,2026-07-29,2017-04-25,"Action, Indie, Casual, VR",IndieRevo,0,0,0,1,48167,29,769,100.0,1.0,,,,,,
+619150,018d937e-f8e9-7029-b516-1396b9c4a84d,while True: learn(),2026-07-29,2019-01-17,"Programming, Education, Simulation, Puzzle, Indie",Luden.io,13,14,15,841,2457,4814,7036,91.0,7292.0,73.0,4.0,61.0,33.0,,6.0
+619210,018d937f-1969-71a7-9ff0-1aea2943de32,4D Toys,2026-07-29,2017-06-02,"Simulation, Indie, VR, Education, Physics","mtb design works, inc.",0,1,2,6,24305,831,146,87.0,256.0,,,60.0,4.0,,
+619220,018d937e-fdd4-706c-86ba-8f50974936e5,GoBlock's Impossible Medley,2026-07-29,2017-04-15,"Casual, Indie, Difficult, Platformer, 2D",GameChanger Studio,0,1,1,2205,36868,62,1053,86.0,44.0,,,,,,
+619230,018d937e-f496-7285-b070-2ad2502d93cf,VEmpire - The Kings of Darkness,2026-07-29,2019-07-24,"Card Game, Deckbuilding, Card Battler, Strategy, Casual",Wolfgang Lueger,0,0,0,2,70570,161,33,62.0,16.0,,,,,,
+619270,018d937f-121a-736e-b563-c2a15a46eceb,Wolf's Fury,2026-07-29,2019-05-03,"Action, Indie, Adventure, Beat 'em up, Singleplayer",Myoubouh Corp,0,0,0,265,75267,90,114,81.0,11.0,,,,,,
+619280,018d937f-2985-73a1-b699-0bd13292d98e,Gloom,2026-07-29,2017-04-13,"Action Roguelike, Indie, Action, Lovecraftian, Adventure",Hunchback Studio,0,0,1,22,7014,1135,4954,83.0,515.0,,,,,,
+619310,018d95f1-5c97-71c6-9e4e-2b8d0a112787,Ways of History,2026-07-29,2017-09-01,"Free to Play, Strategy, Massively Multiplayer, Indie, Multiplayer",Glyph Worlds,0,0,0,35,35678,15,1189,52.0,256.0,,,,,,
+619320,018d937f-2d07-727d-a45d-9dc72981fe87,SKATEMASTA TCHECO,2026-07-29,2020-01-31,"Action, Casual, Retro, Indie, Platformer",Marcelo Barbosa,0,0,0,200,49324,180,430,91.0,108.0,,,,1.0,,
+619330,018d937f-042e-7005-8e7b-11846a995072,Duck Hunting,2026-07-29,2017-04-08,"Indie, Simulation, Hunting, Nature, Realistic",Alekseev,0,1,1,482,68842,64,256,56.0,127.0,,,,1.0,,
+619340,018d95f1-5ca7-7247-849b-009b2d1fe0ec,EGOS - Tales of Fallen Souls,2026-07-29,,"Early Access, Adventure, Casual, Indie, Puzzle",NEZOS GAMES,1,2,2,1255,34189,54,1162,57.0,80.0,,,,,,
+619350,018d937f-0bd5-70fa-a7af-8901d925e987,Sandra and Woo in the Cursed Adventure,2026-07-29,2017-05-05,"Adventure, Indie, Point & Click, Female Protagonist",Feline Fuelled Games,0,1,1,4,39634,116,847,59.0,22.0,,1.0,,,,
+619380,018d937f-310e-7156-a5b9-96aea4caeb55,The little vampir,2026-07-29,2017-06-30,"Casual, Strategy, Indie",BRAINEART,0,0,0,1,49752,53,676,100.0,1.0,,,,,,
+619390,018d937f-612b-733b-8909-874b47273eb0,Oddworld: Soulstorm Enhanced Edition,2026-07-29,2021-04-06,"Action, Adventure, Action-Adventure, Platformer, Puzzle",Oddworld Inhabitants,8,11,14,124,5816,1531,5578,65.0,500.0,,,65.0,30.0,72.0,13.0
+619400,018d937f-0e42-734f-aca1-b5be7207cc28,Fluffy Creatures VS The World,2026-07-29,2017-04-10,"Indie, Casual, Action, Adventure, Platformer",Amaterasu Software,0,3,3,1350,17570,35,2662,64.0,74.0,,,,1.0,,
+619470,018d937f-45f1-70f3-ba6e-faaba4f6426c,Boss Defiance - Heroic Edition,2026-07-29,,"Indie, Action, 4 Player Local, Co-op, Local Co-Op",Tiny Pixel,0,0,0,7,42218,119,760,47.0,21.0,,,,,,
+619480,018d937f-21b5-72df-9d28-f601f5ba7336,"Rock, Ken, Bo",2026-07-29,2017-05-05,"Action, Indie, 2D Fighter, Casual, Fighting",Xelphyre Games,0,0,0,156,81452,54,111,85.0,14.0,,,,,,
+619490,018d937f-0fe2-70cc-889c-e4dfbc141ac7,Fear of Clowns,2026-07-29,2017-04-29,"Indie, Action, Adventure, Horror",Mikhail Nevsky,0,0,0,3,29771,54,1352,64.0,150.0,,,,,,
+619500,018d937f-1f5d-7095-a932-068b7be34f10,cyubeVR,2026-07-29,2018-01-26,"VR, Building, Crafting, Mining, Open World",Stonebrick Studios,1,1,3,35,17518,1113,472,90.0,1062.0,,,,,,
+619530,018eeb3b-626d-70e4-864d-cd8d278bbed1,SpaceLab Simulator,2026-07-29,,"Simulation, Spaceships, Space Sim, Sci-fi, Space",Tractor Set GO!,0,0,0,0,88193,65,0,,,,,,,,
+619540,018ffd75-dd67-71dc-804c-78219f43bfc7,Darkwater,2026-07-29,2025-04-22,"Online Co-Op, Horror, Survival, Submarine, Multiplayer",Targon Studios,18,18,31,703,17322,1298,132,78.0,961.0,,,,,,1.0
+619590,018d937f-1188-7195-8d3a-4d07ed426535,CubeBall VR,2026-07-29,2017-05-11,"Casual, Simulation, Indie, VR",Tachyon Factory,0,0,0,1,90654,37,11,100.0,1.0,,,,,,
+619600,018d937e-fd7e-737a-9724-bd708c1c7d60,Wrecked: Get Your Ship Together,2026-07-29,2017-04-14,"Free to Play, Action, VR",Business Mouse Studios,0,0,0,2,28518,17,1497,73.0,49.0,,,,,,
+619610,018d937f-1ad7-728a-9596-0d9abd0ce3e7,Ultratank,2026-07-29,,"Tanks, Score Attack, Casual, Runner, 3D",Asset Flip Studio,0,0,0,1680,90367,24,44,100.0,1.0,,,,,,
+619620,018d937f-2b53-7239-8158-22538619f558,Cellz,2026-07-29,2017-10-31,"Action, Indie, Early Access, Casual",MGP,0,0,0,1,90427,40,10,50.0,2.0,,,,,,
+619670,018d937f-11e7-7354-b898-0d829e4417f8,Huge Bang Bang,2026-07-29,2017-10-03,"Early Access, Action, Indie, RPG",Palomino Studio,0,0,0,2,75210,81,133,75.0,4.0,,,,,,
+619700,018d937f-2ea8-7275-bc7d-69a4f1023f05,Steel Rats,2026-07-29,2018-11-06,"Action, Racing, Platformer, Arcade, Singleplayer","Tate Multimedia, Plug-in Digital",2,4,4,2186,1294,330,23222,63.0,308.0,68.0,7.0,74.0,31.0,68.0,33.0
+619740,018d95f1-6a42-7284-bc08-c74178c30292,The Inevitability,2026-07-29,2017-04-17,"Adventure, Indie, Gore, Horror",VaNyuHa,1,2,2,1301,60487,24,485,52.0,86.0,,,,,,
+619780,018d937f-3444-73de-99e7-caa90b057229,The Swords of Ditto: Mormo's Curse,2026-07-29,2018-04-24,"Adventure, RPG, Action Roguelike, Co-op, Action",onebitbeyond,6,9,11,248,2463,2246,12228,62.0,1815.0,,,71.0,40.0,85.0,7.0
+619810,018d937f-0e59-712f-8457-76ab811f1f8d,Fabulous - Angela's High School Reunion,2026-07-29,2017-06-22,"Casual, Simulation, Adventure, Indie, Time Management",GameHouse,3,3,4,10,63336,200,71,90.0,81.0,,,,2.0,,
+619820,01919046-4ce4-7134-9a4f-8d778c90866a,Heroes of Hammerwatch II,2026-07-29,2025-01-14,"RPG, Action Roguelike, Action RPG, Dungeon Crawler, Action",Crackshell,808,1087,1087,21237,2304,4531,8252,82.0,5672.0,,1.0,69.0,8.0,,
+619870,018d937e-f979-73c7-a77f-be4e2376c2a6,Omegaland,2026-07-29,2017-07-12,"Indie, Casual, Platformer, Pixel Graphics, Free to Play",Jonas Kyratzes,0,0,1,6,22673,85,1828,90.0,111.0,,,,,,
+619880,018d937f-07e9-7041-8d73-511c404d4f7e,ATOMEGA,2026-07-29,2017-09-19,"Action, First-Person, Multiplayer, Shooter, FPS","Reflections, a Ubisoft Studio",33,33,33,43,18450,971,596,77.0,1606.0,65.0,14.0,70.0,6.0,66.0,11.0
+619890,018d937f-3636-735d-a087-723f2918c939,Evil Glitch,2026-07-29,2017-05-31,"Action, Retro",Agar3s,0,0,0,72,30539,95,1230,76.0,26.0,,1.0,,,,1.0
+619910,018d937f-20ea-71be-b119-aaab28e8dc02,Just Cause™ 3: Multiplayer Mod,2026-07-29,2017-07-20,"Action, Massively Multiplayer, Open World, Multiplayer, Violent",nanos GbR,1,1,4,197,6866,158,7077,77.0,2688.0,,,,,,
+619930,018d937f-276a-7159-95c3-a89294c9a646,Spring Bonus,2026-07-29,2017-04-10,"Casual, Match 3, Arcade, Cute, Relaxing",Grey Alien Games,1,2,3,9,34070,113,1046,87.0,41.0,,,,,,
+620070,018d937f-17f0-708b-8fce-f7880df0c8fe,Vroom Kaboom,2026-07-29,2018-08-14,"Free to Play, Racing, Multiplayer, Action, Strategy",Ratloop Games Canada,0,0,2,34,25609,25,1681,54.0,114.0,,3.0,,,42.0,9.0
+620080,018d937f-21f5-72e7-81dd-7c4cd39de760,A Clockwork Ley-Line: The Borderline of Dusk,2026-07-29,2017-12-19,"Anime, Visual Novel, Adventure, Singleplayer, Mystery",Unison Shift: Blossom,0,1,2,5,19950,1020,259,93.0,79.0,,1.0,,,,2.0
+620130,018d937f-29f7-7180-a62a-8f23d83e2a40,Chaos Town,2026-07-29,2017-05-29,"Action, Indie, RPG, Shooter, Top-Down Shooter",QuickSave,0,1,1,4700,27067,55,1513,78.0,50.0,,,,,,
+620140,018d937f-13cd-7038-9f0d-78a74edb8fbc,Bottle Flip Challenge VR,2026-07-29,2017-04-09,"Casual, Simulation, Sports, VR, Arcade",Justin Jimmo,0,0,0,2,88687,40,43,60.0,5.0,,,,,,
+620170,018d937f-2937-73d7-96c5-e4121ac63af4,Icarus Starship Command Simulator,2026-07-29,2017-05-27,"Indie, Simulation, Strategy, Action, Space",Steven Eric Boyette,0,0,0,3,39728,196,681,89.0,49.0,,,,,,
+620180,018d937f-047d-7268-b0e4-60afadf381cc,Nerepis,2026-07-29,2020-03-03,"Hack and Slash, Souls-like, PvP, Difficult, 3D Fighter",Smooth Moov Games,0,0,0,1,89185,51,12,,,,,,,,
+620190,018d937f-23f3-71aa-b21a-6624721454bb,Gunsmith,2026-07-29,2018-05-25,"Immersive Sim, Management, Base Building, Simulation, Atmospheric",SCT,2,3,7,481,17837,1116,408,72.0,980.0,,,,,,
+620210,018d937e-ea1e-7242-8725-a8d539a4b74d,Fatal Twelve,2026-07-29,2018-03-30,"Female Protagonist, Visual Novel, LGBTQ+, Dating Sim, Story Rich",LYCORIS,4,8,8,52,10865,1750,1066,92.0,937.0,,1.0,,3.0,,3.0
+620220,018d937f-039d-7113-ad7c-9f107a327adf,Catmaze,2026-07-29,2018-05-24,"Side Scroller, Exploration, Metroidvania, Platformer, Action RPG",Redblack Spade,1,4,4,16,8748,2119,1488,83.0,557.0,,,,3.0,,7.0
+620280,018d937f-1c6e-739c-8ec5-a7d68c8278be,Freefall,2026-07-29,2017-06-01,"Action, Indie, Early Access, Casual, Music",Shockk,0,0,0,2,75749,134,18,100.0,9.0,,,,,,
+620310,018d937f-1999-711f-84e8-f43e4bc94e9e,Bonny's adventure,2026-07-29,2017-04-26,"Adventure, Indie, Casual, Action","Jonas De Carvalho Felinto, Marcelo Eduardo Cabral",0,2,2,654,78452,87,80,83.0,6.0,,,,1.0,,
+620330,018d937f-0c94-709a-97b3-e25415dd8ab2,Scrapper,2026-07-29,2018-01-25,"Indie, Casual, Action, Adventure, Simulation",Ghostbolt Games,0,0,0,1,50033,166,438,80.0,5.0,,,,,,
+620340,018d937f-209d-7207-80e4-a81ea6628194,Cubrick,2026-07-29,2017-04-12,"Indie, Casual, Strategy, Puzzle Platformer",热泉 RedSpring,0,0,0,10,50407,79,606,100.0,10.0,,,,,,
+620350,018d937f-1b36-7126-9df8-d27c618ffcf6,Dark Hope: A puzzle adventure,2026-07-29,2019-02-18,"Adventure, Indie, First-Person, Horror, Mystery","Broken Bunny Studios, Inc",0,0,0,7,73453,80,158,45.0,11.0,,,,,,
+620360,018d937f-2859-71a0-b5ce-506758756f5f,Toy Clash,2026-07-29,2017-08-25,"Casual, Strategy, Indie, VR","5minlab co ltd, 5minlab Corp.",0,0,1,3,66048,191,42,97.0,38.0,,,,,,
+620410,018d937f-27e1-734a-81e4-e07eeb197d9b,Exit: A Biodelic Adventure,2026-07-29,2024-03-01,"Adventure, Puzzle, Point & Click, 2D, Indie",neurosaur,0,0,1,8,53155,286,114,88.0,54.0,,1.0,,,,
+620570,018d937e-f06a-72e3-bbf4-25898d879cd5,Tower! 2011: SE,2026-07-29,2017-05-03,"Simulation, Indie","Feelthere Inc, FeelThere",0,0,0,4,84616,58,64,35.0,17.0,,,,,,
+620580,018d937f-067a-7059-a878-b58f7adf0819,Calico & Co.,2026-07-29,2018-05-30,"Casual, Indie, Adventure, Platformer, Cats",Green Moss Game,0,0,0,4,67231,106,196,70.0,10.0,,,,,,
+620590,018d937e-fd31-70ef-ab59-d59e094388d1,Ancestors Legacy,2026-07-29,2018-05-22,"Strategy, Medieval, RTS, Historical, Violent",Destructive Creations,51,51,64,4928,1480,1978,18488,80.0,5771.0,77.0,22.0,72.0,136.0,76.0,37.0
+620620,018d937f-6ec2-7162-9d92-e1230bd92133,Pirate101,2026-07-29,2023-05-31,"MMORPG, Turn-Based Tactics, Pirates, Grid-Based Movement, Nostalgia",KingsIsle Entertainment,27,37,52,277,24784,56,1684,82.0,417.0,,1.0,81.0,21.0,,1.0
+620630,018d937f-1d33-7245-ad1d-c148b0534181,Civil War: 1865,2026-07-29,2017-04-07,"Strategy, Historical",HexWar Games,0,1,1,3,28519,41,1448,57.0,7.0,,,,,,
+620640,018d937e-f0b1-73ce-9b14-78ccfadf0f4b,Lightning: D-Day,2026-07-29,2017-07-14,"Strategy, World War II, Singleplayer, Turn-Based Tactics, Historical","HexWar Games Ltd, HexWar Games",0,0,0,3,26781,103,1436,66.0,6.0,,,,,,
+620650,018d937f-0bee-7058-9922-77c76546e49f,Puzzle With Your Friends,2026-07-29,2018-04-24,"Casual, Puzzle, Indie, Online Co-Op, Co-op","bumblebee., SkyCat Games",0,2,3,33,56569,176,257,85.0,157.0,,,,1.0,,
+620660,018d937f-33f1-73d4-a8e4-d1bec39cac73,Jack Spriggan,2026-07-29,2017-06-10,"Action, Adventure, VR",Vertexherder,0,0,0,1,90233,45,4,100.0,6.0,,,,,,
+620670,018d937f-2648-72d8-a10c-b8a5458b608d,The Cursed Revolver,2026-07-29,2017-04-26,"Early Access, Action, Indie, Shooter, Procedural Generation",The Cursed Revolver,0,0,0,1,44239,57,825,81.0,11.0,,,,,,
+620700,018d937f-2678-734c-a686-a8269363cd37,Evil Possession,2026-07-29,2017-05-17,"Indie, Adventure, Multiplayer, Action, Horror",2DragonsGames,0,1,3,5,25878,114,1478,57.0,154.0,,,,2.0,,
+620710,018d937f-3616-72dd-aba9-ec0971321a90,TankBlitz,2026-07-29,2017-04-21,"Action, Indie, Adventure, Top-Down Shooter, Tanks",Onur Vural and Leigh Christian,0,0,1,25,32720,84,1154,92.0,39.0,,,,,,
+620790,018d937f-342c-722a-b304-59e00dd8e896,The Slopes,2026-07-29,2017-05-19,"Action, Racing, Indie, Adventure, VR","Connor Laux, Peter Labick",0,2,4,4463,45595,32,835,83.0,48.0,,,,,,
+620800,018d937f-2111-735d-a83c-1efc6df00b5c,Big Hit VR Baseball,2026-07-29,2017-05-02,"Sports, Indie, Casual, Simulation, VR",Big Hit Games,0,1,1,5,87554,63,14,92.0,25.0,,,,,,
+620890,018d937f-467c-7334-aa9e-91f9b6be7ea6,Wizard Bros,2026-07-29,2021-01-25,"Action, Casual, Physics, Platformer, Family Friendly",Caspian Interactive,0,0,0,4,75696,127,33,84.0,26.0,,,,,,
+620900,018d937e-e9be-731a-8d23-49eed1f5acf6,Witchinour,2026-07-29,2017-06-12,"Action Roguelike, Roguelite, Twin Stick Shooter, Top-Down Shooter, Perma Death",mahojigoku,0,0,0,5,53897,223,224,91.0,56.0,,,,2.0,,1.0
+620940,018d937f-32eb-718f-814e-8c6ab496291d,Invisibox,2026-07-29,2017-10-18,"Indie, Casual, Puzzle, Difficult, Singleplayer",Retrific,0,2,34,827,46233,105,667,87.0,82.0,,,,,,
+620980,018d937f-379f-724a-8765-26a7d382d7dc,Beat Saber,2026-07-29,2019-05-21,"VR, Rhythm, Music, Moddable, Fast-Paced",Beat Games,353,422,466,44680,642,10632,11607,95.0,69607.0,93.0,7.0,82.0,334.0,86.0,34.0
+621000,018d937e-ff77-7324-8df8-5978e3045cba,异常 | Exception,2026-07-29,2019-07-04,"Strategy, Indie, Programming, Robots, Pixel Graphics",Kunpo Games,1,3,3,300,23979,693,459,94.0,569.0,,,,,,
+621010,018d937f-1ebf-704f-8398-2bff8c155b4b,Headmaster,2026-07-29,2017-08-30,"Sports, Action, Indie, VR, Dark Humor",Frame Interactive,0,0,0,3,64873,175,95,94.0,35.0,,2.0,75.0,43.0,,
+621020,018d937e-ff12-733f-a4a6-d907bdd3e830,Antigraviator,2026-07-29,2018-06-06,"Racing, Action, Indie, Sports, Futuristic",Cybernetic Walrus,0,1,1,17,16258,542,1894,63.0,166.0,65.0,27.0,47.0,12.0,67.0,34.0
+621060,018d937f-1c56-72f8-a7a5-0259e53fffd2,PC Building Simulator,2026-07-29,2018-03-27,"Simulation, Education, Immersive Sim, Building, Management","The Irregular Corporation, Claudiu Kiss",160,173,227,3724,763,4285,22220,93.0,42087.0,,3.0,70.0,115.0,70.0,12.0
+621070,018d937f-2d01-731c-9bb8-ef153752d722,Legends of Ellaria,2026-07-29,2021-04-01,"RPG, Strategy, Adventure, Action, Indie",Larkon Studio,0,0,1,59,16714,1186,491,55.0,752.0,,,,,,1.0
+621080,018d937e-f08a-7164-b855-0d10b6c42799,Persian Nights: Sands of Wonders,2026-07-29,2017-06-29,"Adventure, Casual, Hidden Object, Point & Click, Singleplayer",SoDigital,0,1,2,38,15974,369,2309,90.0,181.0,,,,1.0,,4.0
+621090,018d937e-fdc4-73f1-993e-e10c43c2643e,Elixir of Immortality II: The League of Immortality,2026-07-29,2018-05-18,"Adventure, Casual, Puzzle, Detective, Story Rich",First Violin Games,0,0,1,14,77377,70,128,40.0,10.0,,,,,,
+621140,018d937f-1b53-7110-bbc5-fdc3889c7893,EGG HUNT VR,2026-07-29,2018-04-03,"Adventure, Casual, Simulation, VR",ThinkVirtual LLC,0,0,0,2,90943,37,4,100.0,2.0,,,,,,
+621150,018d937f-1f35-7345-b0d6-13b96b93c5a0,False Shelter,2026-07-29,2017-04-20,RPG,Amaterasu Software,0,0,1,3855,22209,58,1936,75.0,66.0,,,,,,
+621170,018d937f-2ce5-71a9-8237-44cec9bdc98b,Winter's Empty Mask - Visual novel,2026-07-29,2019-03-04,"Action, Indie, Casual, Gore, Visual Novel",Eternal Night Studios,0,0,1,3,76775,111,52,85.0,21.0,,,,,,
+621220,018d937f-1258-707d-930d-402a8e201643,Nantucket,2026-07-29,2018-01-18,"Strategy, Indie, Adventure, RPG, Simulation",Picaresque Games,4,6,6,123,11145,1785,884,78.0,777.0,74.0,16.0,74.0,21.0,78.0,15.0
+621780,018d937f-27c6-7163-ad46-a845aa72c7ee,Virtually Impossible,2026-07-29,2017-04-13,"Casual, Action, Adventure, Indie, Simulation",Growl Interactive,0,0,0,8,77850,104,53,50.0,16.0,,,,,,
+621810,018d937f-2e46-7295-bb99-d392eb955f63,Strain Tactics,2026-07-29,2017-05-04,"Strategy, Action, Indie, Gore, Real Time Tactics",Touch Dimensions Interactive,0,1,2,14,18350,613,1345,87.0,213.0,,1.0,,,,2.0
+621830,018d937f-2f2f-73e8-b779-3631e7761f09,WRC 7 FIA World Rally Championship,2026-07-29,2017-09-15,"Racing, Automobile Sim, Multiplayer, Simulation, Split Screen","Kylotonn, KT Racing, Kylotonn Racing Games",559,559,696,11184,6588,633,6412,81.0,11894.0,,,,,70.0,33.0
+621850,018d937f-312a-73d5-af2d-dd1144de77d5,Maze Bandit,2026-07-29,2017-07-06,"Indie, Casual, Action",Gamestone Studio,0,0,0,5,72743,96,135,60.0,20.0,,,,,,
+621930,018d937f-1f50-708d-91a2-7471b918857f,Attack of the Earthlings,2026-07-29,2018-02-07,"Strategy, Indie, Turn-Based Strategy, Dark Humor, Comedy",Team Junkfish,0,3,3,30,7754,1428,3660,84.0,328.0,71.0,11.0,62.0,11.0,68.0,24.0
+621970,018d937f-2d94-7310-9c6e-021becb8f76b,Trailblazers,2026-07-29,2018-05-08,"Racing, Indie, Sports, Casual, Action",Supergonk,0,0,1,4,23459,528,840,53.0,76.0,69.0,8.0,53.0,9.0,68.0,31.0
+622010,018d937f-1210-7293-92a2-36b9e2818ba8,The Fall of Lazarus,2026-07-29,2017-10-04,"Adventure, Sci-fi, Indie, Space, Exploration",No Wand Studios,0,0,1,1394,16301,306,2368,63.0,119.0,,1.0,,2.0,,
+622020,018d937f-0a58-72bc-bc9f-796168b77101,ATV Drift & Tricks,2026-07-29,2017-11-13,"Racing, Offroad","Artefacts Studios, Artefacts Studio",0,0,1,11,26453,125,1415,63.0,58.0,,,45.0,4.0,,
+622040,018d937f-160b-7125-921f-720f721eebc8,Zooicide,2026-07-29,2017-06-30,"Action, Casual, Simulation, Early Access, Multiplayer",Evil Tortilla Games,0,0,0,19,24496,133,1553,65.0,284.0,,,,,,
+622060,018d937f-0e07-713d-9b82-f0cbd6700d96,XOXO Droplets,2026-07-29,2017-09-01,"Dating Sim, Visual Novel, Simulation, Indie, Casual",GB Patch Games,1,4,5,23,23445,92,1732,74.0,345.0,,1.0,,,,
+622080,018d937f-1ca7-70a0-842a-9fb63e96bcac,Plague Road,2026-07-29,2017-05-22,"Adventure, RPG, Indie, Strategy",Arcade Distillery,0,0,0,2,42849,156,665,16.0,6.0,,2.0,43.0,23.0,60.0,8.0
+622150,018d937f-20e7-7104-b350-0889eace57af,Bridge to Another World: Burnt Dreams Collector's Edition,2026-07-29,2017-04-10,"Adventure, Casual, Hidden Object",Friendly Fox,0,1,2,4,77523,100,65,100.0,13.0,,,,,,
+622200,018d937f-1a76-72a1-bf56-1dd9ad1ec80b,Cursery: The Crooked Man and the Crooked Cat Collector's Edition,2026-07-29,2017-04-12,"Casual, Adventure, Hidden Object",Blue Tea Games,0,1,1,4,75296,131,30,100.0,21.0,,,,,,
+622220,018d937f-3345-715e-a79e-07775213fd7b,Fate/EXTELLA LINK,2026-07-29,2019-03-19,"Anime, Action, Hack and Slash, Musou, RPG",Marvelous Inc.,12,12,17,3113,5984,3580,1158,92.0,4177.0,79.0,4.0,69.0,64.0,77.0,40.0
+622270,018d937f-2da0-72eb-a9d8-7c8305da90e5,Show It 2 Me,2026-07-29,2017-12-15,"Indie, Casual, VR, Free to Play, Music",Titmouse,0,1,1,3,25972,26,1651,96.0,147.0,,,,,,
+622310,018d937e-ff2c-7289-a832-775032e94909,Amigo VR,2026-07-29,2017-04-13,"Strategy, Free to Play, Massively Multiplayer, Casual, Simulation",Amigo VR Studio,0,0,1,2,30384,18,1394,52.0,51.0,,,,,,
+622320,018d937f-042c-7354-b65a-c7cab233d3f9,Nano Project,2026-07-29,2017-05-24,"Action, Indie, Adventure, FPS, Pixel Graphics",Summer Media,0,0,0,1,77692,77,110,57.0,14.0,,,,,,
+622370,018d937f-0470-737c-80f7-371b63bd2889,Freaky Awesome,2026-07-29,2017-10-18,"Online Co-Op, Action, Co-op, Singleplayer, Action Roguelike",Mandragora,0,0,1,525,12071,678,2782,55.0,206.0,54.0,4.0,73.0,4.0,,1.0
+622380,018d937f-2d11-7029-81e0-37fbac10a91d,RETNE,2026-07-29,2017-08-02,"Free to Play, Adventure, Casual, RPG, VR","VRNI Ltd, Kainos",4,4,4,48,27398,35,1532,80.0,50.0,,,,,,
+622420,018d937f-35d0-72fa-a882-b3fb2322d293,Stay Alive: Apocalypse,2026-07-29,2018-01-15,"Early Access, Indie, RPG, Simulation, Survival",Mehan Games,0,0,0,10,62069,225,44,45.0,142.0,,,,,,
+622460,018d937f-33d5-73be-87f4-56da291c71cb,Steampunk tower 2,2026-07-29,2018-04-19,"Steampunk, Tower Defense, Action, Strategy, Indie",DreamGate,1,1,3,41,19906,597,1128,72.0,310.0,,2.0,68.0,6.0,,2.0
+622470,018d937f-282c-717b-bf7c-d88964bf335e,Road Dogs,2026-07-29,2017-09-26,"Free to Play, Early Access, Massively Multiplayer, Action, Adventure",Teletower Studios,0,0,0,3,27161,42,1533,50.0,144.0,,,,,,
+622480,018d937f-1309-73ac-8328-4b3a7c7f010d,Gus Track Adventures VR,2026-07-29,2017-06-27,"Adventure, Indie, Action, VR",maxlvlgames,0,0,0,4,86963,52,45,75.0,8.0,,,,1.0,,
+622510,018d937f-2868-709e-a59c-872a3d9be4ba,Lootfest Wars,2026-07-29,2018-03-01,"Strategy, Indie, Casual, RTS",vikingfabian,0,0,0,2,32967,25,1265,85.0,21.0,,,,,,
+622540,018d937f-03a1-72f6-9466-1decb8357170,The Frost,2026-07-29,2017-05-16,"Indie, Gore, Violent, Early Access, Adventure",Tephra Company,0,0,0,2,46743,36,793,18.0,16.0,,,,,,
+622550,018d937f-0fb9-7104-9e16-5ff7e8763ed2,Final Cut: Encore Collector's Edition,2026-07-29,2017-04-14,"Adventure, Casual, Hidden Object",Eipix Entertainment,0,0,1,3,78453,112,29,100.0,9.0,,,,,,
+622610,018d937f-12e3-71b0-9b00-e8d019d7c4b2,Cult: Fear Inside,2026-07-29,2017-09-29,"Early Access, Action, Gore, Violent, Indie",Sombrero Way Studio,0,0,0,1,50381,45,676,80.0,5.0,,,,,,
+622620,018d937e-f54a-73a4-8213-a8ae41c19893,Nightmare Adventures: The Turning Thorn,2026-07-29,2017-04-17,"Adventure, Casual",Ghost Ship Studios,0,0,0,3,76118,116,50,80.0,20.0,,,,,,
+622630,018e9fb3-40d6-725c-97b4-3ef9bb4339a4,Bendy: Secrets of the Machine,2026-07-29,2024-04-14,"Adventure, Indie, Casual, Horror, Puzzle",Gent Corporation,2,4,8,2101,21221,77,2015,82.0,2059.0,,,73.0,7.0,,
+622650,018d937f-3126-702e-b690-b994a1b751b7,Bendy and the Ink Machine,2026-07-29,2017-02-09,"Horror, First-Person, Singleplayer, Puzzle, Cartoony","Joey Drew Studios, Joey Drew Studio",185,232,408,2960,2601,2822,10544,90.0,25553.0,,2.0,75.0,204.0,69.0,25.0
+622670,018d937f-0c62-73a0-aaef-75fe3432de0c,Huusuienbu - Chapter Spring and Summer,2026-07-29,,"Anime, Visual Novel, Indie, RPG, Adventure",REAL Co.Ltd,0,0,0,13,53458,247,186,69.0,49.0,,,,,,
+622680,018d937f-2d43-73c1-831d-45e774baee66,Mayhem In Single Valley,2026-07-29,2021-05-20,"Action, 2.5D, Comedy, RPG, Zombies",Fluxscopic Ltd.,0,0,1,38,11665,1060,2153,85.0,174.0,,1.0,,,65.0,8.0
+622700,018d937f-35b4-718b-9c38-22dff5009398,War Heroes: Invasion,2026-07-29,2018-05-15,"Strategy, Indie, Action, Tower Defense",Hammerson Games,1,4,4,492,54309,91,483,57.0,19.0,,,,,,
+622720,018d937f-195f-70be-8e76-8905fa92b0f9,Weedcraft Inc,2026-07-29,2019-04-11,"Simulation, Strategy, Indie, Management, Medical Sim",Vile Monarch,22,22,22,1609,10494,1789,1156,79.0,1544.0,67.0,25.0,68.0,41.0,70.0,28.0
+622770,018d937f-194c-7075-b7c9-a3c1fc8df7ef,Hacktag,2026-07-29,2018-02-13,"Action, Indie, Stealth, Hacking, Online Co-Op",Piece of Cake studios,2,2,4,48,12663,1511,871,66.0,318.0,73.0,4.0,78.0,4.0,,3.0
+622810,018d979a-6177-732c-883a-fa1288ee4a53,Invasion,2026-07-29,2018-06-16,"Action, Indie, Arcade, Bullet Hell, 2D",brutalsoft,0,0,0,2,51942,97,531,91.0,12.0,,,,,,
+622830,018d937f-35e3-7197-96d4-80431f152bdd,Battle Chess,2026-07-29,1994-06-01,"Tabletop, Strategy, Chess, Classic, Turn-Based","Interplay, Interplay Entertainment Corp.",1,2,4,10,21876,704,660,81.0,103.0,,,,,,
+622870,018d937f-5a9f-7235-ab38-3e5253fbc3aa,Within the blade,2026-07-29,,"Action, Indie, Pixel Graphics, Ninja, Platformer",Ametist studio,0,1,2,30,18190,936,711,86.0,298.0,,,23.0,4.0,70.0,20.0
+622880,018d937f-2d11-7029-81e0-37fba3d27e47,Sweven,2026-07-29,2017-04-22,"Violent, Indie, Adventure",CG-Interactive,0,0,0,25,66589,113,192,63.0,30.0,,,,,,
+622890,018d937f-4027-71a5-9fcd-310e8e828366,NecroWorm,2026-07-29,2017-05-18,"Logic, Puzzle, Old School, Funny, Cartoon","atabiszewski, postpunkpl, postpunkpl, atabiszewski, Postpunk Games",0,1,1,484,6560,65,7613,70.0,86.0,,,,,,1.0
+622910,018d937f-25f0-709f-b01a-e935911c7e1d,The trial of witch,2026-07-29,2018-01-06,"Indie, Adventure, RPG, LGBTQ+, Female Protagonist",Yurif,0,0,0,2,74407,122,60,85.0,21.0,,,,,,
+622920,018d937e-fef7-7274-bbce-e7d1544fe621,P-Walker's Simulation,2026-07-29,2017-05-24,"Early Access, Simulation, Action, Adventure, Indie",BrainStrainStudios,0,0,0,74,27656,42,1502,56.0,16.0,,,,,,
+622930,018d937f-0c41-705f-b638-1c7849f4d917,Magic Masks,2026-07-29,2018-04-30,"Adventure, Indie, Casual, Puzzle, Sokoban",Magic Masks Team,0,0,0,2,88768,56,9,100.0,5.0,,,,,,
+622950,018d95f1-9dbc-73ea-944b-6cac1bf53efc,Ball laB II,2026-07-29,,"Side Scroller, Precision Platformer, 2D Platformer, Puzzle Platformer, Puzzle",Viktor Yurchuk,0,0,0,99,87572,31,79,92.0,26.0,,,,,,
+622980,018d937f-4b84-7000-97fc-d3e7d9d24b5d,TrainClicker Idle Evolution,2026-07-29,,"incremental, Idler, Sandbox, Auto Battler, Strategy",PixelRNG,0,3,7,184,82636,75,54,60.0,64.0,,,,,,
+623040,018d937f-173a-72e6-aec3-6fe480dac50d,Crystal Vibes feat. Ott.,2026-07-29,2018-07-16,"Indie, VR, Psychedelic, Music, Physics",Ben Outram,0,0,0,2,84628,55,70,71.0,7.0,,,,,,
+623050,018d937f-0a6d-712e-b9a7-eae8da30359f,CyberClub-2077,2026-07-29,2017-09-28,"Casual, Simulation, Sports, Music, VR",Dalian Magical Storm Network Technology Co. Ltd.,0,0,0,1,90233,45,4,63.0,11.0,,,,,,
+623070,018d937f-2923-72c5-9ba9-429860146b76,Delicious - Emily's Miracle of Life,2026-07-29,2017-08-03,"Indie, Casual, Adventure, Time Management, Female Protagonist",GameHouse,0,2,4,16,67932,161,72,76.0,106.0,,,,1.0,,
+623080,018d937f-20cb-70da-a553-9b0010a26e60,planetarian HD,2026-07-29,2017-05-08,"Visual Novel, Anime, Casual, Adventure, Robots",VisualArts/Key,4,4,10,22,11807,1545,1108,98.0,3143.0,,,,,,
+623090,018d937e-e9d8-72aa-a099-00d90055dcf9,BAJA: Edge of Control HD,2026-07-29,2017-09-13,"Racing, Sports, Offroad, Open World, Local Multiplayer","2XL Games/Blitworks, Blitworks, 2XL Games",0,3,4,25,22901,697,556,82.0,382.0,,,,,65.0,19.0
+623160,018d937f-07d2-701d-bff9-4ae50f743b88,Zombie Solitaire 2 Chapter 1,2026-07-29,2017-06-29,"Casual, Solitaire, Indie, Card Game, Zombies",rokaplay,1,3,3,163,46068,117,647,70.0,90.0,,,,,,
+623170,018d937e-fec9-73e7-9e1b-03ed02557ebd,Zombie Solitaire 2 Chapter 2,2026-07-29,2017-10-08,"Solitaire, Casual, Indie, Strategy, Board Game",rokaplay,1,3,3,11,52210,117,483,86.0,58.0,,,,,,
+623180,018d937e-e9f7-7380-b8cf-0b91633f24f5,Zombie Solitaire 2 Chapter 3,2026-07-29,2018-03-05,"Casual, Solitaire, Card Game, Mouse only, Puzzle",rokaplay,0,0,2,6,53759,105,468,80.0,47.0,,,,,,
+623320,018d937f-0dec-71d0-b5c9-ba68a87ace43,Button Button Up!,2026-07-29,2019-08-09,"Sokoban, 2D Platformer, Puzzle Platformer, Puzzle, Parkour",Centrosphere Games,2,2,3,28,45258,373,149,96.0,94.0,,,,,,3.0
+623340,018d937e-f4a3-71a0-bdde-24bbd726e157,Stars End,2026-07-29,2019-10-14,"Co-op, Massively Multiplayer, Multiplayer, Action, Adventure","Reverie World Studios, Reverie World Studios Inc",0,0,1,228,16616,815,1268,63.0,1121.0,,,,,,
+623360,018d937f-2d3b-71fb-b6af-b39991e1c8c8,Grim Tales: The Legacy Collector's Edition,2026-07-29,2017-04-19,"Casual, Adventure, Hidden Object",Elephant Games,0,0,1,7,72672,124,79,72.0,33.0,,,,,,
+623370,018d937f-3471-7366-ba30-183a337ccbdb,xDrive VR,2026-07-29,2017-06-16,"Massively Multiplayer, Action, Early Access, Indie, RPG",Themes_Daly,0,0,0,1,82095,85,40,66.0,6.0,,,,,,
+623380,018d937f-1195-7227-82ca-ba9e0f6c05ac,Cybermotion,2026-07-29,2017-07-28,"Simulation, Indie, Early Access, Physics, Sandbox",Lukayson,0,0,0,7,65117,94,256,82.0,78.0,,,,,,
+623460,018d937f-2f14-734a-9f59-bfb7c9cac717,Haunted Legends: The Bronze Horseman Collector's Edition,2026-07-29,2017-04-21,"Adventure, Casual, Hidden Object",AMAX Interactive,0,0,0,3,80746,99,28,60.0,5.0,,,,,,
+623470,018d937f-2219-710f-bea2-2308e7122ea4,League of Light: Wicked Harvest Collector's Edition,2026-07-29,2017-04-24,"Adventure, Casual, Hidden Object",Mariaglorum,0,1,1,4,77308,119,29,100.0,6.0,,,,,,
+623540,018d937f-1c9f-730e-a3f0-8eb2925f2082,Late For Work,2026-07-29,2019-06-28,"VR, Local Multiplayer, Asymmetric VR, Local Co-Op, Destruction",Salmi Games,0,0,1,18,37325,475,194,88.0,78.0,,,,,,
+623550,018d937f-1732-71eb-b10f-322e4863def4,Timen runner,2026-07-29,2017-05-26,"Indie, Casual, Platformer, 2D, Pixel Graphics",REX PEX GAMES,0,2,3,2383,25017,45,1688,65.0,116.0,,,,,,
+623570,018d937f-2bf6-72a0-a2d6-48d0be3e9b81,PingBall VR,2026-07-29,,"Simulation, Sports, Action, Indie, Casual",Immersive Artz,0,0,0,2,89084,44,28,60.0,15.0,,,,,,
+623580,018d937f-3055-7042-b564-f84af65d1c9b,POBEDA,2026-07-29,2017-05-09,"Indie, Casual, Action","RCG, MyST",0,5,11,1283,28070,41,1477,57.0,152.0,,,,1.0,,
+623640,018d937f-1d02-714e-b1d3-12f64635825c,Mulaka,2026-07-29,2018-02-27,"Action, Adventure, Indie, Mythology, Historical",Lienzo,0,1,1,8,12986,1303,1193,91.0,170.0,67.0,6.0,72.0,65.0,71.0,61.0
+623670,018d937f-3e0a-726e-aba6-e44974a66cc1,Moe Mekuri SP,2026-07-29,,"Indie, Anime, Puzzle",KoheiGallery,0,0,0,3,74976,108,81,73.0,19.0,,,,,,
+623700,018d95f1-b719-70f4-82e1-db83dbc7b8f3,Rec Center Tycoon - Management Simulator,2026-07-29,2019-09-06,"Simulation, Building, Management, Sandbox, Strategy",Jarrod Brown,0,1,1,31,15206,357,2504,75.0,253.0,,,,,,
+623800,018d937f-20db-7157-989b-1b48c138ac07,Everything Must Fall,2026-07-29,2017-05-25,"Indie, Early Access, Action, Adventure, VR",Carry Castle,0,0,0,2,77352,103,61,92.0,13.0,,,,,,
+623810,018d937f-30ac-7370-aa28-c6f955984f80,Rabbit Story,2026-07-29,2017-05-17,"Adventure, Indie, Casual, Cute, Story Rich",Slava Bushuev,0,0,1,5,54657,255,140,70.0,102.0,,,,,,
+623840,018d937f-1395-7025-b791-e8a5a8a3ddbd,Ambre - a heartbreaking kinetic novel,2026-07-29,2017-06-09,"Free to Play, Visual Novel, Casual, Indie, Anime",Träumendes Mädchen,1,1,3,7,20389,73,2130,75.0,669.0,,,,,,
+623850,018d937e-f889-73f3-be24-dabf8e657133,Elite Encounter,2026-07-29,2017-05-05,"Sports, Violent, Action, Indie, Casual",Hin Lam,0,0,0,1,90779,38,6,,,,,,,,
+623860,018d937e-f04a-7187-a2da-58c1bd8e4cb5,Handball Manager - TEAM,2026-07-29,2017-05-04,"Sports, Simulation, Strategy","UniqueGames, Greencode, Raylight S.R.L.",0,1,1,4,60860,45,435,66.0,15.0,,,,,,
+623900,018d937f-09c9-728a-81df-6a614d25b554,Table Football Pro,2026-07-29,2017-05-22,"Early Access, Sports",Ticklersoft,0,0,0,2,83632,65,62,50.0,22.0,,,,,,
+623920,018d937e-e9d5-702c-99dc-a9983e952198,Chicago 1930: The Prohibition,2026-07-29,2003-11-12,"Strategy, Crime, Isometric, Classic, RTS",Spellbound,1,2,2,9,15538,257,2630,70.0,134.0,,,,,,
+623930,018d937f-2dc1-71a9-9039-0587a60cf5cd,Solaria Moon,2026-07-29,2017-09-06,"Adventure, Indie, Female Protagonist, Puzzle",3y3.net,0,0,0,7,32009,86,1180,56.0,44.0,,,,3.0,,
+623940,018d937f-23ec-730c-9417-ff971362aab6,HIVESWAP: ACT 1,2026-07-29,2017-09-14,"Adventure, Point & Click, Great Soundtrack, RPG, Indie","What Pumpkin Games, What Pumpkin Games, Inc., What Pumpkin Games Inc.",2,8,8,175,1556,1268,19326,94.0,3108.0,,2.0,71.0,30.0,,
+624050,018d937f-37fa-729b-8e87-d2d0031cbada,Lazer Cops,2026-07-29,2017-06-15,"Action, Indie, Local Co-Op, Bullet Hell, Local Multiplayer","Foolish Mortals Games, Michael Long",0,0,1,14,23903,32,1813,85.0,21.0,,,,,,
+624060,018d937f-0848-7010-aa92-d7f2f9120046,Shattered Steel,2026-07-29,1996-09-30,"Action, Simulation, Mechs, Shooter, First-Person",BioWare,0,0,1,2,27043,428,754,58.0,12.0,,,77.0,10.0,,
+624070,018d937f-0655-70cf-9f15-e4f08e522bc6,Dragon Wars,2026-07-29,1990-01-01,"RPG, Adventure, Dungeon Crawler, First-Person, Party-Based RPG","Interplay, Interplay Entertainment Corp.",0,0,0,3,27855,550,453,90.0,21.0,,,,,,
+624080,018d937f-0c3f-7378-967b-9813deaf1c7e,Cyberia,2026-07-29,1994-01-01,"Action, Adventure, Simulation, Cyberpunk, On-Rails Shooter","Xatrix Entertainment, Interplay Entertainment Corp.",0,0,1,3,26851,430,764,94.0,38.0,,,,3.0,,
+624260,018d937f-12d5-7136-98e9-8e3f6348d7e4,The Crane Trials: Red Edition,2026-07-29,2017-04-19,"Adventure, Indie, Simulation, VR",Liam Swetnam,0,0,0,0,91177,34,4,,,,,,,,
+624270,018d937f-2933-7136-b024-2ce952f94fbc,The Painscreek Killings,2026-07-29,2017-09-27,"Investigation, Mystery, Detective, Exploration, Story Rich",EQ Studios,19,19,34,545,3862,3239,5666,90.0,5566.0,,3.0,80.0,38.0,,
+624320,018d937f-1d3d-7255-9d33-f0cfdc37c9e6,Loyalty and Blood: Viktor Origins,2026-07-29,2018-03-16,"Indie, Action, Adventure, Platformer, 2D",Shorebound Studios,0,0,0,4,33680,237,807,82.0,58.0,,,74.0,5.0,,
+624410,018d937f-19fa-70ca-96ed-9c0784574cd0,Prank Bros / 欢乐兄弟,2026-07-29,,"Action, Casual, Indie, PvP, Fighting",Rocky Games,0,0,0,181,81958,77,58,60.0,46.0,,,,,,
+624430,018d937f-25fb-72c5-b204-01913a7b0470,AI Rebellion VR,2026-07-29,,"Action, Adventure, Simulation, VR, Space Sim",Immergity,0,0,0,101,77092,86,99,56.0,16.0,,,,,,
+624460,018d937f-4694-728a-9c49-a3d9439a3b60,Fantasynth One,2026-07-29,2017-04-20,"Audio Production, Indie, VR, Music",HelloEnjoy,1,1,1,6,25162,42,1682,95.0,479.0,,,,,,
+624550,018d937f-0e86-7369-be7d-32a03f5b712f,Spiritual Warfare & Wisdom Tree Collection,2026-07-29,2017-04-25,"Action, Adventure, RPG, Retro, 2D","Wisdom Tree, Wisdom Tree, Inc.",1,1,1,8,13308,130,3484,82.0,39.0,,,,,,
+624560,018d937f-03fe-7180-8c30-304ba4d3e534,Medusa's Labyrinth VR,2026-07-29,2017-05-24,"Action, Indie, Horror, VR",Guru Games,0,0,0,1,84400,81,20,11.0,9.0,,1.0,,,,
+624610,01946709-e4b2-700a-bbaa-2a44f5987050,Run,2026-07-29,2017-05-19,"Indie, Simulation, Action, VR",POPSAUR,0,0,0,1,90686,17,51,25.0,4.0,,,,,,
+624630,018d937f-307c-717c-b2e8-97b8a72977e7,TennisVR,2026-07-29,2017-04-20,"Tennis, Sports, VR",AbstractGameStudio,0,0,0,1,90106,37,23,26.0,15.0,,,,,,
+624680,018d937f-158f-72b0-9909-e63afb021e57,Promethium,2026-07-29,2017-08-18,"Indie, Action, Shoot 'Em Up, Arcade, Shooter","Xiotex Studios, Xiotex Studios Ltd",0,0,0,2,63294,116,243,65.0,20.0,,,,,,
 1469220,018d937e-f056-7325-b8e7-8833af4413f3,Cat Simulator,2026-07-24,2016-02-13,"Cats, Open World, Life Sim, Cute, Base Building","Catstudio, Funny Games Group, Cat Studio",1,2,3,27,10514,153,4477,60.0,64.0,,,,,,
 3065800,018d937f-221d-72ee-99a5-238681910c51,Marathon,2026-07-19,2026-03-04,"Extraction Shooter, PvP, Multiplayer, Sci-fi, Shooter",Bungie,5116,6292,6439,88337,3818,5286,1552,82.0,43398.0,81.0,47.0,57.0,1434.0,81.0,132.0
 3065800,018d937f-221d-72ee-99a5-238681910c51,Marathon,2026-07-21,2026-03-04,"Extraction Shooter, PvP, Multiplayer, Sci-fi, FPS",Bungie,12915,14809,14809,88337,3811,5294,1555,82.0,43778.0,81.0,47.0,57.0,1434.0,81.0,132.0
