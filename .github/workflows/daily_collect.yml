@@ -5,9 +5,15 @@ on:
     - cron: "0 15 * * *"   # 15:00 UTC todos los días
   workflow_dispatch:
 
+# Mismo grupo que el onboarding: nunca corren a la vez, así no chocan los push.
+concurrency:
+  group: steam-data-write
+  cancel-in-progress: false
+
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 350        # GitHub mata el job a los 360
     permissions:
       contents: write
 
@@ -19,19 +25,29 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+          cache: pip
 
       - name: Install dependencies
-        run: pip install requests pandas python-dotenv
+        run: pip install -r requirements.txt
 
+      # Tres capas contra el timeout:
+      # 1) el script se detiene solo al cumplir MAX_RUNTIME_MIN y guarda;
+      # 2) si algo se cuelga, este paso se corta a los 320 min (y no todo el job);
+      # 3) el paso de commit corre igual (if: always) y sube los checkpoints ya escritos.
       - name: Run daily update
+        timeout-minutes: 320
         env:
           ITAD_API_KEY: ${{ secrets.ITAD_API_KEY }}
+          MAX_RUNTIME_MIN: "300"
         run: python collect_data.py
 
       - name: Commit and push updated data
+        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/*.csv
-          git diff --staged --quiet || git commit -m "Actualiza datos diarios $(date -u +'%Y-%m-%d')"
+          git add data/
+          git diff --staged --quiet && exit 0
+          git commit -m "Actualiza datos diarios $(date -u +'%Y-%m-%d')"
+          git pull --rebase origin main
           git push

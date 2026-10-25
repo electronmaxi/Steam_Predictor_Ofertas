@@ -1,83 +1,53 @@
 """
-onboard_batch.py — toma el siguiente lote de appids "pending" en tracked_games.csv,
-verifica que existan en ITAD, y hace su primera carga de precios + snapshot.
+onboard_batch.py — toma los siguientes appids 'pending' de tracked_games.csv,
+verifica que existan en ITAD y hace su primera carga (historial completo + snapshot).
+
+Procesa hasta BATCH_SIZE juegos o hasta agotar el presupuesto de tiempo, lo que pase antes.
 
 Uso local:
     python onboard_batch.py
 """
 
-import os
-import time
 import pandas as pd
 
-from collect_data import (
-    get_game_data,
-    build_history_rows,
-    build_snapshot_row,
-    write_price_history_bulk,
-    write_snapshots_bulk,
-    DATA_DIR,
-    RateLimitReached,
-)
+from pipeline.config import env_int
+from pipeline.itad import fetch_game
+from pipeline.runner import run_games
+from pipeline.storage import load_tracked, build_history_rows, build_snapshot_row
 
-TRACKED_PATH = os.path.join(DATA_DIR, "tracked_games.csv")
-BATCH_SIZE = 300
+BATCH_SIZE = env_int("BATCH_SIZE", 3000)
+MAX_RUNTIME_MIN = env_int("MAX_RUNTIME_MIN", 60)
 
 
-def onboard_next_batch():
-    if not os.path.exists(TRACKED_PATH):
-        raise RuntimeError(
-            f"No se encontró {TRACKED_PATH}. Corre build_appid_pool.py primero."
-        )
+def process_one(row):
+    result = fetch_game(row["appid"])
+    now = pd.Timestamp.now(tz="UTC")
+    updates = {
+        "status": "active",
+        "date_added": now.date().isoformat(),
+        "last_updated": now.isoformat(),
+        "history_synced_at": now.isoformat(),
+        "game_id": result["game_id"],
+    }
+    return build_history_rows(result), build_snapshot_row(result), updates
 
-    df = pd.read_csv(TRACKED_PATH, dtype={"appid": int})
-    if "last_updated" not in df.columns:
-        df["last_updated"] = pd.NA
-    for col in ["date_added", "last_updated"]:
-        df[col] = df[col].astype("object")
 
-    pending = df[df["status"] == "pending"].head(BATCH_SIZE)
-
+def main():
+    tracked = load_tracked()
+    pending = tracked[tracked["status"] == "pending"].head(BATCH_SIZE)
     if pending.empty:
         print("No quedan appids pendientes. Onboarding completo.")
         return
 
-    print(f"Procesando lote de {len(pending)} appids...")
+    print(f"Onboarding de hasta {len(pending)} appids. Presupuesto: {MAX_RUNTIME_MIN} min.")
+    # Solo 'no existe en ITAD' descarta el juego; un error de red lo deja pending para reintentar.
+    run_games(tracked, pending, process_one, MAX_RUNTIME_MIN,
+              on_not_found=lambda row: {"status": "not_found"})
 
-    history_rows = []
-    snapshot_rows = []
-    processed = 0
-
-    for idx, row in pending.iterrows():
-        appid = row["appid"]
-        try:
-            result = get_game_data(appid)
-            history_rows.extend(build_history_rows(result))
-            snapshot_rows.append(build_snapshot_row(result))
-            df.loc[idx, "status"] = "active"
-            df.loc[idx, "date_added"] = pd.Timestamp.now(tz="UTC").date().isoformat()
-            df.loc[idx, "last_updated"] = pd.Timestamp.now(tz="UTC").isoformat()
-            processed += 1
-        except RateLimitReached:
-            print(f"Rate limit alcanzado tras procesar {processed} juegos de este lote. "
-                  f"Guardando progreso, el resto sigue en la próxima ejecución.")
-            break
-        except Exception as e:
-            df.loc[idx, "status"] = "not_found"
-            print(f"  appid {appid} descartado: {e}")
-        time.sleep(0.3)
-
-    # Guardado en bloque, una sola vez, sin importar cuántos se procesaron
-    write_price_history_bulk(history_rows)
-    write_snapshots_bulk(snapshot_rows)
-    df.to_csv(TRACKED_PATH, index=False)
-
-    active_count = (df["status"] == "active").sum()
-    not_found_count = (df["status"] == "not_found").sum()
-    pending_count = (df["status"] == "pending").sum()
-    print(f"Lote terminado. Procesados esta corrida: {processed}")
-    print(f"  Activos: {active_count} | Descartados: {not_found_count} | Pendientes restantes: {pending_count}")
+    counts = tracked["status"].value_counts()
+    print(f"Activos: {counts.get('active', 0)} | Descartados: {counts.get('not_found', 0)} | "
+          f"Pendientes: {counts.get('pending', 0)}")
 
 
 if __name__ == "__main__":
-    onboard_next_batch()
+    main()
