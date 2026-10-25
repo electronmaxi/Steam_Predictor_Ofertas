@@ -167,9 +167,13 @@ def write_snapshots(rows):
     atomic_write_csv(df_all, SNAPSHOTS_PATH)
 
 
-def latest_players_recent():
-    """players_recent del último snapshot de cada juego (Series indexada por appid)."""
+POPULARITY_COLUMNS = ["players_recent", "itad_waitlisted", "steam_count"]
+
+
+def latest_popularity():
+    """Señales de popularidad del último snapshot de cada juego (DataFrame indexado por appid)."""
     if not os.path.exists(SNAPSHOTS_PATH):
-        return pd.Series(dtype=float)
-    s = pd.read_csv(SNAPSHOTS_PATH, usecols=["appid", "date_checked", "players_recent"])
-    return s.sort_values("date_checked").groupby("appid")["players_recent"].last()
+        return pd.DataFrame(columns=POPULARITY_COLUMNS)
+    s = pd.read_csv(SNAPSHOTS_PATH, usecols=["appid", "date_checked", *POPULARITY_COLUMNS])
+    # .last() de groupby toma el último valor no nulo de cada columna
+    return s.sort_values("date_checked").groupby("appid")[POPULARITY_COLUMNS].last()

@@ -1,8 +1,9 @@
 """
 collect_data.py — daily update de los juegos activos.
 
-Re-consulta los juegos 'active' que toca actualizar (7 días si tienen jugadores,
-30 si no), del más atrasado al más reciente, hasta agotar el presupuesto de tiempo.
+Re-consulta los juegos 'active' que toca actualizar según su nivel de popularidad
+(ver TIER_INTERVAL_DAYS en pipeline/config.py): primero los populares y, dentro de
+cada nivel, el más atrasado primero, hasta agotar el presupuesto de tiempo.
 Lo que no alcanza queda para la siguiente corrida.
 
 Uso local:
@@ -13,28 +14,45 @@ Uso local:
 import pandas as pd
 
 from pipeline.config import (
-    ACTIVE_INTERVAL_DAYS, IDLE_INTERVAL_DAYS, HISTORY_OVERLAP_DAYS, env_int,
+    POPULAR_TOP_N, MID_TOP_N, TIER_INTERVAL_DAYS, TIER_ORDER, HISTORY_OVERLAP_DAYS, env_int,
 )
 from pipeline.itad import fetch_game
 from pipeline.runner import run_games
 from pipeline.storage import (
-    load_tracked, latest_players_recent, build_history_rows, build_snapshot_row,
+    load_tracked, latest_popularity, build_history_rows, build_snapshot_row,
 )
 
 MAX_RUNTIME_MIN = env_int("MAX_RUNTIME_MIN", 300)
 
 
+def assign_tiers(active):
+    """Nivel de popularidad de cada juego activo (Series alineada con `active`)."""
+    pop = latest_popularity().reindex(active["appid"].to_numpy())
+    pop.index = active.index
+
+    pct = lambda col: pop[col].rank(pct=True).fillna(0)
+    score = (pct("itad_waitlisted") + pct("steam_count")) / 2
+    position = score.rank(ascending=False, method="first")
+
+    tier = pd.Series("cola", index=active.index)
+    tier[(position <= MID_TOP_N) | (pop["players_recent"].fillna(0) > 0)] = "medio"
+    tier[position <= POPULAR_TOP_N] = "popular"
+    return tier
+
+
 def select_due(tracked):
     active = tracked[tracked["status"] == "active"].copy()
-    last = pd.to_datetime(active["last_updated"], utc=True, errors="coerce", format="ISO8601")
+    active["_last"] = pd.to_datetime(active["last_updated"], utc=True, errors="coerce", format="ISO8601")
+    active["_tier"] = assign_tiers(active)
 
-    players = active["appid"].map(latest_players_recent()).fillna(0)
-    interval_days = players.gt(0).map({True: ACTIVE_INTERVAL_DAYS, False: IDLE_INTERVAL_DAYS})
+    interval_days = active["_tier"].map(TIER_INTERVAL_DAYS)
     cutoff = pd.Timestamp.now(tz="UTC") - pd.to_timedelta(interval_days, unit="D")
+    due = active[active["_last"].isna() | (active["_last"] < cutoff)].copy()
 
-    active["_last"] = last
-    due = active[last.isna() | (last < cutoff)]
-    return due.sort_values("_last", na_position="first"), active
+    # Primero los populares; dentro de cada nivel, el más atrasado primero.
+    due["_tier_order"] = due["_tier"].map({t: i for i, t in enumerate(TIER_ORDER)})
+    due = due.sort_values(["_tier_order", "_last"], na_position="first")
+    return due, active
 
 
 def process_one(row):
@@ -54,6 +72,10 @@ def process_one(row):
 def main():
     tracked = load_tracked()
     due, active = select_due(tracked)
+    for tier in TIER_ORDER:
+        print(f"  {tier:8} {(active['_tier'] == tier).sum():>7} activos, "
+              f"{(due['_tier'] == tier).sum():>7} toca actualizar "
+              f"(cada {TIER_INTERVAL_DAYS[tier]} días)")
     print(f"{len(active)} juegos activos, {len(due)} toca actualizar. "
           f"Presupuesto: {MAX_RUNTIME_MIN} min.")
     if due.empty:

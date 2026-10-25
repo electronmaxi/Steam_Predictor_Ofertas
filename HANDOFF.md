@@ -9,7 +9,10 @@ Pipeline Python que recolecta precios e info de juegos de Steam vía la API de I
 ## Cómo funciona
 
 - **Onboarding** (`onboard_batch.py`, cron `0 2,6,10,14,22 * * *`): toma los `pending` en orden de appid, hace `lookup` + historial completo desde 2015 + `info` y los pasa a `active`. Solo `GameNotFound` los marca `not_found`; un error de red deja el juego `pending` para reintentarlo.
-- **Daily** (`collect_data.py`, cron `0 15 * * *`): re-consulta los `active` que toca actualizar, del más atrasado al más nuevo. Toca cada 7 días si el último snapshot tenía `players_recent` > 0 y cada 30 si no.
+- **Daily** (`collect_data.py`, cron `0 15 * * *`): re-consulta los `active` que toca actualizar según su nivel de popularidad. Procesa primero los populares y, dentro de cada nivel, el más atrasado primero.
+  - Puntaje = promedio del percentil en `itad_waitlisted` y `steam_count` del último snapshot. Se recalcula en cada corrida.
+  - **popular**: top 10.000, cada 3 días. **medio**: hasta el puesto 60.000 o con `players_recent` > 0, cada 14 días. **cola**: el resto, cada 60 días. Se configura en `pipeline/config.py`.
+  - Con los 175k juegos son ~8.800 por día, ~2 h de run.
   - Usa el `game_id` guardado en tracked, así que no repite el lookup: 2 requests por juego.
   - Pide el historial desde `history_synced_at` menos 2 días. Si `history_synced_at` está vacío, baja el historial completo.
 - **Loop común** (`pipeline/runner.py`): corta limpio y guarda cuando pasa cualquiera de estas cosas: termina la lista, se agota `MAX_RUNTIME_MIN`, ITAD responde 429 o hay 25 errores seguidos. Además guarda un checkpoint a disco cada 500 juegos.

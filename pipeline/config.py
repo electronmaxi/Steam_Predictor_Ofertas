@@ -33,11 +33,17 @@ CHECKPOINT_EVERY = 500
 # Si fallan tantos juegos seguidos, probablemente la API está caída: se corta limpio.
 MAX_CONSECUTIVE_ERRORS = 25
 
-# Intervalo de re-consulta: juegos con jugadores cada 7 días, sin jugadores cada 30.
+# Niveles de popularidad para el daily. Puntaje = promedio del percentil en
+# itad_waitlisted y steam_count (último snapshot). Se recalcula en cada corrida.
+# - popular: top POPULAR_TOP_N
+# - medio:   hasta el puesto MID_TOP_N, o cualquier juego con jugadores recientes
+# - cola:    el resto
 # El historial de precios no pierde datos por consultar menos seguido (ITAD lo guarda
 # con su timestamp); lo que pierde resolución es el snapshot del día.
-ACTIVE_INTERVAL_DAYS = 7
-IDLE_INTERVAL_DAYS = 30
+POPULAR_TOP_N = 10_000
+MID_TOP_N = 60_000
+TIER_INTERVAL_DAYS = {"popular": 3, "medio": 14, "cola": 60}
+TIER_ORDER = ["popular", "medio", "cola"]   # prioridad dentro de cada corrida
 
 
 def env_int(name, default):
