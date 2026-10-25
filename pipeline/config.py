@@ -44,6 +44,10 @@ POPULAR_TOP_N = 10_000
 MID_TOP_N = 60_000
 TIER_INTERVAL_DAYS = {"popular": 3, "medio": 14, "cola": 60}
 TIER_ORDER = ["popular", "medio", "cola"]   # prioridad dentro de cada corrida
+# Un juego cuenta como vencido si le faltan menos de estas horas para cumplir su intervalo.
+# Sin margen, "cada 3 días" se vuelve cada 4: el daily parte a la misma hora (o antes,
+# si GitHub lo atrasa menos) y los juegos aún no cumplen las 72 h exactas.
+DUE_TOLERANCE_HOURS = 12
 
 
 def env_int(name, default):

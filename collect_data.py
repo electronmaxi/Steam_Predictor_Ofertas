@@ -14,7 +14,8 @@ Uso local:
 import pandas as pd
 
 from pipeline.config import (
-    POPULAR_TOP_N, MID_TOP_N, TIER_INTERVAL_DAYS, TIER_ORDER, HISTORY_OVERLAP_DAYS, env_int,
+    POPULAR_TOP_N, MID_TOP_N, TIER_INTERVAL_DAYS, TIER_ORDER, DUE_TOLERANCE_HOURS,
+    HISTORY_OVERLAP_DAYS, env_int,
 )
 from pipeline.itad import fetch_game
 from pipeline.runner import run_games
@@ -46,7 +47,8 @@ def select_due(tracked):
     active["_tier"] = assign_tiers(active)
 
     interval_days = active["_tier"].map(TIER_INTERVAL_DAYS)
-    cutoff = pd.Timestamp.now(tz="UTC") - pd.to_timedelta(interval_days, unit="D")
+    cutoff = (pd.Timestamp.now(tz="UTC") + pd.Timedelta(hours=DUE_TOLERANCE_HOURS)
+              - pd.to_timedelta(interval_days, unit="D"))
     due = active[active["_last"].isna() | (active["_last"] < cutoff)].copy()
 
     # Primero los populares; dentro de cada nivel, el más atrasado primero.

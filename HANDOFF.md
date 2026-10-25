@@ -1,6 +1,6 @@
 # HANDOFF — Steam Predictor de Ofertas
 
-Última revisión: 2026-10-25. El repo pasó a ser **público**, así que los minutos de Actions ya no tienen tope (el límite de 6 h por job sigue).
+Última revisión: 2026-10-25 (noche). Horas en UTC salvo que diga "Chile" (UTC−3 en horario de verano). El repo pasó a ser **público**, así que los minutos de Actions ya no tienen tope (el límite de 6 h por job sigue).
 
 ## Qué es
 
@@ -12,6 +12,7 @@ Pipeline Python que recolecta precios e info de juegos de Steam vía la API de I
 - **Daily** (`collect_data.py`, cron `0 15 * * *`): re-consulta los `active` que toca actualizar según su nivel de popularidad. Procesa primero los populares y, dentro de cada nivel, el más atrasado primero.
   - Puntaje = promedio del percentil en `itad_waitlisted` y `steam_count` del último snapshot. Se recalcula en cada corrida.
   - **popular**: top 10.000, cada 3 días. **medio**: hasta el puesto 60.000 o con `players_recent` > 0, cada 14 días. **cola**: el resto, cada 60 días. Se configura en `pipeline/config.py`.
+  - Margen de 12 h (`DUE_TOLERANCE_HOURS`): un juego cuenta como vencido si le faltan menos de 12 h para cumplir su intervalo. Sin ese margen, "cada 3 días" terminaba siendo cada 4, porque el daily parte siempre a una hora parecida.
   - Con los 175k juegos son ~8.800 por día, ~2 h de run.
   - Usa el `game_id` guardado en tracked, así que no repite el lookup: 2 requests por juego.
   - Pide el historial desde `history_synced_at` menos 2 días. Si `history_synced_at` está vacío, baja el historial completo.
@@ -31,16 +32,43 @@ Además: los requests tienen `timeout=(10, 30)`, y los dos workflows comparten `
 - Orden de guardado: price_history → snapshots → tracked. Si se corta en medio, el juego simplemente se vuelve a procesar en la próxima corrida.
 
 ## Historia de problemas (resueltos el 25-oct)
-- Del 26-jul al 25-oct el historial de precios **no se commiteó**, porque `git add data/*.csv` no entra a subcarpetas. Hoy solo 9.771 juegos tienen historial guardado. Los otros ~48.550 activos tienen `history_synced_at` vacío y el daily les baja el historial completo de forma automática (ITAD guarda todo, no se perdió nada irrecuperable).
+- Del 26-jul al 25-oct el historial de precios **no se commiteó**, porque `git add data/*.csv` no entra a subcarpetas. Al migrar solo 9.771 juegos tenían historial guardado. Los otros ~48.550 activos quedaron con `history_synced_at` vacío y el daily les baja el historial completo de forma automática (ITAD guarda todo, no se perdió nada irrecuperable).
 - Con el sharding `appid % 20` todo caía en 2 archivos de ~50 MB.
 - El daily moría por el timeout de 6 h sin guardar nada: no tenía timeouts en los requests, escribía una sola vez al final y hacía 3 requests por juego.
 - Repo privado: se acababan los 2.000 min/mes hacia el día 7 de cada mes.
+- Onboarding anterior: cualquier excepción (incluso un timeout de red) marcaba el juego `not_found` para siempre.
 
-## Qué esperar en los primeros días
-- Unos 54k juegos para actualizar, de los cuales ~48,5k necesitan el historial completo. Con ~1–1,5 s por juego, cada daily hace entre 12k y 18k juegos, así que el backlog se termina en 4–5 días.
-- Onboarding (medido el 25-oct): ~49 juegos/min, ~74 % del límite de ITAD. Hasta 10.000 juegos o 150 min por corrida, 6 corridas al día ≈ 44.000 juegos/día: los ~112k pending terminan hacia el 28-oct.
-- **No agregar crons de onboarding entre las 15 y las ~21 UTC**: el grupo de concurrencia admite un solo run en espera, y uno nuevo cancela al que estaba esperando (podría cancelar el daily).
-- Si aparecen muchos 429, hay que bajar el ritmo subiendo `SLEEP_BETWEEN_GAMES` en `pipeline/config.py`. El límite de ITAD es de 1.000 requests cada 5 min.
+## Mediciones reales (25-oct)
+
+| | Ritmo | Requests/min | % del límite ITAD (200/min) |
+|---|---|---|---|
+| Onboarding (3 requests/juego) | 49 juegos/min, ~7.350 por run de 150 min | ~147 | ~74 % |
+| Daily (2 requests/juego) | 74,3 juegos/min, ~22.300 por run de 300 min | ~150 | ~75 % |
+
+- **Sin ningún 429.** El `sleep(0,3)` por juego es más de un tercio del tiempo del daily. Si los logs siguen limpios, se podría cambiar por un control de ritmo por request a ~180/min (+20 %). Por ahora se deja así por estabilidad.
+- **GitHub atrasa los crons**: el daily de las 15:00 partió a las 18:03 el 25-oct. El horario de onboarding lo aguanta porque el grupo de concurrencia deja un run en espera y no se pierde ninguno.
+- **No agregar crons de onboarding entre las 15 y las ~21**: el grupo de concurrencia admite un solo run en espera, y uno nuevo cancela al que estaba esperando (podría cancelar el daily).
+- Si aparecen 429 seguidos, hay que bajar el ritmo subiendo `SLEEP_BETWEEN_GAMES` en `pipeline/config.py`.
+
+### Primer daily v2 (25-oct, 18:03–23:03, se detuvo por presupuesto de tiempo)
+- 22.303 juegos: **populares 9.601 de 9.617 (listos a las ~20:12)**, medios 12.700 de 46.163, cola 2.
+- Recuperó el historial completo de 17.764 juegos. **Quedan 30.786 activos con `history_synced_at` vacío**, que se recuperan solos en los próximos dailies.
+- 16 errores por `"players": null` / `"stats": null` desde ITAD, ya corregidos (`or {}` en `build_snapshot_row`).
+- Backlog restante: popular 17, medio 33.461, cola 1.049.
+
+### Proyección (ritmos medidos; horas de Chile)
+
+| Hito | Cuándo |
+|---|---|
+| Populares con snapshot fresco | ✅ dom 25, 17:12 |
+| Medios atrasados al día | mar 27, ~17:30 (daily del lunes ~22.300 + martes ~11.200) |
+| Cola atrasada al día, backlog completo | mar 27, ~17:45 |
+| Onboarding completo (pending 111.757 → 0, 16 runs) | mié 28, ~05:00 |
+| 2ª vuelta de populares | mié 28, daily de la tarde (gracias al margen de 12 h) |
+| Medios vuelven todos juntos (actualizados en bloque) | 8–11 nov, daily más cargado (~20–25k), cabe en 5 h |
+| Régimen estable | ~8.800 juegos/día, ~2 h de daily. Los onboardings quedan vacíos (terminan en segundos); se pueden apagar |
+
+Cuando entren los 111k juegos nuevos, el ranking se recalcula: muchos medios con 0 jugadores bajan a cola (60 días), y eso puede adelantar los hitos de los medios.
 
 ## Pendientes / riesgos
 - **Tamaño del repo**: con los 175k juegos, price_history pesaría ~1,8 GB y snapshots seguiría creciendo. Por ahora sirve, pero a mediano plazo conviene Parquet o sacarlo de git (por ejemplo releases o almacenamiento externo).
