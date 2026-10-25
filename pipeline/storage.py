@@ -77,6 +77,9 @@ def build_history_rows(result):
 def build_snapshot_row(result):
     info = result["info"]
     today = datetime.now(timezone.utc).date().isoformat()
+    # ITAD a veces manda la clave con null ("players": null), por eso `or {}` y no get(k, {}).
+    players = info.get("players") or {}
+    stats = info.get("stats") or {}
 
     row = {
         "appid": info["appid"],
@@ -84,18 +87,18 @@ def build_snapshot_row(result):
         "title": info["title"],
         "date_checked": today,
         "release_date": info.get("releaseDate"),
-        "tags": ", ".join(info.get("tags", [])),
-        "developers": ", ".join(d["name"] for d in info.get("developers", [])),
-        "players_recent": info.get("players", {}).get("recent"),
-        "players_day": info.get("players", {}).get("day"),
-        "players_week": info.get("players", {}).get("week"),
-        "players_peak": info.get("players", {}).get("peak"),
-        "itad_rank": info.get("stats", {}).get("rank"),
-        "itad_waitlisted": info.get("stats", {}).get("waitlisted"),
-        "itad_collected": info.get("stats", {}).get("collected"),
+        "tags": ", ".join(info.get("tags") or []),
+        "developers": ", ".join(d["name"] for d in info.get("developers") or []),
+        "players_recent": players.get("recent"),
+        "players_day": players.get("day"),
+        "players_week": players.get("week"),
+        "players_peak": players.get("peak"),
+        "itad_rank": stats.get("rank"),
+        "itad_waitlisted": stats.get("waitlisted"),
+        "itad_collected": stats.get("collected"),
     }
 
-    for review in info.get("reviews", []):
+    for review in info.get("reviews") or []:
         source = review["source"].lower().replace(" ", "_")
         row[f"{source}_score"] = review["score"]
         row[f"{source}_count"] = review["count"]
