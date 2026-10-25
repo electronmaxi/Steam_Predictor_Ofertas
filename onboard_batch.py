@@ -15,8 +15,8 @@ from pipeline.itad import fetch_game
 from pipeline.runner import run_games
 from pipeline.storage import load_tracked, build_history_rows, build_snapshot_row
 
-BATCH_SIZE = env_int("BATCH_SIZE", 3000)
-MAX_RUNTIME_MIN = env_int("MAX_RUNTIME_MIN", 60)
+BATCH_SIZE = env_int("BATCH_SIZE", 10000)
+MAX_RUNTIME_MIN = env_int("MAX_RUNTIME_MIN", 150)
 
 
 def process_one(row):

@@ -2,7 +2,9 @@ name: Onboard New Games (lotes)
 
 on:
   schedule:
-    - cron: "0 2,6,10,14,22 * * *"
+    # Cada 3 h fuera de la ventana del daily (15:00 → ~20:30 UTC): el de las 12 termina
+    # antes de las 15 y el de las 21 parte cuando el daily ya terminó.
+    - cron: "0 21,0,3,6,9,12 * * *"
   workflow_dispatch:
 
 # Mismo grupo que el daily: nunca corren a la vez, así no chocan los push.
@@ -13,7 +15,7 @@ concurrency:
 jobs:
   onboard:
     runs-on: ubuntu-latest
-    timeout-minutes: 100
+    timeout-minutes: 175
     permissions:
       contents: write
 
@@ -33,11 +35,12 @@ jobs:
       # Igual que el daily: el script para solo, el paso tiene su propio timeout
       # y el commit corre igual para subir lo ya guardado.
       - name: Run onboarding batch
-        timeout-minutes: 80
+        timeout-minutes: 165
         env:
           ITAD_API_KEY: ${{ secrets.ITAD_API_KEY }}
           PYTHONUNBUFFERED: "1"   # que los print salgan en vivo en el log
-          MAX_RUNTIME_MIN: "60"
+          MAX_RUNTIME_MIN: "150"
+          BATCH_SIZE: "10000"
         run: python onboard_batch.py
 
       - name: Commit and push updated data

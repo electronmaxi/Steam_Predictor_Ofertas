@@ -8,7 +8,7 @@ Pipeline Python que recolecta precios e info de juegos de Steam vía la API de I
 
 ## Cómo funciona
 
-- **Onboarding** (`onboard_batch.py`, cron `0 2,6,10,14,22 * * *`): toma los `pending` en orden de appid, hace `lookup` + historial completo desde 2015 + `info` y los pasa a `active`. Solo `GameNotFound` los marca `not_found`; un error de red deja el juego `pending` para reintentarlo.
+- **Onboarding** (`onboard_batch.py`, cron `0 21,0,3,6,9,12 * * *`, cada 3 h fuera de la ventana del daily): toma los `pending` en orden de appid, hace `lookup` + historial completo desde 2015 + `info` y los pasa a `active`. Solo `GameNotFound` los marca `not_found`; un error de red deja el juego `pending` para reintentarlo.
 - **Daily** (`collect_data.py`, cron `0 15 * * *`): re-consulta los `active` que toca actualizar según su nivel de popularidad. Procesa primero los populares y, dentro de cada nivel, el más atrasado primero.
   - Puntaje = promedio del percentil en `itad_waitlisted` y `steam_count` del último snapshot. Se recalcula en cada corrida.
   - **popular**: top 10.000, cada 3 días. **medio**: hasta el puesto 60.000 o con `players_recent` > 0, cada 14 días. **cola**: el resto, cada 60 días. Se configura en `pipeline/config.py`.
@@ -18,8 +18,8 @@ Pipeline Python que recolecta precios e info de juegos de Steam vía la API de I
 - **Loop común** (`pipeline/runner.py`): corta limpio y guarda cuando pasa cualquiera de estas cosas: termina la lista, se agota `MAX_RUNTIME_MIN`, ITAD responde 429 o hay 25 errores seguidos. Además guarda un checkpoint a disco cada 500 juegos.
 
 ### Protección contra timeouts (3 capas)
-1. El script se detiene solo al cumplir `MAX_RUNTIME_MIN`: 300 en el daily, 60 en el onboarding.
-2. El paso de Python tiene `timeout-minutes` propio (320 / 80). Si algo se cuelga, GitHub corta ese paso y no todo el job.
+1. El script se detiene solo al cumplir `MAX_RUNTIME_MIN`: 300 en el daily, 150 en el onboarding.
+2. El paso de Python tiene `timeout-minutes` propio (320 / 165). Si algo se cuelga, GitHub corta ese paso y no todo el job.
 3. El paso de commit tiene `if: always()`: sube lo que haya en disco aunque el paso anterior haya fallado o lo hayan cortado. Gracias a los checkpoints, como mucho se pierden 500 juegos.
 
 Además: los requests tienen `timeout=(10, 30)`, y los dos workflows comparten `concurrency: steam-data-write`, así que nunca corren a la vez. Antes del push se hace `git pull --rebase`.
@@ -38,7 +38,8 @@ Además: los requests tienen `timeout=(10, 30)`, y los dos workflows comparten `
 
 ## Qué esperar en los primeros días
 - Unos 54k juegos para actualizar, de los cuales ~48,5k necesitan el historial completo. Con ~1–1,5 s por juego, cada daily hace entre 12k y 18k juegos, así que el backlog se termina en 4–5 días.
-- Onboarding: hasta 3.000 juegos o 60 min por corrida, 5 corridas al día. Los ~117k pending deberían estar listos en 2–3 semanas.
+- Onboarding (medido el 25-oct): ~49 juegos/min, ~74 % del límite de ITAD. Hasta 10.000 juegos o 150 min por corrida, 6 corridas al día ≈ 44.000 juegos/día: los ~112k pending terminan hacia el 28-oct.
+- **No agregar crons de onboarding entre las 15 y las ~21 UTC**: el grupo de concurrencia admite un solo run en espera, y uno nuevo cancela al que estaba esperando (podría cancelar el daily).
 - Si aparecen muchos 429, hay que bajar el ritmo subiendo `SLEEP_BETWEEN_GAMES` en `pipeline/config.py`. El límite de ITAD es de 1.000 requests cada 5 min.
 
 ## Pendientes / riesgos
