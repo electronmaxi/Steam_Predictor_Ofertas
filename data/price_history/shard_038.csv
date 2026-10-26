@@ -23615,3 +23615,594 @@ appid,game_id,title,timestamp,shop,price,regular,discount_pct
 2265380,018d937f-69ad-729a-b0d5-9b16da58059d,Seroutte,2023-11-02 17:34:37+00:00,Steam,0.99,0.99,0
 2265380,018d937f-69ad-729a-b0d5-9b16da58059d,Seroutte,2023-10-26 17:25:31+00:00,Steam,0.49,0.99,51
 2265380,018d937f-69ad-729a-b0d5-9b16da58059d,Seroutte,2023-02-10 20:03:20+00:00,Steam,0.99,0.99,0
+2269380,018d937f-6ba4-707d-94c6-ae3a904adefd,Lost Oliver,2026-10-08 18:50:39+00:00,Steam,0.99,0.99,0
+2269380,018d937f-6ba4-707d-94c6-ae3a904adefd,Lost Oliver,2026-10-01 17:55:35+00:00,Steam,0.49,0.99,51
+2269380,018d937f-6ba4-707d-94c6-ae3a904adefd,Lost Oliver,2026-07-09 18:11:03+00:00,Steam,0.99,0.99,0
+2269380,018d937f-6ba4-707d-94c6-ae3a904adefd,Lost Oliver,2026-06-25 17:19:16+00:00,Steam,0.64,0.99,35
+2269380,018d937f-6ba4-707d-94c6-ae3a904adefd,Lost Oliver,2025-10-06 18:23:05+00:00,Steam,0.99,0.99,0
+2269380,018d937f-6ba4-707d-94c6-ae3a904adefd,Lost Oliver,2025-09-29 19:36:38+00:00,Steam,0.49,0.99,51
+2269380,018d937f-6ba4-707d-94c6-ae3a904adefd,Lost Oliver,2025-07-10 18:25:53+00:00,Steam,0.99,0.99,0
+2269380,018d937f-6ba4-707d-94c6-ae3a904adefd,Lost Oliver,2025-07-01 23:33:29+00:00,Steam,0.74,0.99,25
+2269380,018d937f-6ba4-707d-94c6-ae3a904adefd,Lost Oliver,2025-06-16 17:41:00+00:00,Steam,0.99,0.99,0
+2269380,018d937f-6ba4-707d-94c6-ae3a904adefd,Lost Oliver,2025-06-09 20:29:43+00:00,Steam,0.74,0.99,25
+2269380,018d937f-6ba4-707d-94c6-ae3a904adefd,Lost Oliver,2025-04-14 17:24:57+00:00,Steam,0.99,0.99,0
+2269380,018d937f-6ba4-707d-94c6-ae3a904adefd,Lost Oliver,2025-04-09 23:30:27+00:00,Steam,0.69,0.99,30
+2269380,018d937f-6ba4-707d-94c6-ae3a904adefd,Lost Oliver,2025-03-04 21:15:34+00:00,Steam,0.99,0.99,0
+2269380,018d937f-6ba4-707d-94c6-ae3a904adefd,Lost Oliver,2025-02-28 16:18:17+00:00,Steam,0.49,0.99,51
+2269380,018d937f-6ba4-707d-94c6-ae3a904adefd,Lost Oliver,2024-07-11 18:39:21+00:00,Steam,0.99,0.99,0
+2269380,018d937f-6ba4-707d-94c6-ae3a904adefd,Lost Oliver,2024-06-27 17:46:36+00:00,Steam,0.89,0.99,10
+2269380,018d937f-6ba4-707d-94c6-ae3a904adefd,Lost Oliver,2024-04-16 17:18:25+00:00,Steam,0.99,0.99,0
+2269380,018d937f-6ba4-707d-94c6-ae3a904adefd,Lost Oliver,2024-04-09 17:18:14+00:00,Steam,0.74,0.99,25
+2269380,018d937f-6ba4-707d-94c6-ae3a904adefd,Lost Oliver,2024-03-21 17:49:14+00:00,Steam,0.99,0.99,0
+2269380,018d937f-6ba4-707d-94c6-ae3a904adefd,Lost Oliver,2024-03-14 17:40:36+00:00,Steam,0.49,0.99,51
+2269380,018d937f-6ba4-707d-94c6-ae3a904adefd,Lost Oliver,2024-02-19 18:20:16+00:00,Steam,0.99,0.99,0
+2269380,018d937f-6ba4-707d-94c6-ae3a904adefd,Lost Oliver,2024-02-12 18:18:52+00:00,Steam,0.79,0.99,20
+2269380,018d937f-6ba4-707d-94c6-ae3a904adefd,Lost Oliver,2024-01-04 21:45:01+00:00,Steam,0.99,0.99,0
+2269380,018d937f-6ba4-707d-94c6-ae3a904adefd,Lost Oliver,2023-12-21 22:56:46+00:00,Steam,0.74,0.99,25
+2269380,018d937f-6ba4-707d-94c6-ae3a904adefd,Lost Oliver,2023-11-28 21:33:49+00:00,Steam,0.99,0.99,0
+2269380,018d937f-6ba4-707d-94c6-ae3a904adefd,Lost Oliver,2023-11-21 21:46:14+00:00,Steam,0.49,0.99,51
+2269380,018d937f-6ba4-707d-94c6-ae3a904adefd,Lost Oliver,2023-07-13 20:49:02+00:00,Steam,0.99,0.99,0
+2269380,018d937f-6ba4-707d-94c6-ae3a904adefd,Lost Oliver,2023-06-29 20:44:02+00:00,Steam,0.29,0.99,71
+2269380,018d937f-6ba4-707d-94c6-ae3a904adefd,Lost Oliver,2023-04-24 17:20:37+00:00,Steam,0.99,0.99,0
+2269380,018d937f-6ba4-707d-94c6-ae3a904adefd,Lost Oliver,2023-04-17 17:04:40+00:00,Steam,0.27,0.99,73
+2269380,018d937f-6ba4-707d-94c6-ae3a904adefd,Lost Oliver,2023-03-16 20:47:56+00:00,Steam,0.99,0.99,0
+2269380,018d937f-6ba4-707d-94c6-ae3a904adefd,Lost Oliver,2023-03-09 21:48:14+00:00,Steam,0.59,0.99,40
+2271380,018d937f-6b09-7234-9fe8-f5dd6850d33d,SokoMage,2025-04-28 17:25:10+00:00,Steam,1.99,1.99,0
+2271380,018d937f-6b09-7234-9fe8-f5dd6850d33d,SokoMage,2025-04-21 17:18:10+00:00,Steam,0.69,1.99,65
+2271380,018d937f-6b09-7234-9fe8-f5dd6850d33d,SokoMage,2025-03-20 18:01:53+00:00,Steam,1.99,1.99,0
+2271380,018d937f-6b09-7234-9fe8-f5dd6850d33d,SokoMage,2025-03-13 19:44:33+00:00,Steam,0.69,1.99,65
+2271380,018d937f-6b09-7234-9fe8-f5dd6850d33d,SokoMage,2025-03-04 21:15:34+00:00,Steam,1.99,1.99,0
+2271380,018d937f-6b09-7234-9fe8-f5dd6850d33d,SokoMage,2025-02-28 16:18:18+00:00,Steam,0.69,1.99,65
+2271380,018d937f-6b09-7234-9fe8-f5dd6850d33d,SokoMage,2025-01-20 18:33:25+00:00,Steam,1.99,1.99,0
+2271380,018d937f-6b09-7234-9fe8-f5dd6850d33d,SokoMage,2025-01-13 18:22:37+00:00,Steam,0.99,1.99,50
+2271380,018d937f-6b09-7234-9fe8-f5dd6850d33d,SokoMage,2025-01-02 19:05:30+00:00,Steam,1.99,1.99,0
+2271380,018d937f-6b09-7234-9fe8-f5dd6850d33d,SokoMage,2024-12-20 11:33:40+00:00,Steam,0.69,1.99,65
+2271380,018d937f-6b09-7234-9fe8-f5dd6850d33d,SokoMage,2024-12-04 19:24:03+00:00,Steam,1.99,1.99,0
+2271380,018d937f-6b09-7234-9fe8-f5dd6850d33d,SokoMage,2024-11-27 20:10:23+00:00,Steam,0.69,1.99,65
+2271380,018d937f-6b09-7234-9fe8-f5dd6850d33d,SokoMage,2024-10-14 17:26:14+00:00,Steam,1.99,1.99,0
+2271380,018d937f-6b09-7234-9fe8-f5dd6850d33d,SokoMage,2024-10-07 17:25:42+00:00,Steam,0.69,1.99,65
+2271380,018d937f-6b09-7234-9fe8-f5dd6850d33d,SokoMage,2024-08-26 17:27:25+00:00,Steam,1.99,1.99,0
+2271380,018d937f-6b09-7234-9fe8-f5dd6850d33d,SokoMage,2024-08-19 17:17:17+00:00,Steam,0.69,1.99,65
+2271380,018d937f-6b09-7234-9fe8-f5dd6850d33d,SokoMage,2024-07-11 18:39:20+00:00,Steam,1.99,1.99,0
+2271380,018d937f-6b09-7234-9fe8-f5dd6850d33d,SokoMage,2024-06-27 17:53:58+00:00,Steam,0.69,1.99,65
+2271380,018d937f-6b09-7234-9fe8-f5dd6850d33d,SokoMage,2024-05-20 17:19:45+00:00,Steam,1.99,1.99,0
+2271380,018d937f-6b09-7234-9fe8-f5dd6850d33d,SokoMage,2024-05-13 17:17:36+00:00,Steam,0.69,1.99,65
+2271380,018d937f-6b09-7234-9fe8-f5dd6850d33d,SokoMage,2024-04-08 17:19:07+00:00,Steam,1.99,1.99,0
+2271380,018d937f-6b09-7234-9fe8-f5dd6850d33d,SokoMage,2024-04-01 17:15:53+00:00,Steam,0.69,1.99,65
+2271380,018d937f-6b09-7234-9fe8-f5dd6850d33d,SokoMage,2024-03-21 17:49:08+00:00,Steam,1.99,1.99,0
+2271380,018d937f-6b09-7234-9fe8-f5dd6850d33d,SokoMage,2024-03-14 17:43:18+00:00,Steam,0.69,1.99,65
+2271380,018d937f-6b09-7234-9fe8-f5dd6850d33d,SokoMage,2024-02-26 18:22:45+00:00,Steam,1.99,1.99,0
+2271380,018d937f-6b09-7234-9fe8-f5dd6850d33d,SokoMage,2024-02-19 18:19:08+00:00,Steam,0.69,1.99,65
+2271380,018d937f-6b09-7234-9fe8-f5dd6850d33d,SokoMage,2024-01-15 19:17:33+00:00,Steam,1.99,1.99,0
+2271380,018d937f-6b09-7234-9fe8-f5dd6850d33d,SokoMage,2024-01-08 18:20:46+00:00,Steam,0.69,1.99,65
+2271380,018d937f-6b09-7234-9fe8-f5dd6850d33d,SokoMage,2024-01-04 21:45:06+00:00,Steam,1.99,1.99,0
+2271380,018d937f-6b09-7234-9fe8-f5dd6850d33d,SokoMage,2023-12-21 22:56:50+00:00,Steam,0.79,1.99,60
+2271380,018d937f-6b09-7234-9fe8-f5dd6850d33d,SokoMage,2023-11-28 21:33:54+00:00,Steam,1.99,1.99,0
+2271380,018d937f-6b09-7234-9fe8-f5dd6850d33d,SokoMage,2023-11-21 21:46:18+00:00,Steam,0.99,1.99,50
+2271380,018d937f-6b09-7234-9fe8-f5dd6850d33d,SokoMage,2023-10-16 17:14:35+00:00,Steam,1.99,1.99,0
+2271380,018d937f-6b09-7234-9fe8-f5dd6850d33d,SokoMage,2023-10-09 17:11:43+00:00,Steam,1.19,1.99,40
+2271380,018d937f-6b09-7234-9fe8-f5dd6850d33d,SokoMage,2023-09-04 17:09:13+00:00,Steam,1.99,1.99,0
+2271380,018d937f-6b09-7234-9fe8-f5dd6850d33d,SokoMage,2023-08-28 17:11:10+00:00,Steam,1.19,1.99,40
+2271380,018d937f-6b09-7234-9fe8-f5dd6850d33d,SokoMage,2023-07-24 19:03:09+00:00,Steam,1.99,1.99,0
+2271380,018d937f-6b09-7234-9fe8-f5dd6850d33d,SokoMage,2023-07-17 17:17:49+00:00,Steam,1.39,1.99,30
+2271380,018d937f-6b09-7234-9fe8-f5dd6850d33d,SokoMage,2023-07-13 20:49:06+00:00,Steam,1.99,1.99,0
+2271380,018d937f-6b09-7234-9fe8-f5dd6850d33d,SokoMage,2023-06-29 20:44:05+00:00,Steam,1.39,1.99,30
+2271380,018d937f-6b09-7234-9fe8-f5dd6850d33d,SokoMage,2023-06-12 17:33:22+00:00,Steam,1.99,1.99,0
+2271380,018d937f-6b09-7234-9fe8-f5dd6850d33d,SokoMage,2023-06-05 17:08:28+00:00,Steam,1.39,1.99,30
+2271380,018d937f-6b09-7234-9fe8-f5dd6850d33d,SokoMage,2023-05-01 17:30:43+00:00,Steam,1.99,1.99,0
+2271380,018d937f-6b09-7234-9fe8-f5dd6850d33d,SokoMage,2023-04-24 17:52:30+00:00,Steam,1.49,1.99,25
+2271380,018d937f-6b09-7234-9fe8-f5dd6850d33d,SokoMage,2023-03-23 21:18:13+00:00,Steam,1.99,1.99,0
+2271380,018d937f-6b09-7234-9fe8-f5dd6850d33d,SokoMage,2023-03-16 19:48:06+00:00,Steam,1.59,1.99,20
+2271380,018d937f-6b09-7234-9fe8-f5dd6850d33d,SokoMage,2023-02-13 18:21:45+00:00,Steam,1.99,1.99,0
+2271380,018d937f-6b09-7234-9fe8-f5dd6850d33d,SokoMage,2023-02-06 19:47:36+00:00,Steam,1.59,1.99,20
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2026-10-19 17:29:32+00:00,Steam,5.99,5.99,0
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2026-10-12 17:23:51+00:00,Steam,2.99,5.99,50
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2026-10-08 18:50:42+00:00,Steam,5.99,5.99,0
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2026-10-01 19:10:38+00:00,Steam,2.99,5.99,50
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2026-09-07 17:29:12+00:00,Steam,5.99,5.99,0
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2026-08-31 17:19:59+00:00,Steam,2.99,5.99,50
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2026-07-26 17:17:54+00:00,Steam,5.99,5.99,0
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2026-07-19 17:15:44+00:00,Steam,2.99,5.99,50
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2026-07-09 18:11:04+00:00,Steam,5.99,5.99,0
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2026-06-25 19:08:23+00:00,Steam,2.99,5.99,50
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2026-06-19 17:17:14+00:00,Steam,5.99,5.99,0
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2026-06-12 17:22:36+00:00,Steam,2.99,5.99,50
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2026-05-13 17:15:32+00:00,Steam,5.99,5.99,0
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2026-05-06 17:18:41+00:00,Steam,2.99,5.99,50
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2026-04-06 17:27:11+00:00,Steam,5.99,5.99,0
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2026-03-30 17:21:40+00:00,Steam,2.99,5.99,50
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2026-03-26 18:11:54+00:00,Steam,5.99,5.99,0
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2026-03-19 19:34:51+00:00,Steam,2.99,5.99,50
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2026-02-28 18:17:09+00:00,Steam,5.99,5.99,0
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2026-02-21 18:18:33+00:00,Steam,2.99,5.99,50
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2026-01-19 18:33:05+00:00,Steam,5.99,5.99,0
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2026-01-12 18:28:13+00:00,Steam,2.99,5.99,50
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2026-01-05 19:32:12+00:00,Steam,5.99,5.99,0
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2025-12-18 20:29:48+00:00,Steam,2.99,5.99,50
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2025-12-10 18:15:50+00:00,Steam,5.99,5.99,0
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2025-12-03 18:19:42+00:00,Steam,2.99,5.99,50
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2025-11-03 18:27:13+00:00,Steam,5.99,5.99,0
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2025-10-27 17:32:24+00:00,Steam,2.99,5.99,50
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2025-10-06 18:23:06+00:00,Steam,5.99,5.99,0
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2025-09-29 20:18:14+00:00,Steam,2.99,5.99,50
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2025-08-28 17:15:57+00:00,Steam,5.99,5.99,0
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2025-08-21 17:19:00+00:00,Steam,2.99,5.99,50
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2025-07-21 17:24:04+00:00,Steam,5.99,5.99,0
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2025-07-14 17:26:00+00:00,Steam,2.99,5.99,50
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2025-07-10 18:11:18+00:00,Steam,5.99,5.99,0
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2025-06-26 22:00:11+00:00,Steam,2.99,5.99,50
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2025-05-26 19:27:30+00:00,Steam,5.99,5.99,0
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2025-05-19 17:42:17+00:00,Steam,2.99,5.99,50
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2025-04-16 17:19:00+00:00,Steam,5.99,5.99,0
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2025-04-09 17:15:50+00:00,Steam,2.99,5.99,50
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2025-03-20 18:01:57+00:00,Steam,5.99,5.99,0
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2025-03-13 19:50:15+00:00,Steam,2.99,5.99,50
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2025-03-10 17:20:07+00:00,Steam,5.99,5.99,0
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2025-03-03 18:18:10+00:00,Steam,2.99,5.99,50
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2025-01-22 18:18:37+00:00,Steam,5.99,5.99,0
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2025-01-15 18:18:33+00:00,Steam,2.99,5.99,50
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2025-01-02 19:05:31+00:00,Steam,5.99,5.99,0
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2024-12-19 23:17:40+00:00,Steam,2.99,5.99,50
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2024-12-16 18:19:41+00:00,Steam,5.99,5.99,0
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2024-12-09 18:20:09+00:00,Steam,2.99,5.99,50
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2024-12-04 19:24:04+00:00,Steam,5.99,5.99,0
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2024-11-27 20:49:20+00:00,Steam,2.99,5.99,50
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2024-11-04 18:24:00+00:00,Steam,5.99,5.99,0
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2024-10-28 17:31:41+00:00,Steam,2.99,5.99,50
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2024-09-02 17:27:47+00:00,Steam,5.99,5.99,0
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2024-08-26 17:23:57+00:00,Steam,2.99,5.99,50
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2024-07-22 17:23:44+00:00,Steam,5.99,5.99,0
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2024-07-15 17:25:06+00:00,Steam,2.99,5.99,50
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2024-07-11 18:39:20+00:00,Steam,5.99,5.99,0
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2024-06-27 18:15:59+00:00,Steam,1.49,5.99,75
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2024-06-03 17:20:16+00:00,Steam,5.99,5.99,0
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2024-05-27 17:21:33+00:00,Steam,2.99,5.99,50
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2024-04-22 17:22:46+00:00,Steam,5.99,5.99,0
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2024-04-15 17:21:23+00:00,Steam,1.79,5.99,70
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2024-03-21 17:49:20+00:00,Steam,5.99,5.99,0
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2024-03-14 17:54:58+00:00,Steam,2.69,5.99,55
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2024-03-11 17:21:31+00:00,Steam,5.99,5.99,0
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2024-03-04 18:22:34+00:00,Steam,2.39,5.99,60
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2024-01-29 19:07:09+00:00,Steam,5.99,5.99,0
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2024-01-22 18:40:54+00:00,Steam,2.99,5.99,50
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2024-01-04 21:45:25+00:00,Steam,5.99,5.99,0
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2023-12-21 22:57:06+00:00,Steam,2.99,5.99,50
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2023-12-18 20:09:58+00:00,Steam,5.99,5.99,0
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2023-12-11 19:39:37+00:00,Steam,2.99,5.99,50
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2023-11-28 21:34:11+00:00,Steam,5.99,5.99,0
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2023-11-21 21:46:35+00:00,Steam,2.99,5.99,50
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2023-11-06 18:33:51+00:00,Steam,5.99,5.99,0
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2023-10-30 17:29:55+00:00,Steam,2.99,5.99,50
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2023-09-25 19:09:44+00:00,Steam,5.99,5.99,0
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2023-09-18 17:38:35+00:00,Steam,2.99,5.99,50
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2023-08-16 20:33:50+00:00,Steam,5.99,5.99,0
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2023-07-31 17:33:33+00:00,Steam,3.99,3.99,0
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2023-07-26 17:33:28+00:00,Steam,1.99,3.99,50
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2023-07-13 20:49:22+00:00,Steam,3.99,3.99,0
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2023-06-29 22:08:58+00:00,Steam,1.99,3.99,50
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2023-04-06 17:19:54+00:00,Steam,3.99,3.99,0
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2023-03-16 19:37:43+00:00,Steam,2.59,3.99,35
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2023-02-09 12:18:21+00:00,Steam,3.99,3.99,0
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2023-02-02 18:25:15+00:00,Steam,2.99,2.99,0
+2278380,018d937f-6996-71cc-ba11-ad5703c1b54a,Haunting of the Evil Spirit - Horror Choose your own adventure Novel,2023-01-27 04:03:19+00:00,Steam,2.09,2.99,30
+2279380,018d937f-6b28-7032-b609-68939ba29e17,Nixxsz Castle,2026-03-26 18:11:54+00:00,Steam,0.99,0.99,0
+2279380,018d937f-6b28-7032-b609-68939ba29e17,Nixxsz Castle,2026-03-19 18:11:25+00:00,Steam,0.49,0.99,51
+2279380,018d937f-6b28-7032-b609-68939ba29e17,Nixxsz Castle,2026-01-05 19:32:13+00:00,Steam,0.99,0.99,0
+2279380,018d937f-6b28-7032-b609-68939ba29e17,Nixxsz Castle,2025-12-18 18:24:33+00:00,Steam,0.79,0.99,20
+2279380,018d937f-6b28-7032-b609-68939ba29e17,Nixxsz Castle,2025-11-03 18:27:13+00:00,Steam,0.99,0.99,0
+2279380,018d937f-6b28-7032-b609-68939ba29e17,Nixxsz Castle,2025-10-27 17:32:24+00:00,Steam,0.74,0.99,25
+2279380,018d937f-6b28-7032-b609-68939ba29e17,Nixxsz Castle,2025-10-06 18:23:06+00:00,Steam,0.99,0.99,0
+2279380,018d937f-6b28-7032-b609-68939ba29e17,Nixxsz Castle,2025-09-29 19:35:16+00:00,Steam,0.79,0.99,20
+2279380,018d937f-6b28-7032-b609-68939ba29e17,Nixxsz Castle,2025-07-10 18:11:18+00:00,Steam,0.99,0.99,0
+2279380,018d937f-6b28-7032-b609-68939ba29e17,Nixxsz Castle,2025-06-26 21:01:24+00:00,Steam,0.79,0.99,20
+2279380,018d937f-6b28-7032-b609-68939ba29e17,Nixxsz Castle,2025-03-20 18:02:00+00:00,Steam,0.99,0.99,0
+2279380,018d937f-6b28-7032-b609-68939ba29e17,Nixxsz Castle,2025-03-13 18:20:35+00:00,Steam,0.79,0.99,20
+2279380,018d937f-6b28-7032-b609-68939ba29e17,Nixxsz Castle,2025-01-02 19:05:31+00:00,Steam,0.99,0.99,0
+2279380,018d937f-6b28-7032-b609-68939ba29e17,Nixxsz Castle,2024-12-19 21:48:44+00:00,Steam,0.74,0.99,25
+2279380,018d937f-6b28-7032-b609-68939ba29e17,Nixxsz Castle,2024-12-04 19:24:04+00:00,Steam,0.99,0.99,0
+2279380,018d937f-6b28-7032-b609-68939ba29e17,Nixxsz Castle,2024-11-27 20:49:46+00:00,Steam,0.74,0.99,25
+2279380,018d937f-6b28-7032-b609-68939ba29e17,Nixxsz Castle,2024-11-04 18:24:00+00:00,Steam,0.99,0.99,0
+2279380,018d937f-6b28-7032-b609-68939ba29e17,Nixxsz Castle,2024-10-28 17:32:59+00:00,Steam,0.49,0.99,51
+2279380,018d937f-6b28-7032-b609-68939ba29e17,Nixxsz Castle,2024-09-13 17:18:41+00:00,Steam,0.99,0.99,0
+2279380,018d937f-6b28-7032-b609-68939ba29e17,Nixxsz Castle,2024-09-06 17:18:49+00:00,Steam,0.66,0.99,33
+2279380,018d937f-6b28-7032-b609-68939ba29e17,Nixxsz Castle,2024-07-11 18:39:21+00:00,Steam,0.99,0.99,0
+2279380,018d937f-6b28-7032-b609-68939ba29e17,Nixxsz Castle,2024-06-27 18:16:12+00:00,Steam,0.49,0.99,51
+2279380,018d937f-6b28-7032-b609-68939ba29e17,Nixxsz Castle,2024-06-03 17:20:16+00:00,Steam,0.99,0.99,0
+2279380,018d937f-6b28-7032-b609-68939ba29e17,Nixxsz Castle,2024-05-27 17:21:53+00:00,Steam,0.49,0.99,51
+2279380,018d937f-6b28-7032-b609-68939ba29e17,Nixxsz Castle,2024-04-22 17:22:46+00:00,Steam,0.99,0.99,0
+2279380,018d937f-6b28-7032-b609-68939ba29e17,Nixxsz Castle,2024-04-15 17:21:48+00:00,Steam,0.49,0.99,51
+2279380,018d937f-6b28-7032-b609-68939ba29e17,Nixxsz Castle,2024-03-21 17:52:41+00:00,Steam,0.99,0.99,0
+2279380,018d937f-6b28-7032-b609-68939ba29e17,Nixxsz Castle,2024-03-17 23:18:13+00:00,Steam,0.49,0.99,51
+2279380,018d937f-6b28-7032-b609-68939ba29e17,Nixxsz Castle,2024-03-11 17:18:59+00:00,Steam,0.99,0.99,0
+2279380,018d937f-6b28-7032-b609-68939ba29e17,Nixxsz Castle,2024-03-04 18:22:07+00:00,Steam,0.49,0.99,51
+2279380,018d937f-6b28-7032-b609-68939ba29e17,Nixxsz Castle,2024-01-29 19:07:09+00:00,Steam,0.99,0.99,0
+2279380,018d937f-6b28-7032-b609-68939ba29e17,Nixxsz Castle,2024-01-22 18:04:22+00:00,Steam,0.49,0.99,51
+2279380,018d937f-6b28-7032-b609-68939ba29e17,Nixxsz Castle,2024-01-04 21:45:27+00:00,Steam,0.99,0.99,0
+2279380,018d937f-6b28-7032-b609-68939ba29e17,Nixxsz Castle,2023-12-21 22:57:08+00:00,Steam,0.59,0.99,40
+2279380,018d937f-6b28-7032-b609-68939ba29e17,Nixxsz Castle,2023-12-18 18:08:38+00:00,Steam,0.99,0.99,0
+2279380,018d937f-6b28-7032-b609-68939ba29e17,Nixxsz Castle,2023-12-11 19:39:38+00:00,Steam,0.59,0.99,40
+2279380,018d937f-6b28-7032-b609-68939ba29e17,Nixxsz Castle,2023-11-28 21:34:14+00:00,Steam,0.99,0.99,0
+2279380,018d937f-6b28-7032-b609-68939ba29e17,Nixxsz Castle,2023-11-21 21:46:37+00:00,Steam,0.49,0.99,51
+2279380,018d937f-6b28-7032-b609-68939ba29e17,Nixxsz Castle,2023-08-07 17:39:32+00:00,Steam,0.99,0.99,0
+2279380,018d937f-6b28-7032-b609-68939ba29e17,Nixxsz Castle,2023-07-31 20:18:11+00:00,Steam,0.39,0.99,61
+2279380,018d937f-6b28-7032-b609-68939ba29e17,Nixxsz Castle,2023-07-13 20:49:25+00:00,Steam,0.99,0.99,0
+2279380,018d937f-6b28-7032-b609-68939ba29e17,Nixxsz Castle,2023-07-01 02:03:11+00:00,Steam,0.49,0.99,51
+2279380,018d937f-6b28-7032-b609-68939ba29e17,Nixxsz Castle,2023-07-01 01:18:17+00:00,Steam,0.99,0.99,0
+2283380,018d97d8-b1b9-71f4-9f51-b59b84aad51f,Charrua Soccer - Pro Edition,2026-10-16 17:15:32+00:00,Steam,11.99,11.99,0
+2283380,018d97d8-b1b9-71f4-9f51-b59b84aad51f,Charrua Soccer - Pro Edition,2026-10-09 17:18:33+00:00,Steam,5.99,11.99,50
+2283380,018d97d8-b1b9-71f4-9f51-b59b84aad51f,Charrua Soccer - Pro Edition,2026-10-08 18:50:43+00:00,Steam,11.99,11.99,0
+2283380,018d97d8-b1b9-71f4-9f51-b59b84aad51f,Charrua Soccer - Pro Edition,2026-10-01 17:54:35+00:00,Steam,5.99,11.99,50
+2283380,018d97d8-b1b9-71f4-9f51-b59b84aad51f,Charrua Soccer - Pro Edition,2026-07-09 18:13:57+00:00,Steam,11.99,11.99,0
+2283380,018d97d8-b1b9-71f4-9f51-b59b84aad51f,Charrua Soccer - Pro Edition,2026-06-11 17:25:47+00:00,Steam,5.99,11.99,50
+2283380,018d97d8-b1b9-71f4-9f51-b59b84aad51f,Charrua Soccer - Pro Edition,2026-04-20 17:18:39+00:00,Steam,11.99,11.99,0
+2283380,018d97d8-b1b9-71f4-9f51-b59b84aad51f,Charrua Soccer - Pro Edition,2026-04-13 17:21:09+00:00,Steam,5.99,11.99,50
+2283380,018d97d8-b1b9-71f4-9f51-b59b84aad51f,Charrua Soccer - Pro Edition,2026-03-26 18:11:54+00:00,Steam,11.99,11.99,0
+2283380,018d97d8-b1b9-71f4-9f51-b59b84aad51f,Charrua Soccer - Pro Edition,2026-03-19 19:54:27+00:00,Steam,5.99,11.99,50
+2283380,018d97d8-b1b9-71f4-9f51-b59b84aad51f,Charrua Soccer - Pro Edition,2026-03-09 17:21:34+00:00,Steam,11.99,11.99,0
+2283380,018d97d8-b1b9-71f4-9f51-b59b84aad51f,Charrua Soccer - Pro Edition,2026-03-02 18:21:55+00:00,Steam,5.99,11.99,50
+2283380,018d97d8-b1b9-71f4-9f51-b59b84aad51f,Charrua Soccer - Pro Edition,2026-01-26 18:20:55+00:00,Steam,11.99,11.99,0
+2283380,018d97d8-b1b9-71f4-9f51-b59b84aad51f,Charrua Soccer - Pro Edition,2026-01-19 18:26:44+00:00,Steam,5.99,11.99,50
+2283380,018d97d8-b1b9-71f4-9f51-b59b84aad51f,Charrua Soccer - Pro Edition,2026-01-05 18:26:14+00:00,Steam,11.99,11.99,0
+2283380,018d97d8-b1b9-71f4-9f51-b59b84aad51f,Charrua Soccer - Pro Edition,2025-12-18 20:35:53+00:00,Steam,5.99,11.99,50
+2283380,018d97d8-b1b9-71f4-9f51-b59b84aad51f,Charrua Soccer - Pro Edition,2025-12-15 18:18:32+00:00,Steam,11.99,11.99,0
+2283380,018d97d8-b1b9-71f4-9f51-b59b84aad51f,Charrua Soccer - Pro Edition,2025-12-08 18:21:23+00:00,Steam,5.99,11.99,50
+2283380,018d97d8-b1b9-71f4-9f51-b59b84aad51f,Charrua Soccer - Pro Edition,2025-11-03 18:27:14+00:00,Steam,11.99,11.99,0
+2283380,018d97d8-b1b9-71f4-9f51-b59b84aad51f,Charrua Soccer - Pro Edition,2025-10-27 17:32:24+00:00,Steam,5.99,11.99,50
+2283380,018d97d8-b1b9-71f4-9f51-b59b84aad51f,Charrua Soccer - Pro Edition,2025-10-06 18:23:06+00:00,Steam,11.99,11.99,0
+2283380,018d97d8-b1b9-71f4-9f51-b59b84aad51f,Charrua Soccer - Pro Edition,2025-09-29 20:52:54+00:00,Steam,5.99,11.99,50
+2283380,018d97d8-b1b9-71f4-9f51-b59b84aad51f,Charrua Soccer - Pro Edition,2025-09-15 17:23:42+00:00,Steam,11.99,11.99,0
+2283380,018d97d8-b1b9-71f4-9f51-b59b84aad51f,Charrua Soccer - Pro Edition,2025-09-08 17:21:56+00:00,Steam,5.99,11.99,50
+2283380,018d97d8-b1b9-71f4-9f51-b59b84aad51f,Charrua Soccer - Pro Edition,2025-08-04 17:23:47+00:00,Steam,11.99,11.99,0
+2283380,018d97d8-b1b9-71f4-9f51-b59b84aad51f,Charrua Soccer - Pro Edition,2025-07-28 17:49:23+00:00,Steam,5.99,11.99,50
+2283380,018d97d8-b1b9-71f4-9f51-b59b84aad51f,Charrua Soccer - Pro Edition,2025-07-10 18:11:19+00:00,Steam,11.99,11.99,0
+2283380,018d97d8-b1b9-71f4-9f51-b59b84aad51f,Charrua Soccer - Pro Edition,2025-06-26 22:22:53+00:00,Steam,5.99,11.99,50
+2283380,018d97d8-b1b9-71f4-9f51-b59b84aad51f,Charrua Soccer - Pro Edition,2025-06-02 18:59:39+00:00,Steam,11.99,11.99,0
+2283380,018d97d8-b1b9-71f4-9f51-b59b84aad51f,Charrua Soccer - Pro Edition,2025-05-26 18:05:19+00:00,Steam,5.99,11.99,50
+2283380,018d97d8-b1b9-71f4-9f51-b59b84aad51f,Charrua Soccer - Pro Edition,2025-04-21 17:22:27+00:00,Steam,11.99,11.99,0
+2283380,018d97d8-b1b9-71f4-9f51-b59b84aad51f,Charrua Soccer - Pro Edition,2025-04-14 17:21:47+00:00,Steam,5.99,11.99,50
+2283380,018d97d8-b1b9-71f4-9f51-b59b84aad51f,Charrua Soccer - Pro Edition,2025-03-20 18:04:56+00:00,Steam,11.99,11.99,0
+2283380,018d97d8-b1b9-71f4-9f51-b59b84aad51f,Charrua Soccer - Pro Edition,2025-03-13 19:50:20+00:00,Steam,5.99,11.99,50
+2283380,018d97d8-b1b9-71f4-9f51-b59b84aad51f,Charrua Soccer - Pro Edition,2025-03-10 22:33:04+00:00,Steam,11.99,11.99,0
+2283380,018d97d8-b1b9-71f4-9f51-b59b84aad51f,Charrua Soccer - Pro Edition,2025-03-03 18:18:14+00:00,Steam,5.99,11.99,50
+2283380,018d97d8-b1b9-71f4-9f51-b59b84aad51f,Charrua Soccer - Pro Edition,2025-01-27 18:38:40+00:00,Steam,11.99,11.99,0
+2283380,018d97d8-b1b9-71f4-9f51-b59b84aad51f,Charrua Soccer - Pro Edition,2025-01-20 18:33:58+00:00,Steam,5.99,11.99,50
+2283380,018d97d8-b1b9-71f4-9f51-b59b84aad51f,Charrua Soccer - Pro Edition,2024-12-16 18:19:39+00:00,Steam,11.99,11.99,0
+2283380,018d97d8-b1b9-71f4-9f51-b59b84aad51f,Charrua Soccer - Pro Edition,2024-12-09 18:17:54+00:00,Steam,5.99,11.99,50
+2283380,018d97d8-b1b9-71f4-9f51-b59b84aad51f,Charrua Soccer - Pro Edition,2024-11-04 18:23:59+00:00,Steam,11.99,11.99,0
+2283380,018d97d8-b1b9-71f4-9f51-b59b84aad51f,Charrua Soccer - Pro Edition,2024-10-28 17:52:01+00:00,Steam,5.99,11.99,50
+2283380,018d97d8-b1b9-71f4-9f51-b59b84aad51f,Charrua Soccer - Pro Edition,2024-09-23 17:23:26+00:00,Steam,11.99,11.99,0
+2283380,018d97d8-b1b9-71f4-9f51-b59b84aad51f,Charrua Soccer - Pro Edition,2024-09-16 17:20:36+00:00,Steam,5.99,11.99,50
+2283380,018d97d8-b1b9-71f4-9f51-b59b84aad51f,Charrua Soccer - Pro Edition,2024-08-12 17:18:00+00:00,Steam,11.99,11.99,0
+2283380,018d97d8-b1b9-71f4-9f51-b59b84aad51f,Charrua Soccer - Pro Edition,2024-08-05 17:20:47+00:00,Steam,5.99,11.99,50
+2283380,018d97d8-b1b9-71f4-9f51-b59b84aad51f,Charrua Soccer - Pro Edition,2024-07-01 17:18:13+00:00,Steam,11.99,11.99,0
+2283380,018d97d8-b1b9-71f4-9f51-b59b84aad51f,Charrua Soccer - Pro Edition,2024-06-24 17:15:28+00:00,Steam,5.99,11.99,50
+2283380,018d97d8-b1b9-71f4-9f51-b59b84aad51f,Charrua Soccer - Pro Edition,2024-05-20 17:19:45+00:00,Steam,11.99,11.99,0
+2283380,018d97d8-b1b9-71f4-9f51-b59b84aad51f,Charrua Soccer - Pro Edition,2024-05-13 17:17:44+00:00,Steam,5.99,11.99,50
+2283380,018d97d8-b1b9-71f4-9f51-b59b84aad51f,Charrua Soccer - Pro Edition,2024-04-08 17:19:07+00:00,Steam,11.99,11.99,0
+2283380,018d97d8-b1b9-71f4-9f51-b59b84aad51f,Charrua Soccer - Pro Edition,2024-04-01 17:15:43+00:00,Steam,5.99,11.99,50
+2283380,018d97d8-b1b9-71f4-9f51-b59b84aad51f,Charrua Soccer - Pro Edition,2024-02-26 18:22:46+00:00,Steam,11.99,11.99,0
+2283380,018d97d8-b1b9-71f4-9f51-b59b84aad51f,Charrua Soccer - Pro Edition,2024-02-19 18:19:12+00:00,Steam,5.99,11.99,50
+2283380,018d97d8-b1b9-71f4-9f51-b59b84aad51f,Charrua Soccer - Pro Edition,2024-01-18 14:04:10+00:00,Steam,11.99,11.99,0
+2283380,018d97d8-b1b9-71f4-9f51-b59b84aad51f,Charrua Soccer - Pro Edition,2024-01-04 21:45:41+00:00,Steam,8.99,8.99,0
+2283380,018d97d8-b1b9-71f4-9f51-b59b84aad51f,Charrua Soccer - Pro Edition,2023-12-21 22:57:22+00:00,Steam,6.29,8.99,30
+2283380,018d97d8-b1b9-71f4-9f51-b59b84aad51f,Charrua Soccer - Pro Edition,2023-12-18 18:39:51+00:00,Steam,8.99,8.99,0
+2283380,018d97d8-b1b9-71f4-9f51-b59b84aad51f,Charrua Soccer - Pro Edition,2023-12-11 19:39:40+00:00,Steam,6.29,8.99,30
+2283380,018d97d8-b1b9-71f4-9f51-b59b84aad51f,Charrua Soccer - Pro Edition,2023-11-28 21:34:28+00:00,Steam,8.99,8.99,0
+2283380,018d97d8-b1b9-71f4-9f51-b59b84aad51f,Charrua Soccer - Pro Edition,2023-11-21 21:46:48+00:00,Steam,6.29,8.99,30
+2283380,018d97d8-b1b9-71f4-9f51-b59b84aad51f,Charrua Soccer - Pro Edition,2023-10-30 17:49:32+00:00,Steam,8.99,8.99,0
+2283380,018d97d8-b1b9-71f4-9f51-b59b84aad51f,Charrua Soccer - Pro Edition,2023-10-23 17:08:43+00:00,Steam,7.19,8.99,20
+2283380,018d97d8-b1b9-71f4-9f51-b59b84aad51f,Charrua Soccer - Pro Edition,2023-09-01 17:19:18+00:00,Steam,8.99,8.99,0
+2283380,018d97d8-b1b9-71f4-9f51-b59b84aad51f,Charrua Soccer - Pro Edition,2023-08-25 23:03:15+00:00,Steam,7.91,8.99,12
+2284380,018d97d8-d29f-7282-8c60-ff0fc4373f43,The Regions,2024-01-04 21:45:43+00:00,Steam,12.99,12.99,0
+2284380,018d97d8-d29f-7282-8c60-ff0fc4373f43,The Regions,2023-12-21 22:57:24+00:00,Steam,9.09,12.99,30
+2284380,018d97d8-d29f-7282-8c60-ff0fc4373f43,The Regions,2023-11-28 21:34:31+00:00,Steam,12.99,12.99,0
+2284380,018d97d8-d29f-7282-8c60-ff0fc4373f43,The Regions,2023-11-21 21:46:50+00:00,Steam,9.09,12.99,30
+2284380,018d97d8-d29f-7282-8c60-ff0fc4373f43,The Regions,2023-07-13 20:49:38+00:00,Steam,12.99,12.99,0
+2284380,018d97d8-d29f-7282-8c60-ff0fc4373f43,The Regions,2023-06-29 20:44:28+00:00,Steam,9.09,12.99,30
+2284380,018d97d8-d29f-7282-8c60-ff0fc4373f43,The Regions,2023-04-27 17:16:23+00:00,Steam,12.99,12.99,0
+2284380,018d97d8-d29f-7282-8c60-ff0fc4373f43,The Regions,2023-04-21 03:18:13+00:00,Steam,9.09,12.99,30
+2296380,018d937f-7832-7131-9105-0dac2b3b18df,I Expect You To Die 3: Cog in the Machine,2026-10-08 18:50:49+00:00,Steam,24.99,24.99,0
+2296380,018d937f-7832-7131-9105-0dac2b3b18df,I Expect You To Die 3: Cog in the Machine,2026-10-01 20:13:18+00:00,Steam,12.49,24.99,50
+2296380,018d937f-7832-7131-9105-0dac2b3b18df,I Expect You To Die 3: Cog in the Machine,2026-09-27 17:16:29+00:00,Steam,24.99,24.99,0
+2296380,018d937f-7832-7131-9105-0dac2b3b18df,I Expect You To Die 3: Cog in the Machine,2026-09-13 17:18:45+00:00,Steam,12.49,24.99,50
+2296380,018d937f-7832-7131-9105-0dac2b3b18df,I Expect You To Die 3: Cog in the Machine,2026-08-14 17:18:27+00:00,Steam,24.99,24.99,0
+2296380,018d937f-7832-7131-9105-0dac2b3b18df,I Expect You To Die 3: Cog in the Machine,2026-07-31 17:18:03+00:00,Steam,12.49,24.99,50
+2296380,018d937f-7832-7131-9105-0dac2b3b18df,I Expect You To Die 3: Cog in the Machine,2026-07-09 18:13:58+00:00,Steam,24.99,24.99,0
+2296380,018d937f-7832-7131-9105-0dac2b3b18df,I Expect You To Die 3: Cog in the Machine,2026-06-25 18:50:19+00:00,Steam,12.49,24.99,50
+2296380,018d937f-7832-7131-9105-0dac2b3b18df,I Expect You To Die 3: Cog in the Machine,2026-06-13 17:16:10+00:00,Steam,24.99,24.99,0
+2296380,018d937f-7832-7131-9105-0dac2b3b18df,I Expect You To Die 3: Cog in the Machine,2026-05-30 17:17:19+00:00,Steam,12.49,24.99,50
+2296380,018d937f-7832-7131-9105-0dac2b3b18df,I Expect You To Die 3: Cog in the Machine,2026-04-30 17:16:47+00:00,Steam,24.99,24.99,0
+2296380,018d937f-7832-7131-9105-0dac2b3b18df,I Expect You To Die 3: Cog in the Machine,2026-04-16 17:20:02+00:00,Steam,12.49,24.99,50
+2296380,018d937f-7832-7131-9105-0dac2b3b18df,I Expect You To Die 3: Cog in the Machine,2026-03-26 18:11:56+00:00,Steam,24.99,24.99,0
+2296380,018d937f-7832-7131-9105-0dac2b3b18df,I Expect You To Die 3: Cog in the Machine,2026-03-19 20:13:49+00:00,Steam,12.49,24.99,50
+2296380,018d937f-7832-7131-9105-0dac2b3b18df,I Expect You To Die 3: Cog in the Machine,2026-03-17 17:16:04+00:00,Steam,24.99,24.99,0
+2296380,018d937f-7832-7131-9105-0dac2b3b18df,I Expect You To Die 3: Cog in the Machine,2026-03-03 18:16:51+00:00,Steam,12.49,24.99,50
+2296380,018d937f-7832-7131-9105-0dac2b3b18df,I Expect You To Die 3: Cog in the Machine,2026-01-31 18:20:10+00:00,Steam,24.99,24.99,0
+2296380,018d937f-7832-7131-9105-0dac2b3b18df,I Expect You To Die 3: Cog in the Machine,2026-01-19 18:26:45+00:00,Steam,12.49,24.99,50
+2296380,018d937f-7832-7131-9105-0dac2b3b18df,I Expect You To Die 3: Cog in the Machine,2026-01-05 19:32:15+00:00,Steam,24.99,24.99,0
+2296380,018d937f-7832-7131-9105-0dac2b3b18df,I Expect You To Die 3: Cog in the Machine,2025-12-18 20:42:48+00:00,Steam,12.49,24.99,50
+2296380,018d937f-7832-7131-9105-0dac2b3b18df,I Expect You To Die 3: Cog in the Machine,2025-12-16 18:15:51+00:00,Steam,24.99,24.99,0
+2296380,018d937f-7832-7131-9105-0dac2b3b18df,I Expect You To Die 3: Cog in the Machine,2025-12-02 18:21:45+00:00,Steam,12.49,24.99,50
+2296380,018d937f-7832-7131-9105-0dac2b3b18df,I Expect You To Die 3: Cog in the Machine,2025-11-02 17:15:27+00:00,Steam,24.99,24.99,0
+2296380,018d937f-7832-7131-9105-0dac2b3b18df,I Expect You To Die 3: Cog in the Machine,2025-10-23 17:19:07+00:00,Steam,12.49,24.99,50
+2296380,018d937f-7832-7131-9105-0dac2b3b18df,I Expect You To Die 3: Cog in the Machine,2025-10-06 18:23:08+00:00,Steam,24.99,24.99,0
+2296380,018d937f-7832-7131-9105-0dac2b3b18df,I Expect You To Die 3: Cog in the Machine,2025-09-29 21:03:03+00:00,Steam,12.49,24.99,50
+2296380,018d937f-7832-7131-9105-0dac2b3b18df,I Expect You To Die 3: Cog in the Machine,2025-09-23 17:19:02+00:00,Steam,24.99,24.99,0
+2296380,018d937f-7832-7131-9105-0dac2b3b18df,I Expect You To Die 3: Cog in the Machine,2025-09-09 17:18:13+00:00,Steam,12.49,24.99,50
+2296380,018d937f-7832-7131-9105-0dac2b3b18df,I Expect You To Die 3: Cog in the Machine,2025-07-24 17:19:15+00:00,Steam,24.99,24.99,0
+2296380,018d937f-7832-7131-9105-0dac2b3b18df,I Expect You To Die 3: Cog in the Machine,2025-06-26 22:23:22+00:00,Steam,12.49,24.99,50
+2296380,018d937f-7832-7131-9105-0dac2b3b18df,I Expect You To Die 3: Cog in the Machine,2025-06-04 17:43:13+00:00,Steam,24.99,24.99,0
+2296380,018d937f-7832-7131-9105-0dac2b3b18df,I Expect You To Die 3: Cog in the Machine,2025-05-21 17:15:45+00:00,Steam,14.99,24.99,40
+2296380,018d937f-7832-7131-9105-0dac2b3b18df,I Expect You To Die 3: Cog in the Machine,2025-04-21 17:18:17+00:00,Steam,24.99,24.99,0
+2296380,018d937f-7832-7131-9105-0dac2b3b18df,I Expect You To Die 3: Cog in the Machine,2025-04-07 17:20:25+00:00,Steam,14.99,24.99,40
+2296380,018d937f-7832-7131-9105-0dac2b3b18df,I Expect You To Die 3: Cog in the Machine,2025-03-20 18:04:58+00:00,Steam,24.99,24.99,0
+2296380,018d937f-7832-7131-9105-0dac2b3b18df,I Expect You To Die 3: Cog in the Machine,2025-03-13 19:38:46+00:00,Steam,14.99,24.99,40
+2296380,018d937f-7832-7131-9105-0dac2b3b18df,I Expect You To Die 3: Cog in the Machine,2025-03-01 18:18:31+00:00,Steam,24.99,24.99,0
+2296380,018d937f-7832-7131-9105-0dac2b3b18df,I Expect You To Die 3: Cog in the Machine,2025-02-15 18:18:36+00:00,Steam,14.99,24.99,40
+2296380,018d937f-7832-7131-9105-0dac2b3b18df,I Expect You To Die 3: Cog in the Machine,2025-01-16 18:19:14+00:00,Steam,24.99,24.99,0
+2296380,018d937f-7832-7131-9105-0dac2b3b18df,I Expect You To Die 3: Cog in the Machine,2024-12-19 21:48:47+00:00,Steam,14.99,24.99,40
+2296380,018d937f-7832-7131-9105-0dac2b3b18df,I Expect You To Die 3: Cog in the Machine,2024-12-04 19:24:08+00:00,Steam,24.99,24.99,0
+2296380,018d937f-7832-7131-9105-0dac2b3b18df,I Expect You To Die 3: Cog in the Machine,2024-11-20 18:16:00+00:00,Steam,14.99,24.99,40
+2296380,018d937f-7832-7131-9105-0dac2b3b18df,I Expect You To Die 3: Cog in the Machine,2024-10-21 17:19:16+00:00,Steam,24.99,24.99,0
+2296380,018d937f-7832-7131-9105-0dac2b3b18df,I Expect You To Die 3: Cog in the Machine,2024-10-07 17:25:41+00:00,Steam,14.99,24.99,40
+2296380,018d937f-7832-7131-9105-0dac2b3b18df,I Expect You To Die 3: Cog in the Machine,2024-09-07 17:18:49+00:00,Steam,24.99,24.99,0
+2296380,018d937f-7832-7131-9105-0dac2b3b18df,I Expect You To Die 3: Cog in the Machine,2024-08-24 17:16:29+00:00,Steam,15.99,24.99,36
+2296380,018d937f-7832-7131-9105-0dac2b3b18df,I Expect You To Die 3: Cog in the Machine,2024-07-25 17:18:31+00:00,Steam,24.99,24.99,0
+2296380,018d937f-7832-7131-9105-0dac2b3b18df,I Expect You To Die 3: Cog in the Machine,2024-06-27 18:22:04+00:00,Steam,15.99,24.99,36
+2296380,018d937f-7832-7131-9105-0dac2b3b18df,I Expect You To Die 3: Cog in the Machine,2024-06-10 17:19:04+00:00,Steam,24.99,24.99,0
+2296380,018d937f-7832-7131-9105-0dac2b3b18df,I Expect You To Die 3: Cog in the Machine,2024-05-27 17:22:08+00:00,Steam,17.49,24.99,30
+2296380,018d937f-7832-7131-9105-0dac2b3b18df,I Expect You To Die 3: Cog in the Machine,2024-04-26 17:18:21+00:00,Steam,24.99,24.99,0
+2296380,018d937f-7832-7131-9105-0dac2b3b18df,I Expect You To Die 3: Cog in the Machine,2024-04-12 17:18:37+00:00,Steam,17.49,24.99,30
+2296380,018d937f-7832-7131-9105-0dac2b3b18df,I Expect You To Die 3: Cog in the Machine,2024-03-21 17:31:00+00:00,Steam,24.99,24.99,0
+2296380,018d937f-7832-7131-9105-0dac2b3b18df,I Expect You To Die 3: Cog in the Machine,2024-03-14 17:49:58+00:00,Steam,17.49,24.99,30
+2296380,018d937f-7832-7131-9105-0dac2b3b18df,I Expect You To Die 3: Cog in the Machine,2024-03-01 18:18:10+00:00,Steam,24.99,24.99,0
+2296380,018d937f-7832-7131-9105-0dac2b3b18df,I Expect You To Die 3: Cog in the Machine,2024-02-16 18:18:24+00:00,Steam,17.49,24.99,30
+2296380,018d937f-7832-7131-9105-0dac2b3b18df,I Expect You To Die 3: Cog in the Machine,2024-01-04 21:46:14+00:00,Steam,24.99,24.99,0
+2296380,018d937f-7832-7131-9105-0dac2b3b18df,I Expect You To Die 3: Cog in the Machine,2023-12-22 00:19:45+00:00,Steam,19.99,24.99,20
+2296380,018d937f-7832-7131-9105-0dac2b3b18df,I Expect You To Die 3: Cog in the Machine,2023-12-11 20:24:46+00:00,Steam,24.99,24.99,0
+2296380,018d937f-7832-7131-9105-0dac2b3b18df,I Expect You To Die 3: Cog in the Machine,2023-12-04 19:41:17+00:00,Steam,19.99,24.99,20
+2296380,018d937f-7832-7131-9105-0dac2b3b18df,I Expect You To Die 3: Cog in the Machine,2023-11-28 21:35:04+00:00,Steam,24.99,24.99,0
+2296380,018d937f-7832-7131-9105-0dac2b3b18df,I Expect You To Die 3: Cog in the Machine,2023-11-21 21:48:38+00:00,Steam,19.99,24.99,20
+2296380,018d937f-7832-7131-9105-0dac2b3b18df,I Expect You To Die 3: Cog in the Machine,2023-10-05 17:05:32+00:00,Steam,24.99,24.99,0
+2296380,018d937f-7832-7131-9105-0dac2b3b18df,I Expect You To Die 3: Cog in the Machine,2023-09-28 17:04:00+00:00,Steam,22.49,24.99,10
+2300380,018d937f-739b-72cc-a370-45584403e928,Shadow of Ether,2026-10-08 18:50:51+00:00,Steam,10.99,10.99,0
+2300380,018d937f-739b-72cc-a370-45584403e928,Shadow of Ether,2026-10-01 17:23:16+00:00,Steam,2.19,10.99,80
+2300380,018d937f-739b-72cc-a370-45584403e928,Shadow of Ether,2026-01-05 19:32:15+00:00,Steam,10.99,10.99,0
+2300380,018d937f-739b-72cc-a370-45584403e928,Shadow of Ether,2025-12-18 19:32:43+00:00,Steam,3.29,10.99,70
+2300380,018d937f-739b-72cc-a370-45584403e928,Shadow of Ether,2025-11-03 18:27:14+00:00,Steam,10.99,10.99,0
+2300380,018d937f-739b-72cc-a370-45584403e928,Shadow of Ether,2025-10-27 17:32:25+00:00,Steam,2.19,10.99,80
+2300380,018d937f-739b-72cc-a370-45584403e928,Shadow of Ether,2025-10-06 18:23:08+00:00,Steam,10.99,10.99,0
+2300380,018d937f-739b-72cc-a370-45584403e928,Shadow of Ether,2025-10-01 12:59:18+00:00,Steam,4.39,10.99,60
+2300380,018d937f-739b-72cc-a370-45584403e928,Shadow of Ether,2025-03-20 18:04:58+00:00,Steam,10.99,10.99,0
+2300380,018d937f-739b-72cc-a370-45584403e928,Shadow of Ether,2025-03-13 18:20:11+00:00,Steam,2.74,10.99,75
+2300380,018d937f-739b-72cc-a370-45584403e928,Shadow of Ether,2025-01-02 19:05:12+00:00,Steam,10.99,10.99,0
+2300380,018d937f-739b-72cc-a370-45584403e928,Shadow of Ether,2024-12-20 11:33:43+00:00,Steam,2.19,10.99,80
+2300380,018d937f-739b-72cc-a370-45584403e928,Shadow of Ether,2024-11-04 18:23:59+00:00,Steam,10.99,10.99,0
+2300380,018d937f-739b-72cc-a370-45584403e928,Shadow of Ether,2024-10-28 17:28:24+00:00,Steam,2.19,10.99,80
+2300380,018d937f-739b-72cc-a370-45584403e928,Shadow of Ether,2024-07-11 18:39:26+00:00,Steam,10.99,10.99,0
+2300380,018d937f-739b-72cc-a370-45584403e928,Shadow of Ether,2024-06-27 17:45:59+00:00,Steam,2.74,10.99,75
+2300380,018d937f-739b-72cc-a370-45584403e928,Shadow of Ether,2024-04-01 17:21:41+00:00,Steam,10.99,10.99,0
+2300380,018d937f-739b-72cc-a370-45584403e928,Shadow of Ether,2024-03-25 17:18:17+00:00,Steam,4.94,10.99,55
+2300380,018d937f-739b-72cc-a370-45584403e928,Shadow of Ether,2024-02-12 18:19:37+00:00,Steam,10.99,10.99,0
+2300380,018d937f-739b-72cc-a370-45584403e928,Shadow of Ether,2024-02-05 18:39:45+00:00,Steam,5.49,10.99,50
+2300380,018d937f-739b-72cc-a370-45584403e928,Shadow of Ether,2024-01-04 21:46:26+00:00,Steam,10.99,10.99,0
+2300380,018d937f-739b-72cc-a370-45584403e928,Shadow of Ether,2023-12-21 22:58:01+00:00,Steam,5.49,10.99,50
+2300380,018d937f-739b-72cc-a370-45584403e928,Shadow of Ether,2023-11-02 17:33:53+00:00,Steam,10.99,10.99,0
+2300380,018d937f-739b-72cc-a370-45584403e928,Shadow of Ether,2023-10-26 17:27:33+00:00,Steam,7.69,10.99,30
+2300380,018d937f-739b-72cc-a370-45584403e928,Shadow of Ether,2023-08-09 16:03:13+00:00,Steam,10.99,10.99,0
+2302380,018d937f-700b-72d0-8833-0b0030c55c96,Bleeding Deities,2026-10-08 18:50:52+00:00,Steam,9.99,9.99,0
+2302380,018d937f-700b-72d0-8833-0b0030c55c96,Bleeding Deities,2026-10-01 17:54:19+00:00,Steam,1.99,9.99,80
+2302380,018d937f-700b-72d0-8833-0b0030c55c96,Bleeding Deities,2026-07-09 18:13:59+00:00,Steam,9.99,9.99,0
+2302380,018d937f-700b-72d0-8833-0b0030c55c96,Bleeding Deities,2026-06-25 18:34:28+00:00,Steam,3.99,9.99,60
+2302380,018d937f-700b-72d0-8833-0b0030c55c96,Bleeding Deities,2026-06-02 17:17:11+00:00,Steam,9.99,9.99,0
+2302380,018d937f-700b-72d0-8833-0b0030c55c96,Bleeding Deities,2026-05-26 17:17:55+00:00,Steam,2.99,9.99,70
+2302380,018d937f-700b-72d0-8833-0b0030c55c96,Bleeding Deities,2026-04-26 17:16:59+00:00,Steam,9.99,9.99,0
+2302380,018d937f-700b-72d0-8833-0b0030c55c96,Bleeding Deities,2026-04-12 17:15:55+00:00,Steam,3.99,9.99,60
+2302380,018d937f-700b-72d0-8833-0b0030c55c96,Bleeding Deities,2026-03-26 18:11:57+00:00,Steam,9.99,9.99,0
+2302380,018d937f-700b-72d0-8833-0b0030c55c96,Bleeding Deities,2026-03-19 18:40:51+00:00,Steam,1.99,9.99,80
+2302380,018d937f-700b-72d0-8833-0b0030c55c96,Bleeding Deities,2026-02-01 18:15:45+00:00,Steam,9.99,9.99,0
+2302380,018d937f-700b-72d0-8833-0b0030c55c96,Bleeding Deities,2026-01-24 18:18:49+00:00,Steam,4.99,9.99,50
+2302380,018d937f-700b-72d0-8833-0b0030c55c96,Bleeding Deities,2026-01-05 19:32:15+00:00,Steam,9.99,9.99,0
+2302380,018d937f-700b-72d0-8833-0b0030c55c96,Bleeding Deities,2025-12-18 20:30:03+00:00,Steam,2.49,9.99,75
+2302380,018d937f-700b-72d0-8833-0b0030c55c96,Bleeding Deities,2025-12-11 18:19:47+00:00,Steam,9.99,9.99,0
+2302380,018d937f-700b-72d0-8833-0b0030c55c96,Bleeding Deities,2025-12-04 18:20:20+00:00,Steam,3.99,9.99,60
+2302380,018d937f-700b-72d0-8833-0b0030c55c96,Bleeding Deities,2025-11-04 17:18:52+00:00,Steam,9.99,9.99,0
+2302380,018d937f-700b-72d0-8833-0b0030c55c96,Bleeding Deities,2025-10-27 17:32:25+00:00,Steam,2.99,9.99,70
+2302380,018d937f-700b-72d0-8833-0b0030c55c96,Bleeding Deities,2025-10-06 18:23:08+00:00,Steam,9.99,9.99,0
+2302380,018d937f-700b-72d0-8833-0b0030c55c96,Bleeding Deities,2025-09-29 21:02:50+00:00,Steam,4.99,9.99,50
+2302380,018d937f-700b-72d0-8833-0b0030c55c96,Bleeding Deities,2025-09-22 17:21:50+00:00,Steam,9.99,9.99,0
+2302380,018d937f-700b-72d0-8833-0b0030c55c96,Bleeding Deities,2025-09-15 17:23:03+00:00,Steam,6.99,9.99,30
+2302380,018d937f-700b-72d0-8833-0b0030c55c96,Bleeding Deities,2025-08-11 15:15:27+00:00,Steam,9.99,9.99,0
+2302380,018d937f-700b-72d0-8833-0b0030c55c96,Bleeding Deities,2025-07-28 15:18:36+00:00,Steam,6.99,9.99,30
+2302380,018d937f-700b-72d0-8833-0b0030c55c96,Bleeding Deities,2025-07-10 18:11:21+00:00,Steam,9.99,9.99,0
+2302380,018d937f-700b-72d0-8833-0b0030c55c96,Bleeding Deities,2025-06-26 22:49:12+00:00,Steam,4.99,9.99,50
+2302380,018d937f-700b-72d0-8833-0b0030c55c96,Bleeding Deities,2025-06-26 02:41:29+00:00,Steam,9.99,9.99,0
+2302380,018d937f-700b-72d0-8833-0b0030c55c96,Bleeding Deities,2025-05-30 19:30:27+00:00,Steam,11.99,11.99,0
+2302380,018d937f-700b-72d0-8833-0b0030c55c96,Bleeding Deities,2025-05-14 17:42:32+00:00,Steam,14.99,14.99,0
+2302380,018d937f-700b-72d0-8833-0b0030c55c96,Bleeding Deities,2025-04-30 17:18:26+00:00,Steam,12.74,14.99,15
+2305380,018d937f-6f8d-73f4-968b-5e6e1963bcd1,Attack on Hex Island,2026-10-08 18:50:53+00:00,Steam,9.99,9.99,0
+2305380,018d937f-6f8d-73f4-968b-5e6e1963bcd1,Attack on Hex Island,2026-10-01 19:53:11+00:00,Steam,3.99,9.99,60
+2305380,018d937f-6f8d-73f4-968b-5e6e1963bcd1,Attack on Hex Island,2026-09-21 17:28:54+00:00,Steam,9.99,9.99,0
+2305380,018d937f-6f8d-73f4-968b-5e6e1963bcd1,Attack on Hex Island,2026-09-14 17:21:35+00:00,Steam,3.99,9.99,60
+2305380,018d937f-6f8d-73f4-968b-5e6e1963bcd1,Attack on Hex Island,2026-08-10 17:21:35+00:00,Steam,9.99,9.99,0
+2305380,018d937f-6f8d-73f4-968b-5e6e1963bcd1,Attack on Hex Island,2026-08-03 17:29:08+00:00,Steam,3.99,9.99,60
+2305380,018d937f-6f8d-73f4-968b-5e6e1963bcd1,Attack on Hex Island,2026-07-15 18:03:20+00:00,Steam,9.99,9.99,0
+2305380,018d937f-6f8d-73f4-968b-5e6e1963bcd1,Attack on Hex Island,2026-07-09 18:13:59+00:00,Steam,14.99,14.99,0
+2305380,018d937f-6f8d-73f4-968b-5e6e1963bcd1,Attack on Hex Island,2026-06-25 19:12:02+00:00,Steam,3.74,14.99,75
+2305380,018d937f-6f8d-73f4-968b-5e6e1963bcd1,Attack on Hex Island,2026-06-22 17:20:15+00:00,Steam,14.99,14.99,0
+2305380,018d937f-6f8d-73f4-968b-5e6e1963bcd1,Attack on Hex Island,2026-06-15 17:21:12+00:00,Steam,4.49,14.99,70
+2305380,018d937f-6f8d-73f4-968b-5e6e1963bcd1,Attack on Hex Island,2026-05-11 17:35:04+00:00,Steam,14.99,14.99,0
+2305380,018d937f-6f8d-73f4-968b-5e6e1963bcd1,Attack on Hex Island,2026-05-04 17:21:56+00:00,Steam,4.49,14.99,70
+2305380,018d937f-6f8d-73f4-968b-5e6e1963bcd1,Attack on Hex Island,2026-03-26 18:11:57+00:00,Steam,14.99,14.99,0
+2305380,018d937f-6f8d-73f4-968b-5e6e1963bcd1,Attack on Hex Island,2026-03-19 19:08:44+00:00,Steam,5.24,14.99,65
+2305380,018d937f-6f8d-73f4-968b-5e6e1963bcd1,Attack on Hex Island,2026-02-16 18:28:08+00:00,Steam,14.99,14.99,0
+2305380,018d937f-6f8d-73f4-968b-5e6e1963bcd1,Attack on Hex Island,2026-02-09 18:28:00+00:00,Steam,5.99,14.99,60
+2305380,018d937f-6f8d-73f4-968b-5e6e1963bcd1,Attack on Hex Island,2026-01-05 18:21:42+00:00,Steam,14.99,14.99,0
+2305380,018d937f-6f8d-73f4-968b-5e6e1963bcd1,Attack on Hex Island,2025-12-18 19:38:41+00:00,Steam,5.99,14.99,60
+2305380,018d937f-6f8d-73f4-968b-5e6e1963bcd1,Attack on Hex Island,2025-11-10 18:19:00+00:00,Steam,14.99,14.99,0
+2305380,018d937f-6f8d-73f4-968b-5e6e1963bcd1,Attack on Hex Island,2025-11-03 18:19:00+00:00,Steam,7.49,14.99,50
+2305380,018d937f-6f8d-73f4-968b-5e6e1963bcd1,Attack on Hex Island,2025-10-06 18:23:09+00:00,Steam,14.99,14.99,0
+2305380,018d937f-6f8d-73f4-968b-5e6e1963bcd1,Attack on Hex Island,2025-09-29 19:35:44+00:00,Steam,10.49,14.99,30
+2305380,018d937f-6f8d-73f4-968b-5e6e1963bcd1,Attack on Hex Island,2025-07-10 18:11:21+00:00,Steam,14.99,14.99,0
+2305380,018d937f-6f8d-73f4-968b-5e6e1963bcd1,Attack on Hex Island,2025-06-26 21:59:28+00:00,Steam,10.49,14.99,30
+2305380,018d937f-6f8d-73f4-968b-5e6e1963bcd1,Attack on Hex Island,2025-05-19 17:46:38+00:00,Steam,14.99,14.99,0
+2305380,018d937f-6f8d-73f4-968b-5e6e1963bcd1,Attack on Hex Island,2025-05-12 17:50:21+00:00,Steam,10.49,14.99,30
+2305380,018d937f-6f8d-73f4-968b-5e6e1963bcd1,Attack on Hex Island,2025-03-20 18:04:59+00:00,Steam,14.99,14.99,0
+2305380,018d937f-6f8d-73f4-968b-5e6e1963bcd1,Attack on Hex Island,2025-03-13 18:24:29+00:00,Steam,11.24,14.99,25
+2305380,018d937f-6f8d-73f4-968b-5e6e1963bcd1,Attack on Hex Island,2025-01-08 19:03:11+00:00,Steam,14.99,14.99,0
+2305380,018d937f-6f8d-73f4-968b-5e6e1963bcd1,Attack on Hex Island,2025-01-02 19:05:10+00:00,Steam,19.99,19.99,0
+2305380,018d937f-6f8d-73f4-968b-5e6e1963bcd1,Attack on Hex Island,2024-12-20 01:18:39+00:00,Steam,14.99,19.99,25
+2305380,018d937f-6f8d-73f4-968b-5e6e1963bcd1,Attack on Hex Island,2024-12-04 19:24:09+00:00,Steam,19.99,19.99,0
+2305380,018d937f-6f8d-73f4-968b-5e6e1963bcd1,Attack on Hex Island,2024-11-27 19:38:24+00:00,Steam,14.99,19.99,25
+2305380,018d937f-6f8d-73f4-968b-5e6e1963bcd1,Attack on Hex Island,2024-08-02 05:18:29+00:00,Steam,19.99,19.99,0
+2305380,018d937f-6f8d-73f4-968b-5e6e1963bcd1,Attack on Hex Island,2024-01-26 16:24:51+00:00,Steam,14.99,14.99,0
+2306380,018d937f-6b4d-7394-bff2-1b53defdedb2,Sally Can't Sleep,2026-10-08 18:50:54+00:00,Steam,6.99,6.99,0
+2306380,018d937f-6b4d-7394-bff2-1b53defdedb2,Sally Can't Sleep,2026-10-01 17:54:37+00:00,Steam,4.19,6.99,40
+2306380,018d937f-6b4d-7394-bff2-1b53defdedb2,Sally Can't Sleep,2026-07-09 18:13:59+00:00,Steam,6.99,6.99,0
+2306380,018d937f-6b4d-7394-bff2-1b53defdedb2,Sally Can't Sleep,2026-06-25 17:37:03+00:00,Steam,4.19,6.99,40
+2306380,018d937f-6b4d-7394-bff2-1b53defdedb2,Sally Can't Sleep,2026-03-26 18:11:57+00:00,Steam,6.99,6.99,0
+2306380,018d937f-6b4d-7394-bff2-1b53defdedb2,Sally Can't Sleep,2026-03-19 18:10:26+00:00,Steam,4.19,6.99,40
+2306380,018d937f-6b4d-7394-bff2-1b53defdedb2,Sally Can't Sleep,2026-01-05 19:32:16+00:00,Steam,6.99,6.99,0
+2306380,018d937f-6b4d-7394-bff2-1b53defdedb2,Sally Can't Sleep,2025-12-18 19:14:10+00:00,Steam,4.19,6.99,40
+2306380,018d937f-6b4d-7394-bff2-1b53defdedb2,Sally Can't Sleep,2025-10-06 18:23:09+00:00,Steam,6.99,6.99,0
+2306380,018d937f-6b4d-7394-bff2-1b53defdedb2,Sally Can't Sleep,2025-09-29 19:36:30+00:00,Steam,4.19,6.99,40
+2306380,018d937f-6b4d-7394-bff2-1b53defdedb2,Sally Can't Sleep,2025-07-10 18:11:22+00:00,Steam,6.99,6.99,0
+2306380,018d937f-6b4d-7394-bff2-1b53defdedb2,Sally Can't Sleep,2025-06-26 20:59:36+00:00,Steam,4.19,6.99,40
+2306380,018d937f-6b4d-7394-bff2-1b53defdedb2,Sally Can't Sleep,2025-03-20 18:04:59+00:00,Steam,6.99,6.99,0
+2306380,018d937f-6b4d-7394-bff2-1b53defdedb2,Sally Can't Sleep,2025-03-13 18:20:34+00:00,Steam,4.19,6.99,40
+2306380,018d937f-6b4d-7394-bff2-1b53defdedb2,Sally Can't Sleep,2025-01-02 19:05:27+00:00,Steam,6.99,6.99,0
+2306380,018d937f-6b4d-7394-bff2-1b53defdedb2,Sally Can't Sleep,2024-12-20 11:33:45+00:00,Steam,4.19,6.99,40
+2306380,018d937f-6b4d-7394-bff2-1b53defdedb2,Sally Can't Sleep,2024-12-04 19:24:10+00:00,Steam,6.99,6.99,0
+2306380,018d937f-6b4d-7394-bff2-1b53defdedb2,Sally Can't Sleep,2024-11-27 19:39:46+00:00,Steam,4.19,6.99,40
+2306380,018d937f-6b4d-7394-bff2-1b53defdedb2,Sally Can't Sleep,2024-09-02 17:24:14+00:00,Steam,6.99,6.99,0
+2306380,018d937f-6b4d-7394-bff2-1b53defdedb2,Sally Can't Sleep,2024-08-26 17:17:55+00:00,Steam,4.19,6.99,40
+2306380,018d937f-6b4d-7394-bff2-1b53defdedb2,Sally Can't Sleep,2024-07-11 18:39:27+00:00,Steam,6.99,6.99,0
+2306380,018d937f-6b4d-7394-bff2-1b53defdedb2,Sally Can't Sleep,2024-06-27 17:47:19+00:00,Steam,3.84,6.99,45
+2306380,018d937f-6b4d-7394-bff2-1b53defdedb2,Sally Can't Sleep,2024-04-29 17:17:14+00:00,Steam,6.99,6.99,0
+2306380,018d937f-6b4d-7394-bff2-1b53defdedb2,Sally Can't Sleep,2024-04-22 17:21:38+00:00,Steam,4.19,6.99,40
+2306380,018d937f-6b4d-7394-bff2-1b53defdedb2,Sally Can't Sleep,2024-03-21 17:31:03+00:00,Steam,6.99,6.99,0
+2306380,018d937f-6b4d-7394-bff2-1b53defdedb2,Sally Can't Sleep,2024-03-14 17:35:08+00:00,Steam,4.19,6.99,40
+2306380,018d937f-6b4d-7394-bff2-1b53defdedb2,Sally Can't Sleep,2024-02-05 18:10:29+00:00,Steam,6.99,6.99,0
+2306380,018d937f-6b4d-7394-bff2-1b53defdedb2,Sally Can't Sleep,2024-01-29 18:11:41+00:00,Steam,4.19,6.99,40
+2306380,018d937f-6b4d-7394-bff2-1b53defdedb2,Sally Can't Sleep,2024-01-04 21:46:42+00:00,Steam,6.99,6.99,0
+2306380,018d937f-6b4d-7394-bff2-1b53defdedb2,Sally Can't Sleep,2023-12-22 00:19:47+00:00,Steam,4.19,6.99,40
+2306380,018d937f-6b4d-7394-bff2-1b53defdedb2,Sally Can't Sleep,2023-11-28 21:35:30+00:00,Steam,6.99,6.99,0
+2306380,018d937f-6b4d-7394-bff2-1b53defdedb2,Sally Can't Sleep,2023-11-21 21:49:06+00:00,Steam,4.19,6.99,40
+2306380,018d937f-6b4d-7394-bff2-1b53defdedb2,Sally Can't Sleep,2023-11-13 18:37:07+00:00,Steam,6.99,6.99,0
+2306380,018d937f-6b4d-7394-bff2-1b53defdedb2,Sally Can't Sleep,2023-11-06 18:28:35+00:00,Steam,4.19,6.99,40
+2306380,018d937f-6b4d-7394-bff2-1b53defdedb2,Sally Can't Sleep,2023-10-03 17:04:52+00:00,Steam,6.99,6.99,0
+2306380,018d937f-6b4d-7394-bff2-1b53defdedb2,Sally Can't Sleep,2023-09-26 17:03:29+00:00,Steam,3.84,6.99,45
+2306380,018d937f-6b4d-7394-bff2-1b53defdedb2,Sally Can't Sleep,2023-08-17 17:19:20+00:00,Steam,6.99,6.99,0
+2306380,018d937f-6b4d-7394-bff2-1b53defdedb2,Sally Can't Sleep,2023-08-10 17:21:43+00:00,Steam,4.19,6.99,40
+2306380,018d937f-6b4d-7394-bff2-1b53defdedb2,Sally Can't Sleep,2023-07-13 21:38:45+00:00,Steam,6.99,6.99,0
+2306380,018d937f-6b4d-7394-bff2-1b53defdedb2,Sally Can't Sleep,2023-06-29 20:44:56+00:00,Steam,3.84,6.99,45
+2306380,018d937f-6b4d-7394-bff2-1b53defdedb2,Sally Can't Sleep,2023-05-29 18:21:44+00:00,Steam,6.99,6.99,0
+2306380,018d937f-6b4d-7394-bff2-1b53defdedb2,Sally Can't Sleep,2023-05-22 17:22:20+00:00,Steam,4.19,6.99,40
+2306380,018d937f-6b4d-7394-bff2-1b53defdedb2,Sally Can't Sleep,2023-04-06 17:03:37+00:00,Steam,6.99,6.99,0
+2306380,018d937f-6b4d-7394-bff2-1b53defdedb2,Sally Can't Sleep,2023-03-30 17:31:06+00:00,Steam,4.19,6.99,40
+2306380,018d937f-6b4d-7394-bff2-1b53defdedb2,Sally Can't Sleep,2023-02-27 19:10:07+00:00,Steam,6.99,6.99,0
+2306380,018d937f-6b4d-7394-bff2-1b53defdedb2,Sally Can't Sleep,2023-02-20 13:18:23+00:00,Steam,5.59,6.99,20
+2312380,018d937f-6ffb-731f-acb4-e97c921d3850,Steel Racer,2026-10-22 13:00:52+00:00,Steam,0.99,0.99,0
+2312380,018d937f-6ffb-731f-acb4-e97c921d3850,Steel Racer,2026-10-14 14:45:31+00:00,Steam,3.99,3.99,0
+2312380,018d937f-6ffb-731f-acb4-e97c921d3850,Steel Racer,2026-10-13 14:00:32+00:00,Steam,4.99,4.99,0
+2312380,018d937f-6ffb-731f-acb4-e97c921d3850,Steel Racer,2026-10-08 18:50:56+00:00,Steam,6.99,6.99,0
+2312380,018d937f-6ffb-731f-acb4-e97c921d3850,Steel Racer,2026-09-17 17:20:40+00:00,Steam,2.79,6.99,60
+2312380,018d937f-6ffb-731f-acb4-e97c921d3850,Steel Racer,2026-08-18 17:15:40+00:00,Steam,6.99,6.99,0
+2312380,018d937f-6ffb-731f-acb4-e97c921d3850,Steel Racer,2026-08-04 17:17:44+00:00,Steam,2.79,6.99,60
+2312380,018d937f-6ffb-731f-acb4-e97c921d3850,Steel Racer,2026-07-09 18:14:00+00:00,Steam,6.99,6.99,0
+2312380,018d937f-6ffb-731f-acb4-e97c921d3850,Steel Racer,2026-06-11 17:26:07+00:00,Steam,2.79,6.99,60
+2312380,018d937f-6ffb-731f-acb4-e97c921d3850,Steel Racer,2026-05-11 17:28:25+00:00,Steam,6.99,6.99,0
+2312380,018d937f-6ffb-731f-acb4-e97c921d3850,Steel Racer,2026-04-27 17:20:29+00:00,Steam,2.79,6.99,60
+2312380,018d937f-6ffb-731f-acb4-e97c921d3850,Steel Racer,2026-03-26 18:11:58+00:00,Steam,6.99,6.99,0
+2312380,018d937f-6ffb-731f-acb4-e97c921d3850,Steel Racer,2026-03-19 19:00:30+00:00,Steam,2.79,6.99,60
+2312380,018d937f-6ffb-731f-acb4-e97c921d3850,Steel Racer,2026-02-12 18:19:33+00:00,Steam,6.99,6.99,0
+2312380,018d937f-6ffb-731f-acb4-e97c921d3850,Steel Racer,2026-01-29 18:21:39+00:00,Steam,2.79,6.99,60
+2312380,018d937f-6ffb-731f-acb4-e97c921d3850,Steel Racer,2026-01-05 19:32:16+00:00,Steam,6.99,6.99,0
+2312380,018d937f-6ffb-731f-acb4-e97c921d3850,Steel Racer,2025-12-18 20:18:23+00:00,Steam,2.79,6.99,60
+2312380,018d937f-6ffb-731f-acb4-e97c921d3850,Steel Racer,2025-12-05 17:15:40+00:00,Steam,6.99,6.99,0
+2312380,018d937f-6ffb-731f-acb4-e97c921d3850,Steel Racer,2025-11-27 17:18:13+00:00,Steam,4.19,6.99,40
+2312380,018d937f-6ffb-731f-acb4-e97c921d3850,Steel Racer,2025-10-27 16:48:13+00:00,Steam,6.99,6.99,0
+2312380,018d937f-6ffb-731f-acb4-e97c921d3850,Steel Racer,2025-10-06 18:23:10+00:00,Steam,4.99,4.99,0
+2312380,018d937f-6ffb-731f-acb4-e97c921d3850,Steel Racer,2025-09-29 20:02:55+00:00,Steam,1.99,4.99,60
+2312380,018d937f-6ffb-731f-acb4-e97c921d3850,Steel Racer,2025-08-04 17:28:48+00:00,Steam,4.99,4.99,0
+2312380,018d937f-6ffb-731f-acb4-e97c921d3850,Steel Racer,2025-07-28 17:49:25+00:00,Steam,2.99,4.99,40
+2312380,018d937f-6ffb-731f-acb4-e97c921d3850,Steel Racer,2025-07-10 18:11:24+00:00,Steam,4.99,4.99,0
+2312380,018d937f-6ffb-731f-acb4-e97c921d3850,Steel Racer,2025-06-12 18:10:36+00:00,Steam,2.99,4.99,40
+2312380,018d937f-6ffb-731f-acb4-e97c921d3850,Steel Racer,2025-05-12 17:55:34+00:00,Steam,4.99,4.99,0
+2312380,018d937f-6ffb-731f-acb4-e97c921d3850,Steel Racer,2025-04-28 17:22:44+00:00,Steam,2.99,4.99,40
+2312380,018d937f-6ffb-731f-acb4-e97c921d3850,Steel Racer,2025-03-20 18:05:00+00:00,Steam,4.99,4.99,0
+2312380,018d937f-6ffb-731f-acb4-e97c921d3850,Steel Racer,2025-03-13 19:44:36+00:00,Steam,2.99,3.99,25
+2312380,018d937f-6ffb-731f-acb4-e97c921d3850,Steel Racer,2025-03-05 18:18:16+00:00,Steam,3.99,3.99,0
+2312380,018d937f-6ffb-731f-acb4-e97c921d3850,Steel Racer,2025-02-19 18:18:42+00:00,Steam,2.99,3.99,25
+2312380,018d937f-6ffb-731f-acb4-e97c921d3850,Steel Racer,2025-01-20 18:32:54+00:00,Steam,3.99,3.99,0
+2312380,018d937f-6ffb-731f-acb4-e97c921d3850,Steel Racer,2025-01-06 18:32:04+00:00,Steam,2.99,3.99,25
+2312380,018d937f-6ffb-731f-acb4-e97c921d3850,Steel Racer,2025-01-02 19:05:12+00:00,Steam,3.99,3.99,0
+2312380,018d937f-6ffb-731f-acb4-e97c921d3850,Steel Racer,2024-12-19 21:48:50+00:00,Steam,2.99,4.99,40
+2312380,018d937f-6ffb-731f-acb4-e97c921d3850,Steel Racer,2024-12-04 19:24:11+00:00,Steam,4.99,4.99,0
+2312380,018d937f-6ffb-731f-acb4-e97c921d3850,Steel Racer,2024-11-27 21:02:56+00:00,Steam,3.99,4.99,20
+2312380,018d937f-6ffb-731f-acb4-e97c921d3850,Steel Racer,2024-11-11 17:18:28+00:00,Steam,4.99,4.99,0
+2312380,018d937f-6ffb-731f-acb4-e97c921d3850,Steel Racer,2024-10-28 17:52:06+00:00,Steam,3.99,4.99,20
+2312380,018d937f-6ffb-731f-acb4-e97c921d3850,Steel Racer,2024-09-26 11:30:27+00:00,Steam,4.99,4.99,0
+2312380,018d937f-6ffb-731f-acb4-e97c921d3850,Steel Racer,2024-09-12 11:30:24+00:00,Steam,3.99,4.99,20
+2312380,018d937f-6ffb-731f-acb4-e97c921d3850,Steel Racer,2024-08-09 03:18:29+00:00,Steam,4.99,4.99,0
+2312380,018d937f-6ffb-731f-acb4-e97c921d3850,Steel Racer,2024-07-26 03:18:13+00:00,Steam,3.99,4.99,20
+2312380,018d937f-6ffb-731f-acb4-e97c921d3850,Steel Racer,2024-07-11 18:38:50+00:00,Steam,4.99,4.99,0
+2312380,018d937f-6ffb-731f-acb4-e97c921d3850,Steel Racer,2024-06-27 18:36:32+00:00,Steam,3.99,4.99,20
+2312380,018d937f-6ffb-731f-acb4-e97c921d3850,Steel Racer,2024-06-17 17:16:54+00:00,Steam,4.99,4.99,0
+2312380,018d937f-6ffb-731f-acb4-e97c921d3850,Steel Racer,2024-06-10 17:18:36+00:00,Steam,3.99,4.99,20
+2312380,018d937f-6ffb-731f-acb4-e97c921d3850,Steel Racer,2024-03-21 17:31:06+00:00,Steam,4.99,4.99,0
+2312380,018d937f-6ffb-731f-acb4-e97c921d3850,Steel Racer,2024-03-14 17:40:50+00:00,Steam,3.99,4.99,20
+2312380,018d937f-6ffb-731f-acb4-e97c921d3850,Steel Racer,2024-02-20 03:03:03+00:00,Steam,4.99,4.99,0
+2312380,018d937f-6ffb-731f-acb4-e97c921d3850,Steel Racer,2024-02-15 03:03:08+00:00,Steam,3.99,4.99,20
+2312380,018d937f-6ffb-731f-acb4-e97c921d3850,Steel Racer,2024-01-04 21:51:36+00:00,Steam,4.99,4.99,0
+2312380,018d937f-6ffb-731f-acb4-e97c921d3850,Steel Racer,2023-12-21 22:58:30+00:00,Steam,3.99,4.99,20
+2312380,018d937f-6ffb-731f-acb4-e97c921d3850,Steel Racer,2023-11-28 21:35:48+00:00,Steam,4.99,4.99,0
+2312380,018d937f-6ffb-731f-acb4-e97c921d3850,Steel Racer,2023-11-21 21:49:22+00:00,Steam,3.99,4.99,20
+2312380,018d937f-6ffb-731f-acb4-e97c921d3850,Steel Racer,2023-10-09 17:53:31+00:00,Steam,4.99,4.99,0
+2312380,018d937f-6ffb-731f-acb4-e97c921d3850,Steel Racer,2023-06-19 19:33:09+00:00,Steam,3.99,4.99,20
+2322380,0191a25a-7e8b-7037-b363-150683bec07f,SpongeBob SquarePants™: The Patrick Star Game,2026-10-08 18:51:01+00:00,Steam,39.99,39.99,0
+2322380,0191a25a-7e8b-7037-b363-150683bec07f,SpongeBob SquarePants™: The Patrick Star Game,2026-10-01 19:17:10+00:00,Steam,17.99,39.99,55
+2322380,0191a25a-7e8b-7037-b363-150683bec07f,SpongeBob SquarePants™: The Patrick Star Game,2026-09-08 17:19:58+00:00,Steam,39.99,39.99,0
+2322380,0191a25a-7e8b-7037-b363-150683bec07f,SpongeBob SquarePants™: The Patrick Star Game,2026-08-25 17:17:43+00:00,Steam,19.99,39.99,50
+2322380,0191a25a-7e8b-7037-b363-150683bec07f,SpongeBob SquarePants™: The Patrick Star Game,2026-07-24 17:20:15+00:00,Steam,39.99,39.99,0
+2322380,0191a25a-7e8b-7037-b363-150683bec07f,SpongeBob SquarePants™: The Patrick Star Game,2026-07-10 17:16:48+00:00,Steam,15.99,39.99,60
+2322380,0191a25a-7e8b-7037-b363-150683bec07f,SpongeBob SquarePants™: The Patrick Star Game,2026-07-09 18:14:02+00:00,Steam,39.99,39.99,0
+2322380,0191a25a-7e8b-7037-b363-150683bec07f,SpongeBob SquarePants™: The Patrick Star Game,2026-06-25 18:39:14+00:00,Steam,15.99,39.99,60
+2322380,0191a25a-7e8b-7037-b363-150683bec07f,SpongeBob SquarePants™: The Patrick Star Game,2026-06-05 17:15:37+00:00,Steam,39.99,39.99,0
+2322380,0191a25a-7e8b-7037-b363-150683bec07f,SpongeBob SquarePants™: The Patrick Star Game,2026-05-22 17:17:36+00:00,Steam,19.99,39.99,50
+2322380,0191a25a-7e8b-7037-b363-150683bec07f,SpongeBob SquarePants™: The Patrick Star Game,2026-04-16 17:20:19+00:00,Steam,39.99,39.99,0
+2322380,0191a25a-7e8b-7037-b363-150683bec07f,SpongeBob SquarePants™: The Patrick Star Game,2026-04-02 17:19:11+00:00,Steam,17.99,39.99,55
+2322380,0191a25a-7e8b-7037-b363-150683bec07f,SpongeBob SquarePants™: The Patrick Star Game,2026-03-26 18:12:00+00:00,Steam,39.99,39.99,0
+2322380,0191a25a-7e8b-7037-b363-150683bec07f,SpongeBob SquarePants™: The Patrick Star Game,2026-03-19 17:28:35+00:00,Steam,17.99,39.99,55
+2322380,0191a25a-7e8b-7037-b363-150683bec07f,SpongeBob SquarePants™: The Patrick Star Game,2026-01-26 08:15:26+00:00,Steam,39.99,39.99,0
+2322380,0191a25a-7e8b-7037-b363-150683bec07f,SpongeBob SquarePants™: The Patrick Star Game,2026-01-16 08:18:20+00:00,Steam,17.99,39.99,55
+2322380,0191a25a-7e8b-7037-b363-150683bec07f,SpongeBob SquarePants™: The Patrick Star Game,2026-01-05 19:32:18+00:00,Steam,39.99,39.99,0
+2322380,0191a25a-7e8b-7037-b363-150683bec07f,SpongeBob SquarePants™: The Patrick Star Game,2025-12-18 20:23:59+00:00,Steam,17.99,39.99,55
+2322380,0191a25a-7e8b-7037-b363-150683bec07f,SpongeBob SquarePants™: The Patrick Star Game,2025-12-07 18:15:50+00:00,Steam,39.99,39.99,0
+2322380,0191a25a-7e8b-7037-b363-150683bec07f,SpongeBob SquarePants™: The Patrick Star Game,2025-12-01 18:21:25+00:00,Steam,19.99,39.99,50
+2322380,0191a25a-7e8b-7037-b363-150683bec07f,SpongeBob SquarePants™: The Patrick Star Game,2025-10-31 09:15:33+00:00,Steam,39.99,39.99,0
+2322380,0191a25a-7e8b-7037-b363-150683bec07f,SpongeBob SquarePants™: The Patrick Star Game,2025-10-17 09:30:33+00:00,Steam,19.99,39.99,50
+2322380,0191a25a-7e8b-7037-b363-150683bec07f,SpongeBob SquarePants™: The Patrick Star Game,2025-10-06 18:23:11+00:00,Steam,39.99,39.99,0
+2322380,0191a25a-7e8b-7037-b363-150683bec07f,SpongeBob SquarePants™: The Patrick Star Game,2025-09-29 20:42:13+00:00,Steam,19.99,39.99,50
+2322380,0191a25a-7e8b-7037-b363-150683bec07f,SpongeBob SquarePants™: The Patrick Star Game,2025-09-14 17:18:11+00:00,Steam,39.99,39.99,0
+2322380,0191a25a-7e8b-7037-b363-150683bec07f,SpongeBob SquarePants™: The Patrick Star Game,2025-09-05 17:18:36+00:00,Steam,19.99,39.99,50
+2322380,0191a25a-7e8b-7037-b363-150683bec07f,SpongeBob SquarePants™: The Patrick Star Game,2025-07-27 11:18:42+00:00,Steam,39.99,39.99,0
+2322380,0191a25a-7e8b-7037-b363-150683bec07f,SpongeBob SquarePants™: The Patrick Star Game,2025-07-17 11:18:13+00:00,Steam,19.99,39.99,50
+2322380,0191a25a-7e8b-7037-b363-150683bec07f,SpongeBob SquarePants™: The Patrick Star Game,2025-07-10 18:11:01+00:00,Steam,39.99,39.99,0
+2322380,0191a25a-7e8b-7037-b363-150683bec07f,SpongeBob SquarePants™: The Patrick Star Game,2025-06-26 22:23:22+00:00,Steam,19.99,39.99,50
+2322380,0191a25a-7e8b-7037-b363-150683bec07f,SpongeBob SquarePants™: The Patrick Star Game,2025-06-04 17:43:13+00:00,Steam,39.99,39.99,0
+2322380,0191a25a-7e8b-7037-b363-150683bec07f,SpongeBob SquarePants™: The Patrick Star Game,2025-05-25 17:19:05+00:00,Steam,19.99,39.99,50
+2322380,0191a25a-7e8b-7037-b363-150683bec07f,SpongeBob SquarePants™: The Patrick Star Game,2025-04-23 13:18:12+00:00,Steam,39.99,39.99,0
+2322380,0191a25a-7e8b-7037-b363-150683bec07f,SpongeBob SquarePants™: The Patrick Star Game,2025-04-11 13:18:04+00:00,Steam,25.99,39.99,35
+2322380,0191a25a-7e8b-7037-b363-150683bec07f,SpongeBob SquarePants™: The Patrick Star Game,2025-03-20 18:05:02+00:00,Steam,39.99,39.99,0
+2322380,0191a25a-7e8b-7037-b363-150683bec07f,SpongeBob SquarePants™: The Patrick Star Game,2025-03-13 19:24:40+00:00,Steam,31.99,39.99,20
+2322380,0191a25a-7e8b-7037-b363-150683bec07f,SpongeBob SquarePants™: The Patrick Star Game,2025-02-17 18:23:41+00:00,Steam,39.99,39.99,0
+2322380,0191a25a-7e8b-7037-b363-150683bec07f,SpongeBob SquarePants™: The Patrick Star Game,2025-02-06 18:21:27+00:00,Steam,31.99,39.99,20
+2322380,0191a25a-7e8b-7037-b363-150683bec07f,SpongeBob SquarePants™: The Patrick Star Game,2025-01-02 19:05:14+00:00,Steam,39.99,39.99,0
+2322380,0191a25a-7e8b-7037-b363-150683bec07f,SpongeBob SquarePants™: The Patrick Star Game,2024-12-19 21:48:51+00:00,Steam,31.99,39.99,20
+2322380,0191a25a-7e8b-7037-b363-150683bec07f,SpongeBob SquarePants™: The Patrick Star Game,2024-12-04 19:24:14+00:00,Steam,39.99,39.99,0
+2322380,0191a25a-7e8b-7037-b363-150683bec07f,SpongeBob SquarePants™: The Patrick Star Game,2024-11-27 21:11:41+00:00,Steam,35.99,39.99,10
+2322380,0191a25a-7e8b-7037-b363-150683bec07f,SpongeBob SquarePants™: The Patrick Star Game,2024-11-17 18:15:36+00:00,Steam,39.99,39.99,0
+2322380,0191a25a-7e8b-7037-b363-150683bec07f,SpongeBob SquarePants™: The Patrick Star Game,2024-11-08 18:15:44+00:00,Steam,35.99,39.99,10
+2322380,0191a25a-7e8b-7037-b363-150683bec07f,SpongeBob SquarePants™: The Patrick Star Game,2024-10-04 08:33:14+00:00,Steam,39.99,39.99,0
+2324380,018d937f-6d2a-705b-ad90-65727a7df701,Demons Infernalize,2024-03-01 19:18:09+00:00,Steam,0.0,0.0,0
